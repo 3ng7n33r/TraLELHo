@@ -1,0 +1,901 @@
+/* Navigation Menu - Background */
+.navigation {
+  /* critical sizing and position styles */
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+  
+  /* non-critical appearance styles */
+  list-style: none;
+  background: #373a47;
+}
+
+/* taille bouton menus */
+.nav-item {
+  /* non-critical appearance styles */
+  width: 150px;
+  height:75px;
+  border-top: 0px solid #111;
+  border-bottom: 0px solid #000;
+  color: black;
+}
+
+.nav-item a {
+  /* non-critical appearance styles */
+  display: block;
+  padding: 1em;
+  background-color: #373a47;
+  color: white;
+  font-size: 1.2em;
+  text-decoration: none;
+  -webkit-transition: color 0.2s, background 0.5s;
+  transition: color 0.2s, background 0.5s;
+}
+
+.nav-item a:hover {
+  color: #c74438;
+background-color: #373a47;
+}
+
+/* Site Wrapper - Everything that isn't navigation */
+.site-wrap {
+  /* Critical position and size styles */
+  min-height: 100%;
+  min-width: 100%;
+  background-color: #373a47; /* Needs a background or else the nav will show through */
+  position: relative;
+  top: 0;
+  bottom: 100%;
+  left: 0;
+  z-index: 0;
+  
+  /* non-critical apperance styles */
+  padding: 4em;
+background-color: #373a47;
+  background-size: 200%;
+}
+
+/* Nav Trigger */
+.nav-trigger {
+  /* critical styles - hide the checkbox input */
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  }
+
+label[for="nav-trigger"] {
+  /* bouton menu */
+  position: fixed;
+  left: 15px; top: 15px;
+  z-index: 2;
+  
+  /* non-critical apperance styles */
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  background-image: url("menu.png");
+  background-size: contain;
+}
+
+/* Make the Magic Happen */
+.nav-trigger + label, .site-wrap {
+  -webkit-transition: left 0.2s;
+  transition: left 0.2s;
+}
+
+.nav-trigger:checked + label {
+  left: 250px;
+}
+
+.nav-trigger:checked ~ .site-wrap {
+  left: 230px;
+  box-shadow: 0 0 0px 0px rgba(0,0,0,0.5);
+}
+
+body {
+	/* Without this, the body has excess horizontal scroll when the menu is open */
+  overflow-x: hidden;
+}
+
+/* Additional non-critical styles */
+
+.corps {
+ float:right;
+ margin-right:40%;
+  border:2px solid white;
+ 
+  }
+
+h1, h3, p {
+  max-width: 600px;
+  margin: 0 auto 1em;
+}
+
+code {
+	padding: 2px;
+	background: #ddd;
+}
+
+/* Micro reset */
+
+html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }
+
+@charset "iso-8859-1";
+*{/* reset */margin:0;padding:0;}
+	
+	
+#en_tete p
+{
+   margin-left:50px;
+   margin-top:0px;
+  font-family:,Arial, Helvetica, sans-serif;
+	font-size:70px;color:silver; font-weight:bold;letter-spacing:0.6px;white-space:nowrap;line-height:39px;
+  }	
+
+ .accueil{  } 
+  
+  #en_tete a{text-align:center;border:0px solid white;margin-left:10%; color:silver;font-size:20px; text-decoration:none; }
+  
+#navigationMenu li{	list-style:none;height:39px;padding:2px;width:40px;}
+#navigationMenu span{
+	/* Propriétés deu conteneur*/
+	width:0; left:38px; padding:0; position:absolute; overflow:hidden;
+	/* Propriétés du texte */
+	font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+	font-size:18px;font-weight:bold;letter-spacing:0.6px;white-space:nowrap;line-height:39px;
+	/* Transition: */
+	-webkit-transition: 0.25s;
+	-moz-transition: 0.25s;
+	transition: 0.25s;
+}
+
+#navigationMenu a{background:url("images/verdana3.png") no-repeat;height:39px;width:500px;display:block;position:relative;}
+/* Propiétés du survol */
+#navigationMenu a:hover span{ width:auto;margin-left:30px; padding:0px 20px;overflow:visible; }
+#navigationMenu a:hover{text-decoration:none;}
+/* Propriétés de l'ombre 
+	-moz-box-shadow:0 0 5px #9ddff5;
+	-webkit-box-shadow:0 0 5px #9ddff5;
+	box-shadow:0 0 5px #9ddff5;*/
+
+/* en cas d'ajout de bouton, faites correspondre les coordonnées de la position, la couleur etc... */
+/* le nom doit correspondre au navigationMenu.xxxxx */
+
+
+#navigationMenu .un {	background-position:0px -5px;height:39px;width:900px;}
+#navigationMenu .un:hover {	background-position:0px -5px;}
+#navigationMenu .un span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .deux { background-position:0px -60px;height:39px;width:900px;}
+#navigationMenu .deux:hover { background-position:0px -60px;}
+#navigationMenu .deux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trois { background-position:0px -115px;height:39px;width:900px;}
+#navigationMenu .trois:hover { background-position:0px -115px;}
+#navigationMenu .trois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quatre { background-position:0px -165px;height:39px;width:900px;}
+#navigationMenu .quatre:hover{ background-position: 0px -165px;}
+#navigationMenu .quatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinq { background-position:0px -220px;height:39px;width:900px;}
+#navigationMenu .cinq:hover{ background-position:0px -220px;}
+#navigationMenu .cinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .six { background-position:0px -275px;height:39px;width:900px;}
+#navigationMenu .six:hover{ background-position: 0px -275px;}
+#navigationMenu .six span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .sept { background-position:0px -330px;height:39px;width:900px;}
+#navigationMenu .sept:hover{ background-position: 0px -330px;}
+#navigationMenu .sept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .huit { background-position:0px -380px;height:39px;width:900px;}
+#navigationMenu .huit:hover{ background-position: 0px -380px;}
+#navigationMenu .huit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .neuf { background-position:0px -435px;height:39px;width:900px;}
+#navigationMenu .neuf:hover{ background-position: 0px -435px;}
+#navigationMenu .neuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dix { background-position:0px -490px;height:39px;width:900px;}
+#navigationMenu .dix:hover{ background-position: 0px -490px;}
+#navigationMenu .dix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .onze { background-position:0px -540px;height:39px;width:900px;}
+#navigationMenu .onze:hover{ background-position: 0px -540px;}
+#navigationMenu .onze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .douze { background-position:0px -595px;height:39px;width:400px;}
+#navigationMenu .douze:hover{ background-position: 0px -595px;}
+#navigationMenu .douze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .treize { background-position:0px -650px;height:39px;width:400px;}
+#navigationMenu .treize:hover{ background-position: 0px -650px;}
+#navigationMenu .treize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quatorze { background-position:0px -700px;height:39px;width:400px;}
+#navigationMenu .quatorze:hover{ background-position: 0px -700px;}
+#navigationMenu .quatorze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quinze { background-position:0px -755px;height:39px;width:1000px}
+#navigationMenu .quinze:hover{ background-position: 0px -755px;}
+#navigationMenu .quinze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .seize { background-position:0px -810px;height:39px;width:900px;}
+#navigationMenu .seize:hover{ background-position: 0px -810px;}
+#navigationMenu .seize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixs { background-position:0px -860px;height:39px;width:900px;}
+#navigationMenu .dixs:hover{ background-position:0px -860px;}
+#navigationMenu .dixs span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixh { background-position:0px -915px;height:39px;width:900px;}
+#navigationMenu .dixh:hover{ background-position: 0px -915px;}
+#navigationMenu .dixh span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixn { background-position:0px -965px;height:39px;width:900px;}
+#navigationMenu .dixn:hover{ background-position: 0px -965px;}
+#navigationMenu .dixn span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingt { background-position:0px -1020px;height:39px;width:900px;}
+#navigationMenu .vingt:hover{ background-position: 0px -1020px;}
+#navigationMenu .vingt span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingtun { background-position:0px -1070px;height:39px;width:900px;}
+#navigationMenu .vingtun:hover{ background-position: 0px -1070px;}
+#navigationMenu .vingtun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingtdeux { background-position:0px -1120px;height:39px;width:900px;}
+#navigationMenu .vingtdeux:hover{ background-position: 0px -1120px;}
+#navigationMenu .vingtdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingttrois { background-position:0px -1175px;height:39px;width:900px;}
+#navigationMenu .vingttrois:hover{ background-position: 0px -1175px;}
+#navigationMenu .vingttrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vquatre { background-position:0px -1230px;height:39px;width:900px;}
+#navigationMenu .vquatre:hover{ background-position: 0px -1230px;}
+#navigationMenu .vquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vcinq { background-position:0px -1285px;height:39px;width:900px;}
+#navigationMenu .vcinq:hover{ background-position: 0px -1285px;}
+#navigationMenu .vcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vsix { background-position:0px -1340px;height:39px;width:900px;}
+#navigationMenu .vsix:hover{ background-position: 0px -1340px;}
+#navigationMenu .vsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vsept { background-position:0px -1390px;height:39px;width:900px;}
+#navigationMenu .vsept:hover{ background-position: 0px -1390px;}
+#navigationMenu .vsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vhuit { background-position:0px -1440px;height:39px;width:900px;}
+#navigationMenu .vhuit:hover{ background-position: 0px -1440px;}
+#navigationMenu .vhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vneuf { background-position:0px -1490px;height:39px;width:900px;}
+#navigationMenu .vneuf:hover{ background-position: 0px -1490px;}
+#navigationMenu .vneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trente { background-position:0px -1545px;height:39px;width:900px;}
+#navigationMenu .trente:hover{ background-position: 0px -1545px;}
+#navigationMenu .trente span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trenteun { background-position:0px -1600px;height:39px;width:900px;}
+#navigationMenu .trenteun:hover{ background-position: 0px -1600px;}
+#navigationMenu .trenteun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trented { background-position:0px -1650px;height:39px;width:900px;}
+#navigationMenu .trented:hover{ background-position: 0px -1650px;}
+#navigationMenu .trented span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentet { background-position:0px -1705px;height:39px;width:500px;}
+#navigationMenu .trentet:hover{ background-position: 0px -1705px;}
+#navigationMenu .trentet span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trenteq { background-position:0px -1755px;height:39px;width:900px;}
+#navigationMenu .trenteq:hover{ background-position: 0px -1755px;}
+#navigationMenu .trenteq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentec { background-position:0px -1805px;height:39px;width:1000px;}
+#navigationMenu .trentec:hover{ background-position: 0px -1805px;}
+#navigationMenu .trentec span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentes { background-position:0px -1860px;height:39px;width:900px;}
+#navigationMenu .trentes:hover{ background-position: 0px -1860px;}
+#navigationMenu .trentes span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentesept { background-position:0px -1915px;height:39px;width:900px;}
+#navigationMenu .trentesept:hover{ background-position: 0px -1915px;}
+#navigationMenu .trentesept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .thuit { background-position:0px -1970px;height:39px;width:900px;}
+#navigationMenu .thuit:hover{ background-position: 0px -1970px;}
+#navigationMenu .thuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .tneuf { background-position:0px -2030px;height:39px;width:900px;}
+#navigationMenu .tneuf:hover{ background-position: 0px -2030px;}
+#navigationMenu .tneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quarante { background-position:0px -2080px;height:39px;width:900px;}
+#navigationMenu .quarante:hover{ background-position: 0px -2080px;}
+#navigationMenu .quarante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qun { background-position:0px -2135px;height:39px;width:900px;}
+#navigationMenu .qun:hover{ background-position: 0px -2135px;}
+#navigationMenu .qun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qdeux { background-position:0px -2185px;height:39px;width:900px;}
+#navigationMenu .qdeux:hover{ background-position: 0px -2185px;}
+#navigationMenu .qdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qtrois { background-position:0px -2240px;height:39px;width:900px;}
+#navigationMenu .qtrois:hover{ background-position: 0px -2240px;}
+#navigationMenu .qtrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qquatre { background-position:0px -2290px;height:39px;width:900px;}
+#navigationMenu .qquatre:hover{ background-position: 0px -2290px;}
+#navigationMenu .qquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qcinq { background-position:0px -2345px;height:39px;width:900px;}
+#navigationMenu .qcinq:hover{ background-position: 0px -2345px;}
+#navigationMenu .qcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qsix { background-position:0px -2395px;height:39px;width:900px;}
+#navigationMenu .qsix:hover{ background-position: 0px -2395px;}
+#navigationMenu .qsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qsept { background-position:0px -2450px;height:39px;width:900px;}
+#navigationMenu .qsept:hover{ background-position: 0px -2450px;}
+#navigationMenu .qsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qhuit { background-position:0px -2505px;height:39px;width:900px;}
+#navigationMenu .qhuit:hover{ background-position: 0px -2505px;}
+#navigationMenu .qhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qneuf { background-position:0px -2555px;height:39px;width:900px;}
+#navigationMenu .qneuf:hover{ background-position: 0px -2555px;}
+#navigationMenu .qneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+
+
+#navigationMenu .cinquante { background-position:0px -2610px;height:39px;width:900px;}
+#navigationMenu .cinquante:hover{ background-position: 0px -2610px;}
+#navigationMenu .cinquante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquanteun { background-position:0px -2665px;height:39px;width:900px;}
+#navigationMenu .cinquanteun:hover{ background-position: 0px -2665px;}
+#navigationMenu .cinquanteun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantedeux { background-position:0px -2720px;height:39px;width:900px;}
+#navigationMenu .cinquantedeux:hover{ background-position: 0px -2720px;}
+#navigationMenu .cinquantedeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantetrois { background-position:0px -2770px;height:39px;width:900px;}
+#navigationMenu .cinquantetrois:hover{ background-position: 0px -2770px;}
+#navigationMenu .cinquantetrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantequatre { background-position:0px -2820px;height:39px;width:900px;}
+#navigationMenu .cinquantequatre:hover{ background-position: 0px -2820px;}
+#navigationMenu .cinquantequatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantecinq { background-position:0px -8280px;height:39px;width:900px;}
+#navigationMenu .cinquantecinq:hover{ background-position: 0px -8280px;}
+#navigationMenu .cinquantecinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantesix { background-position:0px -2930px;height:39px;width:900px;}
+#navigationMenu .cinquantesix:hover{ background-position: 0px -2930px;}
+#navigationMenu .cinquantesix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantesept { background-position:0px -2980px;height:39px;width:900px;}
+#navigationMenu .cinquantesept:hover{ background-position: 0px -2980px;}
+#navigationMenu .cinquantesept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquantehuit { background-position:0px -3030px;height:39px;width:900px;}
+#navigationMenu .cinquantehuit:hover{ background-position: 0px -3030px;}
+#navigationMenu .cinquantehuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinquanteneuf { background-position:0px -3085px;height:39px;width:900px;}
+#navigationMenu .cinquanteneuf:hover{ background-position: 0px -3085px;}
+#navigationMenu .cinquanteneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixante { background-position:0px -3140px;height:39px;width:900px;}
+#navigationMenu .soixante:hover{ background-position: 0px -3140px;}
+#navigationMenu .soixante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixanteun { background-position:0px -3190px;height:39px;width:900px;}
+#navigationMenu .soixanteun:hover{ background-position: 0px -3190px;}
+#navigationMenu .soixanteun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedeux { background-position:0px -3240px;height:39px;width:900px;}
+#navigationMenu .soixantedeux:hover{ background-position: 0px -3240px;}
+#navigationMenu .soixantedeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantetrois { background-position:0px -3295px;height:39px;width:900px;}
+#navigationMenu .soixantetrois:hover{ background-position: 0px -3295px;}
+#navigationMenu .soixantetrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantequatre { background-position:0px -3350px;height:39px;width:900px;}
+#navigationMenu .soixantequatre:hover{ background-position: 0px -3350px;}
+#navigationMenu .soixantequatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantecinq { background-position:0px -3405px;height:39px;width:900px;}
+#navigationMenu .soixantecinq:hover{ background-position: 0px -3405px;}
+#navigationMenu .soixantecinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantesix { background-position:0px -3455px;height:39px;width:900px;}
+#navigationMenu .soixantesix:hover{ background-position: 0px -3455px;}
+#navigationMenu .soixantesix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantesept { background-position:0px -3510px;height:39px;width:900px;}
+#navigationMenu .soixantesept:hover{ background-position: 0px -3510px;}
+#navigationMenu .soixantesept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantehuit { background-position:0px -3565px;height:39px;width:900px;}
+#navigationMenu .soixantehuit:hover{ background-position: 0px -3565px;}
+#navigationMenu .soixantehuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixanteneuf { background-position:0px -3615px;height:39px;width:900px;}
+#navigationMenu .soixanteneuf:hover{ background-position: 0px -3615px;}
+#navigationMenu .soixanteneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedix { background-position:0px -3670px;height:39px;width:900px;}
+#navigationMenu .soixantedix:hover{ background-position: 0px -3670px;}
+#navigationMenu .soixantedix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixanteonze { background-position:0px -3725px;height:39px;width:900px;}
+#navigationMenu .soixanteonze:hover{ background-position: 0px -3725px;}
+#navigationMenu .soixanteonze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedouze { background-position:0px -3775px;height:39px;width:900px;}
+#navigationMenu .soixantedouze:hover{ background-position: 0px -3775px;}
+#navigationMenu .soixantedouze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantetreize { background-position:0px -3830px;height:39px;width:900px;}
+#navigationMenu .soixantetreize:hover{ background-position: 0px -3830px;}
+#navigationMenu .soixantetreize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantequatorze { background-position:0px -3880px;height:39px;width:900px;}
+#navigationMenu .soixantequatorze:hover{ background-position: 0px -3880px;}
+#navigationMenu .soixantequatorze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantequinze { background-position:0px -3935px;height:39px;width:900px;}
+#navigationMenu .soixantequinze:hover{ background-position: 0px -3935px;}
+#navigationMenu .soixantequinze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixanteseize { background-position:0px -3990px;height:39px;width:900px;}
+#navigationMenu .soixanteseize:hover{ background-position: 0px -3990px;}
+#navigationMenu .soixanteseize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedsept { background-position:0px -4040px;height:39px;width:900px;}
+#navigationMenu .soixantedsept:hover{ background-position: 0px -4040px;}
+#navigationMenu .soixantedsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedhuit { background-position:0px -4145px;height:39px;width:900px;}
+#navigationMenu .soixantedhuit:hover{ background-position: 0px -4145px;}
+#navigationMenu .soixantedhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .soixantedneuf { background-position:0px -4145px;height:39px;width:900px;}
+#navigationMenu .soixantedneuf:hover{ background-position: 0px -4145px;}
+#navigationMenu .soixantedneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quatrevingt { background-position:0px -4200px;height:39px;width:900px;}
+#navigationMenu .quatrevingt:hover{ background-position: 0px -4200px;}
+#navigationMenu .quatrevingt span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvun { background-position:0px -4255px;height:39px;width:900px;}
+#navigationMenu .qvun:hover{ background-position: 0px -4255px;}
+#navigationMenu .qvun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdeux { background-position:0px -4305px;height:39px;width:900px;}
+#navigationMenu .qvdeux:hover{ background-position: 0px -4305px;}
+#navigationMenu .qvdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvtrois { background-position:0px -4360px;height:39px;width:900px;}
+#navigationMenu .qvtrois:hover{ background-position: 0px -4360px;}
+#navigationMenu .qvtrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvquatre { background-position:0px -4410px;height:39px;width:900px;}
+#navigationMenu .qvquatre:hover{ background-position: 0px -4410px;}
+#navigationMenu .qvquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvcinq { background-position:0px -4465px;height:39px;width:900px;}
+#navigationMenu .qvcinq:hover{ background-position: 0px -4465px;}
+#navigationMenu .qvcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvsix { background-position:0px -4515px;height:39px;width:900px;}
+#navigationMenu .qvsix:hover{ background-position: 0px -4515px;}
+#navigationMenu .qvsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvsept { background-position:0px -4570px;height:39px;width:900px;}
+#navigationMenu .qvsept:hover{ background-position: 0px -4570px;}
+#navigationMenu .qvsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvhuit { background-position:0px -4625px;height:39px;width:900px;}
+#navigationMenu .qvhuit:hover{ background-position: 0px -4625px;}
+#navigationMenu .qvhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvneuf { background-position:0px -4675px;height:39px;width:900px;}
+#navigationMenu .qvneuf:hover{ background-position: 0px -4675px;}
+#navigationMenu .qvneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdix { background-position:0px -4730px;height:39px;width:900px;}
+#navigationMenu .qvdix:hover{ background-position: 0px -4730px;}
+#navigationMenu .qvdix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvonze { background-position:0px -4780px;height:39px;width:900px;}
+#navigationMenu .qvonze:hover{ background-position: 0px -4780px;}
+#navigationMenu .qvonze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdouze { background-position:0px -4830px;height:39px;width:900px;}
+#navigationMenu .qvdouze:hover{ background-position: 0px -4830px;}
+#navigationMenu .qvdouze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvtreize { background-position:0px -4885px;height:39px;width:900px;}
+#navigationMenu .qvtreize:hover{ background-position: 0px -4885px;}
+#navigationMenu .qvtreize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvquatorze { background-position:0px -4940px;height:39px;width:900px;}
+#navigationMenu .qvquatorze:hover{ background-position: 0px -4940px;}
+#navigationMenu .qvquatorze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvquinze { background-position:0px -4995px;height:39px;width:900px;}
+#navigationMenu .qvquinze:hover{ background-position: 0px -4995px;}
+#navigationMenu .qvquinze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvseize { background-position:0px -5050px;height:39px;width:900px;}
+#navigationMenu .qvseize:hover{ background-position: 0px -5050px;}
+#navigationMenu .qvseize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdsept { background-position:0px -5100px;height:39px;width:900px;}
+#navigationMenu .qvdsept:hover{ background-position: 0px -5100px;}
+#navigationMenu .qvdsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdhuit { background-position:0px -5155px;height:39px;width:900px;}
+#navigationMenu .qvdhuit:hover{ background-position: 0px -5155px;}
+#navigationMenu .qvdhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qvdneuf { background-position:0px -5210px;height:39px;width:900px;}
+#navigationMenu .qvdneuf:hover{ background-position: 0px -5210px;}
+#navigationMenu .qvdneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centonze { background-position:0px -5260px;height:39px;width:900px;}
+#navigationMenu .centonze:hover{ background-position: 0px -5260px;}
+#navigationMenu .centonze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centdouze { background-position:0px -5310px;height:39px;width:900px;}
+#navigationMenu .centdouze:hover{ background-position: 0px -5310px;}
+#navigationMenu .centdouze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtreize { background-position:0px -5365px;height:39px;width:900px;}
+#navigationMenu .centtreize:hover{ background-position: 0px -5365px;}
+#navigationMenu .centtreize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centquatorze { background-position:0px -5420px;height:39px;width:900px;}
+#navigationMenu .centquatorze:hover{ background-position: 0px -5420px;}
+#navigationMenu .centquatorze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centquinze { background-position:0px -5475px;height:39px;width:900px;}
+#navigationMenu .centquinze:hover{ background-position: 0px -5475px;}
+#navigationMenu .centquinze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centseize { background-position:0px -5525px;height:39px;width:900px;}
+#navigationMenu .centseize:hover{ background-position: 0px -5525px;}
+#navigationMenu .centseize span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centdsept { background-position:0px -5580px;height:39px;width:900px;}
+#navigationMenu .centdsept:hover{ background-position: 0px -5580px;}
+#navigationMenu .centdsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centdhuit { background-position:0px -5630px;height:39px;width:900px;}
+#navigationMenu .centdhuit:hover{ background-position: 0px -5630px;}
+#navigationMenu .centdhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centdneuf { background-position:0px -5685px;height:39px;width:900px;}
+#navigationMenu .centdneuf:hover{ background-position: 0px -5685px;}
+#navigationMenu .centdneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvingt { background-position:0px -5740px;height:39px;width:900px;}
+#navigationMenu .centvingt:hover{ background-position: 0px -5740px;}
+#navigationMenu .centvingt span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvun { background-position:0px -5790px;height:39px;width:900px;}
+#navigationMenu .centvun:hover{ background-position: 0px -5790px;}
+#navigationMenu .centvun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvdeux { background-position:0px -5845px;height:39px;width:900px;}
+#navigationMenu .centvdeux:hover{ background-position: 0px -5845px;}
+#navigationMenu .centvdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvtrois { background-position:0px -5895px;height:39px;width:900px;}
+#navigationMenu .centvtrois:hover{ background-position: 0px -5895px;}
+#navigationMenu .centvtrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvquatre { background-position:0px -6685px;height:39px;width:900px;}
+#navigationMenu .centvquatre:hover{ background-position: 0px -6685px;}
+#navigationMenu .centvquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvcinq { background-position:0px -5945px;height:39px;width:900px;}
+#navigationMenu .centvcinq:hover{ background-position: 0px -5945px;}
+#navigationMenu .centvcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvsix { background-position:0px -5995px;height:39px;width:900px;}
+#navigationMenu .centvsix:hover{ background-position: 0px -5995px;}
+#navigationMenu .centvsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvsept { background-position:0px -6050px;height:39px;width:900px;}
+#navigationMenu .centvsept:hover{ background-position: 0px -6050px;}
+#navigationMenu .centvsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvhuit { background-position:0px -6100px;height:39px;width:900px;}
+#navigationMenu .centvhuit:hover{ background-position: 0px -6100px;}
+#navigationMenu .centvhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centvneuf { background-position:0px -6155px;height:39px;width:900px;}
+#navigationMenu .centvneuf:hover{ background-position: 0px -6155px;}
+#navigationMenu .centvneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtrente { background-position:0px -6210px;height:39px;width:1200px;}
+#navigationMenu .centtrente:hover{ background-position: 0px -6210px;}
+#navigationMenu .centtrente span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtun { background-position:0px -6265px;height:39px;width:1000px;}
+#navigationMenu .centtun:hover{ background-position: 0px -6265px;}
+#navigationMenu .centtun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtdeux{ background-position:0px -6740px;height:39px;width:900px;}
+#navigationMenu .centtdeux:hover{ background-position: 0px -6740px;}
+#navigationMenu .centtdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centttrois{ background-position:0px -6795px;height:39px;width:900px;}
+#navigationMenu .centttrois:hover{ background-position: 0px -6795px;}
+#navigationMenu .centttrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtquatre{ background-position:0px -6850px;height:39px;width:900px;}
+#navigationMenu .centtquatre:hover{ background-position: 0px -6850px;}
+#navigationMenu .centtquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtcinq{ background-position:0px -6900px;height:39px;width:900px;}
+#navigationMenu .centtcinq:hover{ background-position: 0px -6900px;}
+#navigationMenu .centtcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtsix{ background-position:0px -6955px;height:39px;width:900px;}
+#navigationMenu .centtsix:hover{ background-position: 0px -6955px;}
+#navigationMenu .centtsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtsept{ background-position:0px -7010px;height:39px;width:900px;}
+#navigationMenu .centtsept:hover{ background-position: 0px -7010px;}
+#navigationMenu .centtsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centthuit{ background-position:0px -7065px;height:39px;width:900px;}
+#navigationMenu .centthuit:hover{ background-position: 0px -7065px;}
+#navigationMenu .centthuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtneuf{ background-position:0px -7115px;height:39px;width:1000px;}
+#navigationMenu .centtneuf:hover{ background-position: 0px -7115px;}
+#navigationMenu .centtneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centquarante{ background-position:0px -7170px;height:39px;width:900px;}
+#navigationMenu .centquarante:hover{ background-position: 0px -7170px;}
+#navigationMenu .centquarante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqun{ background-position:0px -7225px;height:39px;width:900px;}
+#navigationMenu .centqun:hover{ background-position: 0px -7225px;}
+#navigationMenu .centqun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqdeux{ background-position:0px -7275px;height:39px;width:900px;}
+#navigationMenu .centqdeux:hover{ background-position: 0px -7275px;}
+#navigationMenu .centqdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqtrois{ background-position:0px -7330px;height:39px;width:1400px;}
+#navigationMenu .centqtrois:hover{ background-position: 0px -7330px;}
+#navigationMenu .centqtrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqquatre{ background-position:0px -7380px;height:39px;width:900px;}
+#navigationMenu .centqquatre:hover{ background-position: 0px -7380px;}
+#navigationMenu .centqquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqcinq{ background-position:0px -7440px;height:72px;width:1400px;}
+#navigationMenu .centqcinq:hover{ background-position: 0px -7440px;}
+#navigationMenu .centqcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;height:72px;}
+
+#navigationMenu .centqsix{ background-position:0px -7540px;height:39px;width:900px;}
+#navigationMenu .centqsix:hover{ background-position: 0px -7540px;}
+#navigationMenu .centqsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqsept{ background-position:0px -7595px;height:39px;width:900px;}
+#navigationMenu .centqsept:hover{ background-position: 0px -7595px;}
+#navigationMenu .centqsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqhuit{ background-position:0px -7640px;height:110px;width:1400px;}
+#navigationMenu .centqhuit:hover{ background-position: 0px -7640px;}
+#navigationMenu .centqhuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centqneuf{ background-position:0px -7750px;height:39px;width:900px;}
+#navigationMenu .centqneuf:hover{ background-position: 0px -7750px;}
+#navigationMenu .centqneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcinquante{ background-position:0px -7800px;height:39px;width:900px;}
+#navigationMenu .centcinquante:hover{ background-position: 0px -7800px;}
+#navigationMenu .centcinquante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcun{ background-position:0px -7855px;height:39px;width:900px;}
+#navigationMenu .centcun:hover{ background-position: 0px -7855px;}
+#navigationMenu .centcun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+
+
+#navigationMenu .centcdeux{ background-position:0px -7960px;height:39px;width:900px;}
+#navigationMenu .centcdeux:hover{ background-position: 0px -7960px;}
+#navigationMenu .centcdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centctrois{ background-position:0px -8010px;height:39px;width:900px;}
+#navigationMenu .centctrois:hover{ background-position: 0px -8010px;}
+#navigationMenu .centctrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcquatre{ background-position:0px -8065px;height:39px;width:900px;}
+#navigationMenu .centcquatre:hover{ background-position: 0px -8065px;}
+#navigationMenu .centcquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centccinq{ background-position:0px -8120px;height:39px;width:900px;}
+#navigationMenu .centccinq:hover{ background-position: 0px -8120px;}
+#navigationMenu .centccinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcsix{ background-position:0px -8170px;height:39px;width:900px;}
+#navigationMenu .centcsix:hover{ background-position: 0px -8170px;}
+#navigationMenu .centcsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcsept{ background-position:0px -8228px;height:39px;width:900px;}
+#navigationMenu .centcsept:hover{ background-position: 0px -8228px;}
+#navigationMenu .centcsept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centchuit{ background-position:0px -8280px;height:39px;width:900px;}
+#navigationMenu .centchuit:hover{ background-position: 0px -8280px;}
+#navigationMenu .centchuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcneuf{ background-position:0px -4090px;height:39px;width:900px;}
+#navigationMenu .centcneuf:hover{ background-position: 0px -4090px;}
+#navigationMenu .centcneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+
+
+
+
+#navigationMenu .centsoixante{ background-position:0px -8335px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centsoixante:hover{ background-position: 0px -8335px;}
+#navigationMenu .centsoixante span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsun{ background-position:0px -8390px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centsun:hover{ background-position: 0px -8390px;}
+#navigationMenu .centsun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsdeux{ background-position:0px -8440px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centsdeux:hover{ background-position: 0px -8440px;}
+#navigationMenu .centsdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centstrois{ background-position:0px -8495px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centstrois:hover{ background-position: 0px -8495px;}
+#navigationMenu .centstrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsquatre{ background-position:0px -8550px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centsquatre:hover{ background-position: 0px -8550px;}
+#navigationMenu .centsquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centscinq{ background-position:0px -8600px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centscinq:hover{ background-position: 0px -8600px;}
+#navigationMenu .centscinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centssix{ background-position:0px -8655px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centssix:hover{ background-position: 0px -8655px;}
+#navigationMenu .centssix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centssept{ background-position:0px -8710px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centssept:hover{ background-position: 0px -8710px;}
+#navigationMenu .centssept span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centshuit{ background-position:0px -8765px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centshuit:hover{ background-position: 0px -8765px;}
+#navigationMenu .centshuit span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsneuf{ background-position:0px -8820px;height:39px;width:200px;margin-left:200px;}
+#navigationMenu .centsneuf:hover{ background-position: 0px -8820px;}
+#navigationMenu .centsneuf span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsdix{ background-position:0px -2875px;height:39px;width:900px;}
+#navigationMenu .centsdix:hover{ background-position: 0px -2875px;}
+#navigationMenu .centsdix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsonze{ background-position:200px -8870px;height:39px;width:500px;}
+#navigationMenu .centsonze:hover{ background-position: 0px -8870px;}
+#navigationMenu .centsonze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsdouze{ background-position:200px -8925px;height:39px;width:500px;}
+#navigationMenu .centsdouze:hover{ background-position: 0px -8925px;}
+#navigationMenu .centsdouze span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#navigationMenu .cent { background-position:200px -6315px;height:39px;width:500px;}
+#navigationMenu .cent:hover{ background-position: 0px -6315px;}
+#navigationMenu .cent span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centun { background-position:200px -6370px;height:39px;width:500px;}
+#navigationMenu .centun:hover{ background-position: 0px -6370px;}
+#navigationMenu .centun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centdeux { background-position:200px -6425px;height:39px;width:500px;}
+#navigationMenu .centdeux:hover{ background-position: 0px -6425px;}
+#navigationMenu .centdeux span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centtrois { background-position:200px -6475px;height:39px;width:500px;}
+#navigationMenu .centtrois:hover{ background-position: 0px -6475px;}
+#navigationMenu .centtrois span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centquatre { background-position:200px -6530px;height:39px;width:500px;}
+#navigationMenu .centquatre:hover{ background-position: 0px -6530px;}
+#navigationMenu .centquatre span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centcinq { background-position:200px -6585px;height:39px;width:500px;}
+#navigationMenu .centcinq:hover{ background-position: 0px -6585px;}
+#navigationMenu .centcinq span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .centsix { background-position:200px -6635px;height:39px;width:500px;}
+#navigationMenu .centsix:hover{ background-position: 0px -6635px;}
+#navigationMenu .centsix span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+
+
+
+#main{margin:20px 50px;position:relative;width:40px;}
+#consignes {
+      position: fixed;
+      z-index: 0px;
+      top: 0px;
+      right: 30%;
+      width:40px;
+    
+    }
+
+
+#tete{margin:10px 20px;position:relative;width:40px;}
+#dig{margin:10px 20px;position:relative;width:40px;}
+#respi{margin:10px 20px;position:relative;width:40px;}
+#accident{margin:10px 20px;position:relative;width:40px;}
+#malaise{margin:10px 20px;position:relative;width:40px;}
+#ophtalmo{margin:10px 20px;position:relative;width:40px;}
+#cardio{margin:10px 20px;position:relative;width:40px;}
+#gyneco{margin:10px 20px;position:relative;width:40px;}
+#pedia{margin:10px 20px;position:relative;width:40px;}
+#ant{margin:10px 20px;position:relative;width:40px;}
+#gestes{margin:10px 20px;position:relative;width:500px;}
+#consigne{margin:10px 20px;position:relative;width:40px;}
+
+h1{margin: auto 10px;color:#ffffff;font-size:30px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h2{margin: auto 10px;color:#d0a525;font-size:25px;text-align:left;margin-left:30px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+h3{margin: auto 10px;color:#7da315;font-size:25px;text-align:left;margin-left:20px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h4{margin: auto 10px;color:#642EFE ;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h5{margin: auto 10px;margin-left:50px;color:#FF0000;font-size:25px;text-align:left;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h6{margin: auto 10px;color:#FF8000;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h7{margin: auto 10px;color:#9C6321;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h8{margin: auto 10px;color:#FE2EF7;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+p{margin: auto 10px;color:#d0a525;font-size:30px;text-align:center;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+.contact a {margin: auto 10px;color:#6495ED;font-size:20px;text-align:left;margin-left:20%;text-decoration:none;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}

@@ -1,0 +1,30 @@
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+      }
+
+body
+{
+   width:100%; /*Largeur du block*/
+   height:100%;
+      background-color:rgb(62,62,62);
+}
+.mappemonde {
+ float:right;
+ margin-left:10px;
+  border:2px solid white;
+ 
+  }
+
+
+
+h1{text-align:center; color:#FF8000;margin-top:10px; margin-left:20px;font-size:30px;  }
+h2{text-align:center; color:#FF8000;margin-top:10px; margin-left:20px;font-size:20px;  }
+
+p{text-align:center; color:white;margin-top:30px;margin-left:20px;margin-right:20px;font-size:25px; }
+
+a{text-align:left; color:white;font-size:20px; text-decoration:none;}
+h3{text-align:center; color:white;margin-top:10px; margin-left:20px;font-size:20px;  }
+
+

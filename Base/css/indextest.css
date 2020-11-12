@@ -1,0 +1,55 @@
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+      }
+
+#body
+{
+   width:100%; /*Largeur du block*/
+   height:100%;
+   background-color:green;
+}
+
+
+h1{text-align:left; color:white;margin-top:10px; margin-left:20px;font-size:20px;  }
+
+p{text-align:left; color:red;margin-top:100px;margin-left:20px;font-size:25px; text-decoration:none;border:3px solid red; }
+a{text-align:left; color:red;margin-top:100px;margin-left:20px;font-size:25px; text-decoration:none;border:3px solid red; }
+
+  ul li{
+     position:relative;float:left;
+     width:200px;height:150px;padding:30px;list-style:none;
+}
+/*permet de créer deux lignes*/
+ul li:nth-child(5n+1){clear:left;} 
+
+
+ul li a{
+     display:block;overflow:hidden;
+     width:200px;height:150px;
+     margin-top:10px;margin-left:20px;
+     border:3px solid black;
+     transition-property:width,height,margin,z-index,border;
+     transition-duration:0.4s;
+}
+
+ul li a:hover{
+     position:absolute;
+     width:400px;height:300px;
+     margin-top:10px;margin-left:10px;
+     z-index:100;
+     border:6px solid rgba(0,0,0,0.7);
+}
+          
+ul li a img{
+     position:absolute;
+     width:200px;height:150px;z-index:20;
+     transition-property:width,height,z-index;
+     transition-duration:0.4s;
+}
+          
+ul li a:hover img{
+     width:400px;height:300px;
+     z-index:100;
+}

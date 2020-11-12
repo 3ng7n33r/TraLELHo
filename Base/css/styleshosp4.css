@@ -1,0 +1,368 @@
+/* Navigation Menu - Background */
+.navigation {
+  /* critical sizing and position styles */
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+  
+  /* non-critical appearance styles */
+  list-style: none;
+  background: #373a47;
+}
+
+/* taille bouton menus */
+.nav-item {
+  /* non-critical appearance styles */
+  width: 150px;
+  height:75px;
+  border-top: 0px solid #111;
+  border-bottom: 0px solid #000;
+  color: black;
+}
+
+.nav-item a {
+  /* non-critical appearance styles */
+  display: block;
+  padding: 1em;
+  background-color: #373a47;
+  color: white;
+  font-size: 1.2em;
+  text-decoration: none;
+  -webkit-transition: color 0.2s, background 0.5s;
+  transition: color 0.2s, background 0.5s;
+}
+
+.nav-item a:hover {
+  color: #c74438;
+background-color: #373a47;
+}
+
+/* Site Wrapper - Everything that isn't navigation */
+.site-wrap {
+  /* Critical position and size styles */
+  min-height: 100%;
+  min-width: 100%;
+  background-color: #373a47; /* Needs a background or else the nav will show through */
+  position: relative;
+  top: 0;
+  bottom: 100%;
+  left: 0;
+  z-index: 0;
+  
+  /* non-critical apperance styles */
+  padding: 4em;
+background-color: #373a47;
+  background-size: 200%;
+}
+
+/* Nav Trigger */
+.nav-trigger {
+  /* critical styles - hide the checkbox input */
+  position: absolute;
+  clip: rect(0, 0, 0, 0);
+  }
+
+label[for="nav-trigger"] {
+  /* bouton menu */
+  position: fixed;
+  left: 15px; top: 15px;
+  z-index: 2;
+  
+  /* non-critical apperance styles */
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  background-image: url("menu.png");
+  background-size: contain;
+}
+
+/* Make the Magic Happen */
+.nav-trigger + label, .site-wrap {
+  -webkit-transition: left 0.2s;
+  transition: left 0.2s;
+}
+
+.nav-trigger:checked + label {
+  left: 250px;
+}
+
+.nav-trigger:checked ~ .site-wrap {
+  left: 230px;
+  box-shadow: 0 0 0px 0px rgba(0,0,0,0.5);
+}
+
+body {
+	/* Without this, the body has excess horizontal scroll when the menu is open */
+  overflow-x: hidden;
+}
+
+/* Additional non-critical styles */
+
+h1, h3, p {
+  max-width: 600px;
+  margin: 0 auto 1em;
+}
+
+code {
+	padding: 2px;
+	background: #ddd;
+}
+
+/* Micro reset */
+
+html, body { height: 100%; width: 95%; font-family: Helvetica, Arial, sans-serif; }
+
+@charset "iso-8859-1";
+*{/* reset */margin:0;padding:0;}
+	
+	
+#en_tete p
+{
+   margin-left:50px;
+   margin-top:20px;
+  font-family:,Arial, Helvetica, sans-serif;
+	font-size:70px;color:silver; font-weight:bold;letter-spacing:0.6px;white-space:nowrap;line-height:39px;
+  }	
+
+ .accueil{  } 
+  
+  #en_tete a{text-align:left;border:0px solid red;margin-left:10%; color:silver;font-size:20px; text-decoration:none; }
+  
+#navigationMenu li{	list-style:none;height:39px;padding:2px;width:40px;}
+#navigationMenu span{
+	/* Propriétés deu conteneur*/
+	width:0; left:38px; padding:0; position:absolute; overflow:hidden;
+	/* Propriétés du texte */
+	font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+	font-size:18px;font-weight:bold;letter-spacing:0.6px;white-space:nowrap;line-height:39px;
+	/* Transition: */
+	-webkit-transition: 0.25s;
+	-moz-transition: 0.25s;
+	transition: 0.25s;
+}
+
+#navigationMenu a{background:url("images/verdana.PNG") no-repeat;height:39px;width:500px;display:block;position:relative;}
+/* Propiétés du survol */
+#navigationMenu a:hover span{ background:url("images/tamoul.png"); width:auto;margin-left:0px; padding:0px 20px;overflow:visible; }
+#navigationMenu a:hover{background:url("images/tamoul.png");text-decoration:none;}
+/* Propriétés de l'ombre 
+	-moz-box-shadow:0 0 5px #9ddff5;
+	-webkit-box-shadow:0 0 5px #9ddff5;
+	box-shadow:0 0 5px #9ddff5;*/
+
+/* en cas d'ajout de bouton, faites correspondre les coordonnées de la position, la couleur etc... */
+/* le nom doit correspondre au navigationMenu.xxxxx */
+
+
+#navigationMenu .un {	background-position:0px 0px;height:39px;width:900px;}
+#navigationMenu .un:hover {	background-position:0px -39px;}
+#navigationMenu .un span{background-color:#d0a525;color:#223a44;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .deux { background-position:0px -50px;height:39px;width:900px;}
+#navigationMenu .deux:hover { background-position:0px -145px;}
+#navigationMenu .deux span{background-color:#d0a525;color:#223a44;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trois { background-position:0px -100px;height:39px;width:900px;}
+#navigationMenu .trois:hover { background-position:0px -245px;}
+#navigationMenu .trois span{background-color:#d0a525;color:#5a3517;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quatre { background-position:0px -150px;height:39px;width:900px;}
+#navigationMenu .quatre:hover{ background-position:0px -340px;}
+#navigationMenu .quatre span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .cinq { background-position:0px -200px;height:39px;width:900px;}
+#navigationMenu .cinq:hover{ background-position:0px -435px;}
+#navigationMenu .cinq span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .six { background-position:0px -250px;height:39px;width:900px;}
+#navigationMenu .six:hover{ background-position:0px -530px;width:1100px;}
+#navigationMenu .six span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .sept { background-position:0px -300px;height:39px;width:900px;}
+#navigationMenu .sept:hover{ background-position:0px -625px;}
+#navigationMenu .sept span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .huit { background-position:0px -350px;height:39px;width:900px;}
+#navigationMenu .huit:hover{ background-position:-200px -725px;width:1000px;}
+#navigationMenu .huit span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .neuf { background-position:0px -400px;height:39px;width:900px;}
+#navigationMenu .neuf:hover{ background-position:0px -760px;}
+#navigationMenu .neuf span{background-color:#d0a525;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dix { background-position:0px -450px;height:39px;width:900px;}
+#navigationMenu .dix:hover{ background-position:0px -855px;}
+#navigationMenu .dix span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .onze { background-position:0px -500px;height:39px;width:900px;}
+#navigationMenu .onze:hover{ background-position:0px -945px;}
+#navigationMenu .onze span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .douze { background-position:0px -550px;height:39px;width:900px;}
+#navigationMenu .douze:hover{ background-position:0px -1040px;}
+#navigationMenu .douze span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .treize { background-position:0px -600px;height:39px;width:900px;}
+#navigationMenu .treize:hover{ background-position:0px -1130px;}
+#navigationMenu .treize span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quatorze { background-position:0px -650px;height:39px;width:900px;}
+#navigationMenu .quatorze:hover{ background-position:0px -1215px;}
+#navigationMenu .quatorze span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quinze { background-position:0px -700px;height:39px;width:900px;}
+#navigationMenu .quinze:hover{ background-position: -200px -1310px;}
+#navigationMenu .quinze span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .seize { background-position:0px -750px;height:39px;width:900px;}
+#navigationMenu .seize:hover{ background-position: -200px -1405px;width:1000px;}
+#navigationMenu .seize span{background-color:#7da315;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixs { background-position:0px -790px;height:78px;width:900px;}
+#navigationMenu .dixs:hover{ background-position: -200px -1525px;height:78px;width:1200px;}
+#navigationMenu .dixs span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixh { background-position:0px -860px;height:39px;width:900px;}
+#navigationMenu .dixh:hover{ background-position: 0px -1750px;}
+#navigationMenu .dixh span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .dixn { background-position:0px -910px;height:39px;width:900px;}
+#navigationMenu .dixn:hover{ background-position: -150px -1845px;}
+#navigationMenu .dixn span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingt { background-position:0px -960px;height:39px;width:900px;}
+#navigationMenu .vingt:hover{ background-position: 0px -1940px;}
+#navigationMenu .vingt span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingtun { background-position:0px -1010px;height:39px;width:900px;}
+#navigationMenu .vingtun:hover{ background-position: 0px -2032px;}
+#navigationMenu .vingtun span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingtdeux { background-position:0px -1060px;height:39px;width:900px;}
+#navigationMenu .vingtdeux:hover{ background-position: -200px -2125px;}
+#navigationMenu .vingtdeux span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vingttrois { background-position:0px -1110px;height:39px;width:900px;}
+#navigationMenu .vingttrois:hover{ background-position: -200px -2220px;width:1100px;}
+#navigationMenu .vingttrois span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vquatre { background-position:0px -1160px;height:39px;width:900px;}
+#navigationMenu .vquatre:hover{ background-position: -200px -4095px;height:78px;width:1100px;}
+#navigationMenu .vquatre span{background-color:#990000;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vcinq { background-position:0px -1210px;height:39px;width:900px;}
+#navigationMenu .vcinq:hover{ background-position: -200px -2315px;height:85px;width:1200px;}
+#navigationMenu .vcinq span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vsix { background-position:0px -1260px;height:39px;width:900px;}
+#navigationMenu .vsix:hover{ background-position: -200px -2440px;}
+#navigationMenu .vsix span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vsept { background-position:0px -1310px;height:39px;width:900px;}
+#navigationMenu .vsept:hover{ background-position: 0px -2535px;}
+#navigationMenu .vsept span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vhuit { background-position:0px -1360px;height:39px;width:900px;}
+#navigationMenu .vhuit:hover{ background-position: 0px -2625px}
+#navigationMenu .vhuit span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .vneuf { background-position:0px -1410px;height:39px;width:900px;}
+#navigationMenu .vneuf:hover{ background-position: 0px -2720px}
+#navigationMenu .vneuf span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trente { background-position:0px -1460px;height:39px;width:900px;}
+#navigationMenu .trente:hover{ background-position: -200px -3020px;width:1000px;}
+#navigationMenu .trente span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trenteun { background-position:0px -2370px;height:39px;width:900px;}
+#navigationMenu .trenteun:hover{ background-position: 0px -1655px;}
+#navigationMenu .trenteun span{background-color:#642EFE;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trented { background-position:0px -1510px;height:39px;width:900px;}
+#navigationMenu .trented:hover{ background-position: 0px -3110px;}
+#navigationMenu .trented span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentet { background-position:0px -1560px;height:39px;width:900px;}
+#navigationMenu .trentet:hover{ background-position: -200px -3205px;}
+#navigationMenu .trentet span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trenteq { background-position:0px -1610px;height:39px;width:900px;}
+#navigationMenu .trenteq:hover{ background-position: -200px -3300px;}
+#navigationMenu .trenteq span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentec { background-position:0px -1660px;height:39px;width:900px;}
+#navigationMenu .trentec:hover{ background-position: -200px -3395px;height:78px;width:1200px;}
+#navigationMenu .trentec span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentes { background-position:0px -2420px;height:39px;width:900px;}
+#navigationMenu .trentes:hover{ background-position: 0px -2815px;}
+#navigationMenu .trentes span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .trentesept { background-position:0px -2470px;height:39px;width:900px;}
+#navigationMenu .trentesept:hover{ background-position: 0px -2925px;}
+#navigationMenu .trentesept span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .thuit { background-position:0px -1760px;height:39px;width:900px;}
+#navigationMenu .thuit:hover{ background-position: -200px -3595px;height:78px;width:1100px;}
+#navigationMenu .thuit span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .tneuf { background-position:0px -1810px;height:39px;width:900px;}
+#navigationMenu .tneuf:hover{ background-position: -200px -3720px;}
+#navigationMenu .tneuf span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .quarante { background-position:0px -1860px;height:39px;width:900px;}
+#navigationMenu .quarante:hover{ background-position: -200px -3815px;width:1000px;}
+#navigationMenu .quarante span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qun { background-position:0px -1910px;height:39px;width:900px;}
+#navigationMenu .qun:hover{ background-position: -200px -3910px;width:1000px;}
+#navigationMenu .qun span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qdeux { background-position:0px -1960px;height:39px;width:900px;}
+#navigationMenu .qdeux:hover{ background-position: -200px -4000px;width:1000px;}
+#navigationMenu .qdeux span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qtrois { background-position:0px -2010px;height:39px;width:900px;}
+#navigationMenu .qtrois:hover{ background-position: -200px -4095px;height:78px;width:1100px;}
+#navigationMenu .qtrois span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qquatre { background-position:0px -2060px;height:39px;width:900px;}
+#navigationMenu .qquatre:hover{ background-position: -200px -4225px;width:1100px;}
+#navigationMenu .qquatre span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qcinq { background-position:0px -2130px;height:39px;width:900px;}
+#navigationMenu .qcinq:hover{ background-position: 0px -4310px;}
+#navigationMenu .qcinq span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qsix { background-position:0px -2270px;height:39px;width:900px;}
+#navigationMenu .qsix:hover{ background-position: 0px -4400px;}
+#navigationMenu .qsix span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qsept { background-position:0px -2325px;height:39px;width:900px;}
+#navigationMenu .qsept:hover{ background-position: 0px -4495px;}
+#navigationMenu .qsept span{background-color:#FF8000;color:#000000;text-shadow:0px 0px 0 #;}
+
+#navigationMenu .qhuit { background-position:0px -1715px;height:39px;width:900px;}
+#navigationMenu .qhuit:hover{ background-position: -200px -3510px;}
+#navigationMenu .qhuit span{background-color:#61210B;color:#ffffff;text-shadow:0px 0px 0 #;}
+
+#main{margin:20px 50px;position:relative;width:40px;}
+
+h1{margin: auto 10px;color:#ffffff;font-size:30px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h2{margin: auto 10px;color:#d0a525;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+h3{margin: auto 10px;color:#7da315;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h4{margin: auto 10px;color:#642EFE ;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h5{margin: auto 10px;margin-left:50px;color:#FF0000;font-size:25px;text-align:left;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h6{margin: auto 10px;color:#FF8000;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h7{margin: auto 10px;color:#9C6321;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+h8{margin: auto 10px;color:#FE2EF7;font-size:25px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+p{margin: auto 10px;color:#d0a525;font-size:30px;text-align:left;margin-left:50px;font-weight:normal;padding:0px 0 0px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
+
+.contact a {margin: auto 10px;color:#6495ED;font-size:20px;text-align:left;margin-left:20%;text-decoration:none;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}

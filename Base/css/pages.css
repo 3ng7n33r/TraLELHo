@@ -1,0 +1,66 @@
+* {
+   margin: 0;
+   padding: 0;
+   border: 0;
+      }
+
+body
+{
+   width:100%; /*Largeur du block*/
+   height:100%;
+      background-color:rgb(62,62,62);
+}
+
+.icone{text-align:center; margin-top:20px;}
+
+h1{text-align:left; color:white;margin-top:10px; margin-left:20px;font-size:20px;  }
+h2{text-align:left; color:white;margin-top:10px; margin
+p{text-align:left; color:white;margin-top:10px;margin-left:10px;font-size:15px;  }
+
+#navigationMenu li{	list-style:none;height:39px;padding:2px;width:40px;}
+#navigationMenu span{
+	/* Propriétés deu conteneur*/
+	width:0; left:38px; padding:0; position:absolute; overflow:hidden;
+	/* Propriétés du texte */
+	font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+	font-size:18px;font-weight:bold;letter-spacing:0.6px;white-space:nowrap;line-height:39px;
+	/* Transition: */
+	-webkit-transition: 0.25s;
+	-moz-transition: 0.25s;
+	transition: 0.25s;
+}
+
+#navigationMenu a{background:url('../img/navigation.jpg') no-repeat;height:39px;width:38px;display:block;position:relative;}
+/* Propiétés du survol */
+#navigationMenu a:hover span{ width:auto; padding:0 20px;overflow:visible; }
+#navigationMenu a:hover{text-decoration:none;
+/* Propriétés de l'ombre */
+	-moz-box-shadow:0 0 5px #9ddff5;
+	-webkit-box-shadow:0 0 5px #9ddff5;
+	box-shadow:0 0 5px #9ddff5;
+}
+/* en cas d'ajout de bouton, faites correspondre les coordonnées de la position, la couleur etc... */
+/* le nom doit correspondre au navigationMenu.xxxxx */
+/* Bouton vert */
+#navigationMenu .1{	background-position:0 0;}
+#navigationMenu .1:hover {	background-position:0 -39px;}
+#navigationMenu .1 span{background-color:#7da315;color:#3d4f0c;text-shadow:1px 1px 0 #99bf31;}
+/* Bouton bleu */
+#navigationMenu .2 { background-position:-38px 0;}
+#navigationMenu .2:hover { background-position:-38px -39px;}
+#navigationMenu .2 span{background-color:#1e8bb4;color:#223a44;text-shadow:1px 1px 0 #44a8d0;}
+/* Bouton orange */
+#navigationMenu .3 { background-position:-76px 0;}
+#navigationMenu .3:hover { background-position:-76px -39px;}
+#navigationMenu .3 span{background-color:#c86c1f;color:#5a3517;text-shadow:1px 1px 0 #d28344;}
+/* Bouton jaune */
+#navigationMenu .4 { background-position:-114px 0;}
+#navigationMenu .4:hover{ background-position:-114px -39px;}
+#navigationMenu .4 span{background-color:#d0a525;color:#604e18;text-shadow:1px 1px 0 #d8b54b;}
+/* Bouton violet */
+#navigationMenu .5 { background-position:-152px 0;}
+#navigationMenu .5:hover { background-position:-152px -39px;}
+#navigationMenu .5 span{background-color:#af1e83;color:#460f35;text-shadow:1px 1px 0 #d244a6;}
+/* Utile uniquement dans la page de demo */
+#main{margin:80px 50px;position:relative;width:40px;}
+h1{margin: auto 20px;color:#fff;font-size:30px;font-weight:normal;padding:60px 0 20px;font-family:"Myriad Pro",Arial,Helvetica,sans-serif;}
