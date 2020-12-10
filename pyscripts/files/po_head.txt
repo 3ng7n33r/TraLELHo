@@ -1,0 +1,19 @@
+# Tralelho translation file
+# Copyright (C) 2020
+# This file is distributed under the same license as the tralelho/translation package.
+# FIRST AUTHOR tralelho@maxemailian.anonaddy.com, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: Maximilian Blacher - tralelho@maxemailian.anonaddy.com\n"
+"POT-Creation-Date: 2020-12-07 11:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+

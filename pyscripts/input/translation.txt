@@ -1,0 +1,447 @@
+Introduction
+Hello, I am a nurse. Do you mind if I use my phone to translate the questions that I'll be asking you?
+Nurse
+Doctor
+first aider
+volunteer
+customer service representative
+Medical student
+Midwife
+secretary
+nursing staff
+identity
+Can you show me your passport?
+Would I be able to see some ID?
+Would I be able to see some papers with your name on?
+Do you have a European health card?
+Do you have any private insurance? Do you have your card with you?
+The cost of care will not be covered by insurance and you will need to pay in full.
+The cost of care will be covered by insurance. You will not need to pay anything.
+What country do you come from?
+What is your current address?
+Do you have a phone number that I can contact you on?
+Waiting
+Please wait
+on the chairs
+on the bench
+in the waiting room
+We will come and get you.
+No eating, drinking or smoking in the waiting areas.
+Your family needs to wait here.
+Depending on you status of health, the doctor will sometimes ask for further investigations, like blood tests, radiographies, scans, or they could request to keep you here for observation.
+We ask that you refrain from eating or drinking until otherwise stated by the doctor. Certain tests require an empty stomach.
+You need to wait 1 hour to receive the blood test results.
+Reception
+What happened to you?
+Are you in pain?
+Yes
+No
+Show me where it hurts.
+I am going to examine you.
+On a scale of 1 to 10, can you rate your pain level?
+10 being absolutely unbearable
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+Can you please undress so I can examine you?
+You can keep your underwear on.
+You can sit on the chair.
+You can lie on the table.
+You can lie on the stretcher.
+Neurology
+Did you lose consciousness?
+Do you know what day it is?
+Do you know where you are?
+Follow my finger.
+Can you move your hands and feet?
+I am going to touch you hands and feet. Do you feel it?
+Look me in the eyes. I want to observe your pupils.
+Do you have any pins and needles? Show me where.
+Push on my hands.
+Open your eyes.
+Open your mouth.
+Lift your right arm.
+Do you have a headache?
+The pain came on:
+little by little
+suddenly
+Do you have any pain in the neck?
+Have you travelled in the last few months?
+Have you travelled overseas? Where to?
+Does the light bother you?
+Does the noise bother you?
+I am going to prick the end of your finger to check your blood sugar level.
+Pulmonology
+I am going to put my hand on your stomach to check your breathing. Just breathe normally and don't talk
+Are you having trouble breathing? / short of breath?
+Take a deep breath in and hold it.
+Breathe normally.
+Breathe deeply.
+Do you smoke?
+Are you asthmatic?
+Have you taken your asthma medication?
+Have you breathed in any type of smoke?
+Can you please blow your nose so I can see I there is any soot?
+Cardiology
+Describe your pain.
+Is it a tight sensation?
+Is it a sharp sensation?
+Is it a burning sensation?
+Is your pain referring to any other part of your body? Can you show me where?
+How long have you experienced this pain?
+Minutes
+hours
+days
+I am going to take your pulse.
+I am going to press lightly on your nail.
+I am going to take your blood pressure.
+Are you having any palpitations?
+Open your mouth and lift your tongue. I am going to give you some medication.
+Does this medication help the pain?
+Do you drink alcohol?
+Are you diabetic?
+Do you have high cholesterol?
+I am going to record your heart. It won't hurt, but try and avoid moving for several seconds.
+Dizziness/loss of consciousness
+Did you feel your dizziness come on?/Did the dizziness come on slowly?
+What did you experience during the dizzy spell?
+pins and needles
+vertigo
+exhaustion
+Have you had vertigo before?
+Does the pain spread elsewhere? Where to?
+Where has the pain referred to?
+How long did your dizziness last?
+Did you experience any incontinence?
+Did you bite your tongue? Open the mouth?
+Did you experience any convulsions?
+Have you eaten today?
+digestive problems
+Show me where it hurts.
+Does the pain spread elsewhere? Where to?
+Have you lost any weight in the last few months? How many kilos?
+Have you experienced any burning sensation when urinating?
+Have you noticed any blood in your urine?
+When was your last period?
+Are you pregnant?
+When was the last time you urinated today?
+Are you experiencing any constipation?
+For how many days?
+Have you experienced any nausea?
+Have you had any bouts of diarrhea?
+Have you vomited?
+Have you noticed any blood in your stool?
+Do you have any gas?
+I need to do a rectal exam. Are you ok with that?
+You need to urinate in this jar so we can test it.
+You'll need to wash your genitals before urinating in the jar.
+infectious problems
+Have you been bitten or stung?
+Show me where.
+Show me where the first spots appeared.
+For how long has the leg been red?
+Is it itchy?
+You nned to remain in isolation.
+You need to keep this mask on.
+Have you had any unprotected sex?
+I am going to take your temperature.
+Ophthalmology
+Is your vision blurry?
+Are you seeing double?
+Do you have a headache?
+Do you feel as though the room is spinning?
+Have you been hit in the head recently?
+Medical History
+Do you have any medical issues (diabetes, hypertension, etc)?
+Have you been hospitalised recently?
+Are you being treated for anything? For what?
+Do you have a prescription for your treatment?
+Do you have any allergies? What are you allergic to?
+Do you have any family medical history?
+Can you please take a seat?
+Can you stand up?
+Can you walk?
+Peaditric problems
+Has the baby lost any weight? How much?
+Is the baby up-to-date with his/her vaccinations?
+Are your other children sick?
+Is he/she eating well?
+Is he/she vomiting?
+Does he/she seem more upset than normal?
+Does he/she seem more tired than usual?
+Does he/she have any diarrhea?
+Gynacology
+Are you pregnant?
+How far along are you?
+Are you menstruating?
+Have you lost any blood?
+Was the blood red or black?
+Did you have any problems during your last pregnancy?
+Do you have any contractions?
+Has your water broken?
+Do you feel the baby moving?
+Do you have any contraception?
+I need to do a gynacological exam. Can you please lie on the table?
+You need to remove your underwear.
+Traumatology
+Were you thrown from the vehicle?
+What speed were you going?
+Were you wearing a helmet?
+Were you wearing a seatbelt?
+Did you fall down?
+From what height did you fall?
+Do you take any anticoagulants or any medication to thin the blood?
+I am going to give you a neck brace to protect your spine.
+I need to add some antiseptic solution to the wound.
+I need to stitch up the wound.
+I need to apply a dressing.
+I am going to give you a local anaesthetic for your wound.
+Please don't move.
+I am going to have to place you in a cast.
+You need an operation.
+Tests
+You need to have:
+I am going to give you a:
+I am going to put you on a drip.
+I am going to take some blood.
+I am going to apply a dressing.
+I am going to give you an injection.
+I am going to give you a wash down/sponge bath.
+a scan
+an x-ray
+a cast
+an ultrasound
+an operation
+today
+tomorrow
+You need to take a shower and wash your hair before the operation.
+The test is not painful.
+After the operation, you will have.
+a catheter
+a feeding tube
+a pus drainage tube
+a scar
+You need to remove your jewellry and piercings.
+You need to remove your nail polish.
+You need to remove your dentures and hearing aids.
+Tell me if you have:
+a pace-maker
+a cardiac valve
+a stent
+a prosthesis
+Treatment and instructions
+I am giving you:
+some medication
+some analgesics
+some antibiotics
+You must not drink.
+You must not eat.
+You must not get up.
+You must remain lying on your back.
+You must not smoke.
+To call us, press here.
+To turn on or turn off the lights, press here.
+The toilets are here.
+The bathroom is here.
+You room is here.
+CONCLUSION
+You have a fracture/He or she has a fracture.
+You don't have a fracture/He or she doesn't have a fracture.
+You need an operation.
+You need to come back tomorrow.
+You need to come back in:
+You need to get the stitches removed in:
+You need a cast.
+You need crutches
+You can go home.
+You need to go to the hospital.
+You need to stay in hospital.
+You are going to be transferred to another department.
+Patient in Hospital
+I am hungry.
+I am thirsty.
+I am in pain.
+I am cold.
+I am hot.
+I am nauseous./I feel like vomiting.
+I threw up/vomited.
+I wet myself (I would like to be changed).
+I need to go and urinate.
+I need to pass a bowel movement.
+I feel dizzy.
+I am scared.
+I would like to move rooms.
+I would like some information.
+I had an accident.
+I was a pedestrian.
+I was hit (by a vehicle).
+I wasn't hit (by a vehicle).
+I fell (down).
+I was hit.
+I was in the car/I was driving.
+I was driving at XX km/h.
+I had my seatbelt on.
+I didn't have my seatbelt on.
+I was thrown from the car during the accident.
+I wasn't thrown from the car during the accident.
+The air bag was deployed.
+The air bag was not deployed.
+I was riding the bike./I was on my bike.
+I was riding the scooter./I was on my scooter.
+I was riding the motorbike./I was on my motorbike.
+I was riding at XX km/h.
+I had a helmet on.
+I didn't have a helmet on.
+I fell (off).
+I fell from the same height as me.
+I fell from XX metres high.
+I hit my head in the accident.
+My head was not hit in the accident.
+I am in pain.
+My head hurts.
+My neck hurts.
+My back hurts.
+My arm hurts.
+My leg hurts.
+My torso hurts.
+My stomach hurts.
+I take anticoagulants to thin my blood.
+I don't take anticoagulants.
+Head
+I have been in pain since:
+The pain came on:
+suddenly
+Gradually
+I can easily move my arms and legs.
+I can't move my arms or legs.
+I can speak.
+I am having trouble speaking.
+The light annoys me/Light annoys me.
+The light doesn't annoy me/Light doesn't annoy me.
+I have a fever.
+I don't have a fever.
+the back of my neck hurts.
+The back of my neck doesn't hurt.
+I had a dizzy spell.
+I didn't have a dizzy spell.
+I lost consciousness.
+I didn't lose consciousness.
+I wet myself.
+I didn't wet myself.
+I had some seizures.
+I didn't have any seizures.
+I am epileptic.
+I am not epileptic.
+I took my medication today.
+I didn't take my medication today.
+I feel dizzy.
+I don't feel dizzy.
+I am diabetic.
+I am not diabetic.
+I have eaten today.
+I haven't eaten today.
+Torso
+I got hit in the torso recently.
+I wasn't hit in the torso recently.
+The pain is still there.
+The pain is no longer there.
+The pain:
+It stings.
+It feels tight.
+It burns.
+The pain is referring to my:
+jaw
+I am having palpitations
+I am not having any palpitations.
+My family has a history of cardiac problems.
+My family has no history of cardiac problems.
+The pain is stronger when I inhale.
+The pain is not stronger when I inhale.
+I am coughing blood.
+I am not coughing blood.
+I am coughing.
+I am not coughing.
+I am having trouble breathing.
+I am not having any trouble breathing.
+I inhaled some fumes.
+I smoke.
+I don't smoke.
+I drink alcohol.
+I don't drink alcohol.
+I have high cholesterol.
+I don't have high cholesterol.
+I am asthmatic.
+I am not asthmatic.
+Stomach
+I feel nauseous.
+I don't feel nauseous.
+I vomited/threw up.
+I didn't throw up/vomit.
+food
+blood
+once
+twice
+several times
+I have diarrhea.
+I don't have diarrhea.
+I have gas.
+I no longer have gas.
+The last I urinated was:
+The was blood in my urine.
+There was no blood in my urine.
+It burns when I urinate.
+It doesn't burn when I urinate.
+My last bowel motion was :
+There was blood in my stool.
+There was no blood in my stool.
+My last period was:
+I am pregnant.
+I am not pregnant.
+Since X weeks.
+I had blood loss during vaginal delivery/natural birth.
+I had no blood loss during vaginal delivery/natural birth.
+My blood loss was:
+red
+black
+I have lost weight recently.
+I have not lost weight recently.
+Back/Neck
+The pain doesn't refer to anywhere else.
+The pain refers down into my backside/down my leg.
+My back doesn't feel blocked.
+my back feels blocked.
+I feel sick especially at night.
+I feel sick, especially in the morning.
+Arm
+Leg
+I received a knock recently/I was hit recently.
+I have not been hit/received any blows recently.
+I have been in pain since:
+I was stung/bitten recently.
+I wasn't stung/bitten recently.
+It itches.
+It doesn't itch.
+my pain is:
+weak
+average
+strong
+unbearable
+intracranial clips
+a cochlear implant
+an intraocular lens implant
+Some metal in the body
+A defibrillator
+a PICC line (Peripherally Inserted Central Catheter)
+Are you breastfeeding? Do you breastfeed?
+Where is the closest doctor?
+Where is the closest hospital?
+Where is the closest pharmacy?
+I need (medical) assistance, could you please call an ambulance?

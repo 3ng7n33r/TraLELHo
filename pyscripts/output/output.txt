@@ -1,0 +1,737 @@
+<p>PRESENTATION {% translate "PRESENTATION" %} </p>
+<p>Bonjour, je suis "Infirmière", je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?</p> 
+<p>{% blocktranslate %}"Bonjour, je suis "Infirmière", je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?"{% endblocktranslate %}</p>
+<p>Infirmière {% translate "Infirmière" %} </p>
+<p>Médecin {% translate "Médecin" %} </p>
+<p>Secouriste {% translate "Secouriste" %} </p>
+<p>Bénévole {% translate "Bénévole" %} </p>
+<p>Agent d'accueil {% translate "Agent d'accueil" %} </p>
+<p>Etudiant en médecine</p> 
+<p>{% blocktranslate %}"Etudiant en médecine"{% endblocktranslate %}</p>
+<p>Sage-femme {% translate "Sage-femme" %} </p>
+<p>Secrétaire {% translate "Secrétaire" %} </p>
+<p>Soignant {% translate "Soignant" %} </p>
+<p>IDENTITÉ {% translate "IDENTITÉ" %} </p>
+<p>Pouvez-vous me montrez votre passeport.</p> 
+<p>{% blocktranslate %}"Pouvez-vous me montrez votre passeport."{% endblocktranslate %}</p>
+<p>Pouvez-vous me montrez une carte d’identité.</p> 
+<p>{% blocktranslate %}"Pouvez-vous me montrez une carte d’identité."{% endblocktranslate %}</p>
+<p>Pouvez-vous me montrer des papiers avec votre nom.</p> 
+<p>{% blocktranslate %}"Pouvez-vous me montrer des papiers avec votre nom."{% endblocktranslate %}</p>
+<p>Pouvez-vous me montrer une carte Européenne de santé.</p> 
+<p>{% blocktranslate %}"Pouvez-vous me montrer une carte Européenne de santé."{% endblocktranslate %}</p>
+<p>Pouvez-vous me montre une carte d’assurance privée.</p> 
+<p>{% blocktranslate %}"Pouvez-vous me montre une carte d’assurance privée."{% endblocktranslate %}</p>
+<p>Les frais des soins seront à votre charge.</p> 
+<p>{% blocktranslate %}"Les frais des soins seront à votre charge."{% endblocktranslate %}</p>
+<p>Les frais des soins ne seront pas à votre charge.</p> 
+<p>{% blocktranslate %}"Les frais des soins ne seront pas à votre charge."{% endblocktranslate %}</p>
+<p>De quel pays venez-vous ?</p> 
+<p>{% blocktranslate %}"De quel pays venez-vous ?"{% endblocktranslate %}</p>
+<p>A quelle adresse vivez-vous actuellement ?</p> 
+<p>{% blocktranslate %}"A quelle adresse vivez-vous actuellement ?"{% endblocktranslate %}</p>
+<p>Avez-vous un numéro de téléphone où l’on peut vous joindre ?</p> 
+<p>{% blocktranslate %}"Avez-vous un numéro de téléphone où l’on peut vous joindre ?"{% endblocktranslate %}</p>
+<p>ATTENTE {% translate "ATTENTE" %} </p>
+<p>Je vous laisse attendre :</p> 
+<p>{% blocktranslate %}"Je vous laisse attendre :"{% endblocktranslate %}</p>
+<p>sur les chaises {% translate "sur les chaises" %} </p>
+<p>sur le banc {% translate "sur le banc" %} </p>
+<p>dans la salle d'attente</p> 
+<p>{% blocktranslate %}"dans la salle d'attente"{% endblocktranslate %}</p>
+<p>Nous viendrons vous appeler.</p> 
+<p>{% blocktranslate %}"Nous viendrons vous appeler."{% endblocktranslate %}</p>
+<p>Merci de ne pas manger, boire ou fumer pendant l’attente.</p> 
+<p>{% blocktranslate %}"Merci de ne pas manger, boire ou fumer pendant l’attente."{% endblocktranslate %}</p>
+<p>Votre famille devra attendre ici.</p> 
+<p>{% blocktranslate %}"Votre famille devra attendre ici."{% endblocktranslate %}</p>
+<p>Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé.</p> 
+<p>{% blocktranslate %}"Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé."{% endblocktranslate %}</p>
+<p>Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun.</p> 
+<p>{% blocktranslate %}"Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun."{% endblocktranslate %}</p>
+<p>Il faut attendre “1 heure” pour avoir les résultats de la prise de sang.</p> 
+<p>{% blocktranslate %}"Il faut attendre “1 heure” pour avoir les résultats de la prise de sang."{% endblocktranslate %}</p>
+<p>ACCUEIL {% translate "ACCUEIL" %} </p>
+<p>Qu’est-ce qui vous arrive ?</p> 
+<p>{% blocktranslate %}"Qu’est-ce qui vous arrive ?"{% endblocktranslate %}</p>
+<p>Avez-vous des douleurs ?</p> 
+<p>{% blocktranslate %}"Avez-vous des douleurs ?"{% endblocktranslate %}</p>
+<p>Oui {% translate "Oui" %} </p>
+<p>Non {% translate "Non" %} </p>
+<p>Montrez-moi où vous avez mal.</p> 
+<p>{% blocktranslate %}"Montrez-moi où vous avez mal."{% endblocktranslate %}</p>
+<p>Je vais vous examiner.</p> 
+<p>{% blocktranslate %}"Je vais vous examiner."{% endblocktranslate %}</p>
+<p>Pourriez-vous chiffrer votre douleur entre 0 et 10</p> 
+<p>{% blocktranslate %}"Pourriez-vous chiffrer votre douleur entre 0 et 10"{% endblocktranslate %}</p>
+<p>(10 étant la note pour une douleur insupportable) ?</p> 
+<p>{% blocktranslate %}"(10 étant la note pour une douleur insupportable) ?"{% endblocktranslate %}</p>
+<p>0 {% translate "0" %} </p>
+<p>1 {% translate "1" %} </p>
+<p>2 {% translate "2" %} </p>
+<p>3 {% translate "3" %} </p>
+<p>4 {% translate "4" %} </p>
+<p>5 {% translate "5" %} </p>
+<p>6 {% translate "6" %} </p>
+<p>7 {% translate "7" %} </p>
+<p>8 {% translate "8" %} </p>
+<p>9 {% translate "9" %} </p>
+<p>10 {% translate "10" %} </p>
+<p>Pouvez vous vous déshabiller pour que je vous examine.</p> 
+<p>{% blocktranslate %}"Pouvez vous vous déshabiller pour que je vous examine."{% endblocktranslate %}</p>
+<p>Vous pouvez garder vos sous-vêtements.</p> 
+<p>{% blocktranslate %}"Vous pouvez garder vos sous-vêtements."{% endblocktranslate %}</p>
+<p>Vous pouvez vous asseoir sur la chaise.</p> 
+<p>{% blocktranslate %}"Vous pouvez vous asseoir sur la chaise."{% endblocktranslate %}</p>
+<p>Vous pouvez vous allonger sur la table d'examen.</p> 
+<p>{% blocktranslate %}"Vous pouvez vous allonger sur la table d'examen."{% endblocktranslate %}</p>
+<p>Vous pouvez vous allonger sur le brancard.</p> 
+<p>{% blocktranslate %}"Vous pouvez vous allonger sur le brancard."{% endblocktranslate %}</p>
+<p>NEUROLOGIE {% translate "NEUROLOGIE" %} </p>
+<p>Avez-vous perdu connaissance ?</p> 
+<p>{% blocktranslate %}"Avez-vous perdu connaissance ?"{% endblocktranslate %}</p>
+<p>Savez-vous quel jour nous sommes ?</p> 
+<p>{% blocktranslate %}"Savez-vous quel jour nous sommes ?"{% endblocktranslate %}</p>
+<p>Savez-vous où vous êtes ?</p> 
+<p>{% blocktranslate %}"Savez-vous où vous êtes ?"{% endblocktranslate %}</p>
+<p>Suivez mon doigt du regard.</p> 
+<p>{% blocktranslate %}"Suivez mon doigt du regard."{% endblocktranslate %}</p>
+<p>Pouvez-vous bouger vos mains et vos pieds ?</p> 
+<p>{% blocktranslate %}"Pouvez-vous bouger vos mains et vos pieds ?"{% endblocktranslate %}</p>
+<p>Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?</p> 
+<p>{% blocktranslate %}"Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?"{% endblocktranslate %}</p>
+<p>Regardez-moi dans les yeux, je vais observer vos pupilles.</p> 
+<p>{% blocktranslate %}"Regardez-moi dans les yeux, je vais observer vos pupilles."{% endblocktranslate %}</p>
+<p>Avez vous des fourmillement ? Montrez moi où.</p> 
+<p>{% blocktranslate %}"Avez vous des fourmillement ? Montrez moi où."{% endblocktranslate %}</p>
+<p>Poussez sur mes mains.</p> 
+<p>{% blocktranslate %}"Poussez sur mes mains."{% endblocktranslate %}</p>
+<p>Ouvrez les yeux. {% translate "Ouvrez les yeux." %} </p>
+<p>Ouvrez la bouche {% translate "Ouvrez la bouche" %} </p>
+<p>Levez le bras droit.</p> 
+<p>{% blocktranslate %}"Levez le bras droit."{% endblocktranslate %}</p>
+<p>Avez-vous des douleurs à la tête ?</p> 
+<p>{% blocktranslate %}"Avez-vous des douleurs à la tête ?"{% endblocktranslate %}</p>
+<p>La douleur est apparue :</p> 
+<p>{% blocktranslate %}"La douleur est apparue :"{% endblocktranslate %}</p>
+<p>Progressivement {% translate "Progressivement" %} </p>
+<p>Brutalement {% translate "Brutalement" %} </p>
+<p>Avez vous des douleurs dans la nuque ?</p> 
+<p>{% blocktranslate %}"Avez vous des douleurs dans la nuque ?"{% endblocktranslate %}</p>
+<p>Avez-vous voyagez ces derniers mois ?</p> 
+<p>{% blocktranslate %}"Avez-vous voyagez ces derniers mois ?"{% endblocktranslate %}</p>
+<p>Dans quel pays ? {% translate "Dans quel pays ?" %} </p>
+<p>Est ce que la lumière vous dérange ?</p> 
+<p>{% blocktranslate %}"Est ce que la lumière vous dérange ?"{% endblocktranslate %}</p>
+<p>Est ce que le bruit vous dérange ?</p> 
+<p>{% blocktranslate %}"Est ce que le bruit vous dérange ?"{% endblocktranslate %}</p>
+<p>Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre.</p> 
+<p>{% blocktranslate %}"Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre."{% endblocktranslate %}</p>
+<p>PNEUMOLOGIE : {% translate "PNEUMOLOGIE :" %} </p>
+<p>Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps.</p> 
+<p>{% blocktranslate %}"Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps."{% endblocktranslate %}</p>
+<p>Etes-vous essoufflé ?</p> 
+<p>{% blocktranslate %}"Etes-vous essoufflé ?"{% endblocktranslate %}</p>
+<p>Prenez une grande inspiration puis bloquez votre respiration.</p> 
+<p>{% blocktranslate %}"Prenez une grande inspiration puis bloquez votre respiration."{% endblocktranslate %}</p>
+<p>Respirez normalement.</p> 
+<p>{% blocktranslate %}"Respirez normalement."{% endblocktranslate %}</p>
+<p>Respirez profondément.</p> 
+<p>{% blocktranslate %}"Respirez profondément."{% endblocktranslate %}</p>
+<p>Fumez-vous ? {% translate "Fumez-vous ?" %} </p>
+<p>Etes-vous asthmatique ?</p> 
+<p>{% blocktranslate %}"Etes-vous asthmatique ?"{% endblocktranslate %}</p>
+<p>Avez vous pris votre traitement contre l’asthme ?</p> 
+<p>{% blocktranslate %}"Avez vous pris votre traitement contre l’asthme ?"{% endblocktranslate %}</p>
+<p>Avez-vous respiré des fumées ?</p> 
+<p>{% blocktranslate %}"Avez-vous respiré des fumées ?"{% endblocktranslate %}</p>
+<p>Je vous laisse vous moucher, pour savoir s’il y a des traces de suie.</p> 
+<p>{% blocktranslate %}"Je vous laisse vous moucher, pour savoir s’il y a des traces de suie."{% endblocktranslate %}</p>
+<p>CARDIOLOGIE : {% translate "CARDIOLOGIE :" %} </p>
+<p>Est-ce que votre douleur :</p> 
+<p>{% blocktranslate %}"Est-ce que votre douleur :"{% endblocktranslate %}</p>
+<p>Serre {% translate "Serre" %} </p>
+<p>Pique {% translate "Pique" %} </p>
+<p>Brûle {% translate "Brûle" %} </p>
+<p>Est-ce que votre douleur irradie ? Montrez-moi vers où ?</p> 
+<p>{% blocktranslate %}"Est-ce que votre douleur irradie ? Montrez-moi vers où ?"{% endblocktranslate %}</p>
+<p>Depuis combien de temps avec vous cette douleur  ?</p> 
+<p>{% blocktranslate %}"Depuis combien de temps avec vous cette douleur  ?"{% endblocktranslate %}</p>
+<p>Minutes {% translate "Minutes" %} </p>
+<p>Heures {% translate "Heures" %} </p>
+<p>Jours {% translate "Jours" %} </p>
+<p>Je vais prendre votre pouls.</p> 
+<p>{% blocktranslate %}"Je vais prendre votre pouls."{% endblocktranslate %}</p>
+<p>Je vais appuyer doucement sur votre ongle.</p> 
+<p>{% blocktranslate %}"Je vais appuyer doucement sur votre ongle."{% endblocktranslate %}</p>
+<p>Je vais prendre votre pression artérielle.</p> 
+<p>{% blocktranslate %}"Je vais prendre votre pression artérielle."{% endblocktranslate %}</p>
+<p>Ressentez-vous des palpitations ?</p> 
+<p>{% blocktranslate %}"Ressentez-vous des palpitations ?"{% endblocktranslate %}</p>
+<p>Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement.</p> 
+<p>{% blocktranslate %}"Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement."{% endblocktranslate %}</p>
+<p>Est ce que ce médicament soulage votre douleur ?</p> 
+<p>{% blocktranslate %}"Est ce que ce médicament soulage votre douleur ?"{% endblocktranslate %}</p>
+<p>Buvez-vous de l'alcool ?</p> 
+<p>{% blocktranslate %}"Buvez-vous de l'alcool ?"{% endblocktranslate %}</p>
+<p>Avez-vous du diabète ?</p> 
+<p>{% blocktranslate %}"Avez-vous du diabète ?"{% endblocktranslate %}</p>
+<p>Avez-vous du cholestérol ?</p> 
+<p>{% blocktranslate %}"Avez-vous du cholestérol ?"{% endblocktranslate %}</p>
+<p>Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes.</p> 
+<p>{% blocktranslate %}"Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes."{% endblocktranslate %}</p>
+<p>MALAISE : {% translate "MALAISE :" %} </p>
+<p>Avez-vous senti votre malaise arriver ?</p> 
+<p>{% blocktranslate %}"Avez-vous senti votre malaise arriver ?"{% endblocktranslate %}</p>
+<p>Qu’avez-vous ressenti pendant la malaise ?</p> 
+<p>{% blocktranslate %}"Qu’avez-vous ressenti pendant la malaise ?"{% endblocktranslate %}</p>
+<p>Fourmillement {% translate "Fourmillement" %} </p>
+<p>Vertige {% translate "Vertige" %} </p>
+<p>Grande fatigue {% translate "Grande fatigue" %} </p>
+<p>Avez vous des vertiges ?</p> 
+<p>{% blocktranslate %}"Avez vous des vertiges ?"{% endblocktranslate %}</p>
+<p>La douleur irradie-t-elle ? Vers ou ?</p> 
+<p>{% blocktranslate %}"La douleur irradie-t-elle ? Vers ou ?"{% endblocktranslate %}</p>
+<p>A quel endroit avez-vous ressenti ces signes ?</p> 
+<p>{% blocktranslate %}"A quel endroit avez-vous ressenti ces signes ?"{% endblocktranslate %}</p>
+<p>Combien de temps à durer votre malaise ?</p> 
+<p>{% blocktranslate %}"Combien de temps à durer votre malaise ?"{% endblocktranslate %}</p>
+<p>Avez-vous perdu vos urines ?</p> 
+<p>{% blocktranslate %}"Avez-vous perdu vos urines ?"{% endblocktranslate %}</p>
+<p>Vous êtes-vous mordu la langue ? Ouvrez la bouche.</p> 
+<p>{% blocktranslate %}"Vous êtes-vous mordu la langue ? Ouvrez la bouche."{% endblocktranslate %}</p>
+<p>Avez vous convulsé ?</p> 
+<p>{% blocktranslate %}"Avez vous convulsé ?"{% endblocktranslate %}</p>
+<p>Avez-vous mangé aujourd’hui ?</p> 
+<p>{% blocktranslate %}"Avez-vous mangé aujourd’hui ?"{% endblocktranslate %}</p>
+<p>DIGESTIF {% translate "DIGESTIF" %} </p>
+<p>Montrez moi ou vous avez mal.</p> 
+<p>{% blocktranslate %}"Montrez moi ou vous avez mal."{% endblocktranslate %}</p>
+<p>Est ce que la douleur irradie, si oui montrez moi vers où.</p> 
+<p>{% blocktranslate %}"Est ce que la douleur irradie, si oui montrez moi vers où."{% endblocktranslate %}</p>
+<p>Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?</p> 
+<p>{% blocktranslate %}"Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?"{% endblocktranslate %}</p>
+<p>Avez-vous des brûlures quand vous urinez ?</p> 
+<p>{% blocktranslate %}"Avez-vous des brûlures quand vous urinez ?"{% endblocktranslate %}</p>
+<p>Est-ce qu’il y a du sang dans vos urines ?</p> 
+<p>{% blocktranslate %}"Est-ce qu’il y a du sang dans vos urines ?"{% endblocktranslate %}</p>
+<p>Quelle est la date de vos dernières règles ?</p> 
+<p>{% blocktranslate %}"Quelle est la date de vos dernières règles ?"{% endblocktranslate %}</p>
+<p>Etes vous enceinte ?</p> 
+<p>{% blocktranslate %}"Etes vous enceinte ?"{% endblocktranslate %}</p>
+<p>A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?</p> 
+<p>{% blocktranslate %}"A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?"{% endblocktranslate %}</p>
+<p>Êtes vous constipé ?</p> 
+<p>{% blocktranslate %}"Êtes vous constipé ?"{% endblocktranslate %}</p>
+<p>Depuis combien de jours ?</p> 
+<p>{% blocktranslate %}"Depuis combien de jours ?"{% endblocktranslate %}</p>
+<p>Avez-vous des nausées ?</p> 
+<p>{% blocktranslate %}"Avez-vous des nausées ?"{% endblocktranslate %}</p>
+<p>Avez-vous des diarrhées ?</p> 
+<p>{% blocktranslate %}"Avez-vous des diarrhées ?"{% endblocktranslate %}</p>
+<p>Avez-vous vomi ? {% translate "Avez-vous vomi ?" %} </p>
+<p>Y a-t-il du sang dans vos selles ?</p> 
+<p>{% blocktranslate %}"Y a-t-il du sang dans vos selles ?"{% endblocktranslate %}</p>
+<p>Avez-vous des gazs ?</p> 
+<p>{% blocktranslate %}"Avez-vous des gazs ?"{% endblocktranslate %}</p>
+<p>Je dois vous faire un toucher rectal, êtes vous d’accord ?</p> 
+<p>{% blocktranslate %}"Je dois vous faire un toucher rectal, êtes vous d’accord ?"{% endblocktranslate %}</p>
+<p>Il faudra uriner dans ce pot pour réaliser un examen.</p> 
+<p>{% blocktranslate %}"Il faudra uriner dans ce pot pour réaliser un examen."{% endblocktranslate %}</p>
+<p>Il faudra réaliser une toilette intime avant d’uriner dans le pot.</p> 
+<p>{% blocktranslate %}"Il faudra réaliser une toilette intime avant d’uriner dans le pot."{% endblocktranslate %}</p>
+<p>INFECTIEUX : {% translate "INFECTIEUX :" %} </p>
+<p>Avez-vous été piqué ou mordu ?</p> 
+<p>{% blocktranslate %}"Avez-vous été piqué ou mordu ?"{% endblocktranslate %}</p>
+<p>Montrez moi à quel endroit.</p> 
+<p>{% blocktranslate %}"Montrez moi à quel endroit."{% endblocktranslate %}</p>
+<p>Montrez moi où étaient les premiers boutons.</p> 
+<p>{% blocktranslate %}"Montrez moi où étaient les premiers boutons."{% endblocktranslate %}</p>
+<p>Depuis combien de temps la jambe est-elle rouge ?</p> 
+<p>{% blocktranslate %}"Depuis combien de temps la jambe est-elle rouge ?"{% endblocktranslate %}</p>
+<p>Est ce que ça vous démange ?</p> 
+<p>{% blocktranslate %}"Est ce que ça vous démange ?"{% endblocktranslate %}</p>
+<p>Il faut rester en isolement.</p> 
+<p>{% blocktranslate %}"Il faut rester en isolement."{% endblocktranslate %}</p>
+<p>Vous devez garder ce masque sur vous.</p> 
+<p>{% blocktranslate %}"Vous devez garder ce masque sur vous."{% endblocktranslate %}</p>
+<p>Avez-vous eu des rapports sexuels non protégés ?</p> 
+<p>{% blocktranslate %}"Avez-vous eu des rapports sexuels non protégés ?"{% endblocktranslate %}</p>
+<p>Je vais prendre votre température</p> 
+<p>{% blocktranslate %}"Je vais prendre votre température"{% endblocktranslate %}</p>
+<p>OPHTALMOLOGIE : {% translate "OPHTALMOLOGIE :" %} </p>
+<p>Est-ce que vous voyez flou ?</p> 
+<p>{% blocktranslate %}"Est-ce que vous voyez flou ?"{% endblocktranslate %}</p>
+<p>Est-ce que vous voyez double ?</p> 
+<p>{% blocktranslate %}"Est-ce que vous voyez double ?"{% endblocktranslate %}</p>
+<p>Avez-vous mal à la tête ?</p> 
+<p>{% blocktranslate %}"Avez-vous mal à la tête ?"{% endblocktranslate %}</p>
+<p>Est ce que vous avez l’impression que la pièce tourne autour de vous ?</p> 
+<p>{% blocktranslate %}"Est ce que vous avez l’impression que la pièce tourne autour de vous ?"{% endblocktranslate %}</p>
+<p>Avez-vous reçu un coup à la tête récemment ?</p> 
+<p>{% blocktranslate %}"Avez-vous reçu un coup à la tête récemment ?"{% endblocktranslate %}</p>
+<p>ANTÉCÉDENTS {% translate "ANTÉCÉDENTS" %} </p>
+<p>Avez-vous des maladies (diabète, hypertension ?)</p> 
+<p>{% blocktranslate %}"Avez-vous des maladies (diabète, hypertension ?)"{% endblocktranslate %}</p>
+<p>Avez-vous été hospitalisé récemment ?</p> 
+<p>{% blocktranslate %}"Avez-vous été hospitalisé récemment ?"{% endblocktranslate %}</p>
+<p>Avez-vous un traitement en cours ? (lequel ?)</p> 
+<p>{% blocktranslate %}"Avez-vous un traitement en cours ? (lequel ?)"{% endblocktranslate %}</p>
+<p>Avez-vous une ordonnance avec vos traitements ?</p> 
+<p>{% blocktranslate %}"Avez-vous une ordonnance avec vos traitements ?"{% endblocktranslate %}</p>
+<p>Avez-vous des allergies ? (lesquelles ?)</p> 
+<p>{% blocktranslate %}"Avez-vous des allergies ? (lesquelles ?)"{% endblocktranslate %}</p>
+<p>Y a-t-il des antécédents de maladie dans votre famille ?</p> 
+<p>{% blocktranslate %}"Y a-t-il des antécédents de maladie dans votre famille ?"{% endblocktranslate %}</p>
+<p>Pouvez-vous vous asseoir ?</p> 
+<p>{% blocktranslate %}"Pouvez-vous vous asseoir ?"{% endblocktranslate %}</p>
+<p>Pouvez-vous vous lever ?</p> 
+<p>{% blocktranslate %}"Pouvez-vous vous lever ?"{% endblocktranslate %}</p>
+<p>Pouvez-vous marcher ?</p> 
+<p>{% blocktranslate %}"Pouvez-vous marcher ?"{% endblocktranslate %}</p>
+<p>PEDIATRIE : {% translate "PEDIATRIE :" %} </p>
+<p>Le bébé a t il perdu du poids ? Combien de kilo ?</p> 
+<p>{% blocktranslate %}"Le bébé a t il perdu du poids ? Combien de kilo ?"{% endblocktranslate %}</p>
+<p>Est-ce que le bébé est à jour de ces vaccins ?</p> 
+<p>{% blocktranslate %}"Est-ce que le bébé est à jour de ces vaccins ?"{% endblocktranslate %}</p>
+<p>Est-ce que ses frères et soeurs sont malades ?</p> 
+<p>{% blocktranslate %}"Est-ce que ses frères et soeurs sont malades ?"{% endblocktranslate %}</p>
+<p>Est-ce qu’il mange bien ?</p> 
+<p>{% blocktranslate %}"Est-ce qu’il mange bien ?"{% endblocktranslate %}</p>
+<p>Est-ce qu’il vomi ? {% translate "Est-ce qu’il vomi ?" %} </p>
+<p>Est-ce qu’il semble plus agité que d’habitude ?</p> 
+<p>{% blocktranslate %}"Est-ce qu’il semble plus agité que d’habitude ?"{% endblocktranslate %}</p>
+<p>Est-ce qu’il semble plus fatigué que d’habitude ?</p> 
+<p>{% blocktranslate %}"Est-ce qu’il semble plus fatigué que d’habitude ?"{% endblocktranslate %}</p>
+<p>Est ce qu’il a la diarrhée ?</p> 
+<p>{% blocktranslate %}"Est ce qu’il a la diarrhée ?"{% endblocktranslate %}</p>
+<p>GYNECOLOGIE : {% translate "GYNECOLOGIE :" %} </p>
+<p>Etes vous enceinte ?</p> 
+<p>{% blocktranslate %}"Etes vous enceinte ?"{% endblocktranslate %}</p>
+<p>De combien de semaines ?</p> 
+<p>{% blocktranslate %}"De combien de semaines ?"{% endblocktranslate %}</p>
+<p>Avez vous vos règles ?</p> 
+<p>{% blocktranslate %}"Avez vous vos règles ?"{% endblocktranslate %}</p>
+<p>Avez vous perdu du sang ?</p> 
+<p>{% blocktranslate %}"Avez vous perdu du sang ?"{% endblocktranslate %}</p>
+<p>Vos pertes étaient elles rouge ou noir ?</p> 
+<p>{% blocktranslate %}"Vos pertes étaient elles rouge ou noir ?"{% endblocktranslate %}</p>
+<p>Avez vous eu des problèmes lors de vos précédentes grossesse ?</p> 
+<p>{% blocktranslate %}"Avez vous eu des problèmes lors de vos précédentes grossesse ?"{% endblocktranslate %}</p>
+<p>Avez vous des contractions ?</p> 
+<p>{% blocktranslate %}"Avez vous des contractions ?"{% endblocktranslate %}</p>
+<p>Avez vous perdu les eaux ?</p> 
+<p>{% blocktranslate %}"Avez vous perdu les eaux ?"{% endblocktranslate %}</p>
+<p>Sentez vous le bébé bouger ?</p> 
+<p>{% blocktranslate %}"Sentez vous le bébé bouger ?"{% endblocktranslate %}</p>
+<p>Avez vous une contraception ?</p> 
+<p>{% blocktranslate %}"Avez vous une contraception ?"{% endblocktranslate %}</p>
+<p>Je dois faire un examen gynécologique, allongez vous sur la table.</p> 
+<p>{% blocktranslate %}"Je dois faire un examen gynécologique, allongez vous sur la table."{% endblocktranslate %}</p>
+<p>Il faut retirer vos sous-vêtements.</p> 
+<p>{% blocktranslate %}"Il faut retirer vos sous-vêtements."{% endblocktranslate %}</p>
+<p>TRAUMATOLOGIE: {% translate "TRAUMATOLOGIE:" %} </p>
+<p>Avez-vous été éjecté du véhicule ?</p> 
+<p>{% blocktranslate %}"Avez-vous été éjecté du véhicule ?"{% endblocktranslate %}</p>
+<p>A quelle vitesse rouliez-vous ?</p> 
+<p>{% blocktranslate %}"A quelle vitesse rouliez-vous ?"{% endblocktranslate %}</p>
+<p>Etiez-vous casqué ? {% translate "Etiez-vous casqué ?" %} </p>
+<p>Aviez-vous votre ceinture de sécurité ?</p> 
+<p>{% blocktranslate %}"Aviez-vous votre ceinture de sécurité ?"{% endblocktranslate %}</p>
+<p>Avez vous fait une chute ?</p> 
+<p>{% blocktranslate %}"Avez vous fait une chute ?"{% endblocktranslate %}</p>
+<p>De quelle hauteur êtes-vous tombé ?</p> 
+<p>{% blocktranslate %}"De quelle hauteur êtes-vous tombé ?"{% endblocktranslate %}</p>
+<p>Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?</p> 
+<p>{% blocktranslate %}"Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?"{% endblocktranslate %}</p>
+<p>Je vais installer une collier afin de protéger votre colonne vertébrale.</p> 
+<p>{% blocktranslate %}"Je vais installer une collier afin de protéger votre colonne vertébrale."{% endblocktranslate %}</p>
+<p>Je dois mettre un antiseptique sur la plaie.</p> 
+<p>{% blocktranslate %}"Je dois mettre un antiseptique sur la plaie."{% endblocktranslate %}</p>
+<p>Je dois suturer la plaie.</p> 
+<p>{% blocktranslate %}"Je dois suturer la plaie."{% endblocktranslate %}</p>
+<p>Je dois faire un pansement.</p> 
+<p>{% blocktranslate %}"Je dois faire un pansement."{% endblocktranslate %}</p>
+<p>Je vais faire une anesthésie autour de la plaie.</p> 
+<p>{% blocktranslate %}"Je vais faire une anesthésie autour de la plaie."{% endblocktranslate %}</p>
+<p>Ne bougez pas. {% translate "Ne bougez pas." %} </p>
+<p>Je dois vous faire un plâtre.</p> 
+<p>{% blocktranslate %}"Je dois vous faire un plâtre."{% endblocktranslate %}</p>
+<p>Vous devez être opéré.</p> 
+<p>{% blocktranslate %}"Vous devez être opéré."{% endblocktranslate %}</p>
+<p>EXAMENS {% translate "EXAMENS" %} </p>
+<p>Vous devez avoir : {% translate "Vous devez avoir :" %} </p>
+<p>Je vais vous faire :</p> 
+<p>{% blocktranslate %}"Je vais vous faire :"{% endblocktranslate %}</p>
+<p>une perfusion {% translate "une perfusion" %} </p>
+<p>une prise de sang {% translate "une prise de sang" %} </p>
+<p>un pansement {% translate "un pansement" %} </p>
+<p>une piqûre {% translate "une piqûre" %} </p>
+<p>votre toilette {% translate "votre toilette" %} </p>
+<p>un scanner {% translate "un scanner" %} </p>
+<p>une radiographie {% translate "une radiographie" %} </p>
+<p>un plâtre {% translate "un plâtre" %} </p>
+<p>une échographie {% translate "une échographie" %} </p>
+<p>une opération {% translate "une opération" %} </p>
+<p>Aujourd'hui {% translate "Aujourd'hui" %} </p>
+<p>Demain {% translate "Demain" %} </p>
+<p>Vous devez prendre une douche avec un shampoing avant l'opération.</p> 
+<p>{% blocktranslate %}"Vous devez prendre une douche avec un shampoing avant l'opération."{% endblocktranslate %}</p>
+<p>L’examen n’est pas douloureux.</p> 
+<p>{% blocktranslate %}"L’examen n’est pas douloureux."{% endblocktranslate %}</p>
+<p>Après l'opération vous aurez :</p> 
+<p>{% blocktranslate %}"Après l'opération vous aurez :"{% endblocktranslate %}</p>
+<p>Une sonde urinaire {% translate "Une sonde urinaire" %} </p>
+<p>Une sonde gastrique {% translate "Une sonde gastrique" %} </p>
+<p>Un drain {% translate "Un drain" %} </p>
+<p>Une cicatrice {% translate "Une cicatrice" %} </p>
+<p>Vous devez retier tous vos bijoux et piercing.</p> 
+<p>{% blocktranslate %}"Vous devez retier tous vos bijoux et piercing."{% endblocktranslate %}</p>
+<p>Vous devez retier votre vernis a ongles.</p> 
+<p>{% blocktranslate %}"Vous devez retier votre vernis a ongles."{% endblocktranslate %}</p>
+<p>Vous devez retier vos appareils dentaires et auditifs.</p> 
+<p>{% blocktranslate %}"Vous devez retier vos appareils dentaires et auditifs."{% endblocktranslate %}</p>
+<p>Dites nous si vous avez :</p> 
+<p>{% blocktranslate %}"Dites nous si vous avez :"{% endblocktranslate %}</p>
+<p>Un pace-maker {% translate "Un pace-maker" %} </p>
+<p>Une valve cardiaque {% translate "Une valve cardiaque" %} </p>
+<p>Un stent {% translate "Un stent" %} </p>
+<p>Une prothèse {% translate "Une prothèse" %} </p>
+<p>TRAITEMENTS et CONSIGNES</p> 
+<p>{% blocktranslate %}"TRAITEMENTS et CONSIGNES"{% endblocktranslate %}</p>
+<p>Je vous donne : {% translate "Je vous donne :" %} </p>
+<p>des médicaments {% translate "des médicaments" %} </p>
+<p>des antalgiques {% translate "des antalgiques" %} </p>
+<p>des antibiotiques {% translate "des antibiotiques" %} </p>
+<p>Vous ne devez pas boire</p> 
+<p>{% blocktranslate %}"Vous ne devez pas boire"{% endblocktranslate %}</p>
+<p>Vous ne devez pas manger.</p> 
+<p>{% blocktranslate %}"Vous ne devez pas manger."{% endblocktranslate %}</p>
+<p>Vous ne devez pas vous lever.</p> 
+<p>{% blocktranslate %}"Vous ne devez pas vous lever."{% endblocktranslate %}</p>
+<p>Vous devez rester sur le dos.</p> 
+<p>{% blocktranslate %}"Vous devez rester sur le dos."{% endblocktranslate %}</p>
+<p>Vous ne devez pas fumer.</p> 
+<p>{% blocktranslate %}"Vous ne devez pas fumer."{% endblocktranslate %}</p>
+<p>Pour nous appeler appuyer ici.</p> 
+<p>{% blocktranslate %}"Pour nous appeler appuyer ici."{% endblocktranslate %}</p>
+<p>Pour allumer ou éteindre les lumières appuyer ici.</p> 
+<p>{% blocktranslate %}"Pour allumer ou éteindre les lumières appuyer ici."{% endblocktranslate %}</p>
+<p>Les toilettes sont ici.</p> 
+<p>{% blocktranslate %}"Les toilettes sont ici."{% endblocktranslate %}</p>
+<p>La salle de bain est ici.</p> 
+<p>{% blocktranslate %}"La salle de bain est ici."{% endblocktranslate %}</p>
+<p>Votre chambre est ici.</p> 
+<p>{% blocktranslate %}"Votre chambre est ici."{% endblocktranslate %}</p>
+<p>CONCLUSION {% translate "CONCLUSION" %} </p>
+<p>Il y a une fracture.</p> 
+<p>{% blocktranslate %}"Il y a une fracture."{% endblocktranslate %}</p>
+<p>Il n’y a pas de fracture.</p> 
+<p>{% blocktranslate %}"Il n’y a pas de fracture."{% endblocktranslate %}</p>
+<p>Vous devez être opéré.</p> 
+<p>{% blocktranslate %}"Vous devez être opéré."{% endblocktranslate %}</p>
+<p>Vous devez revenir demain matin.</p> 
+<p>{% blocktranslate %}"Vous devez revenir demain matin."{% endblocktranslate %}</p>
+<p>Vous devez revenir dans :</p> 
+<p>{% blocktranslate %}"Vous devez revenir dans :"{% endblocktranslate %}</p>
+<p>Vous devrez faire retirer les fils dans :</p> 
+<p>{% blocktranslate %}"Vous devrez faire retirer les fils dans :"{% endblocktranslate %}</p>
+<p>Vous devez avoir un plâtre.</p> 
+<p>{% blocktranslate %}"Vous devez avoir un plâtre."{% endblocktranslate %}</p>
+<p>Vous devrez porter une attelle.</p> 
+<p>{% blocktranslate %}"Vous devrez porter une attelle."{% endblocktranslate %}</p>
+<p>Vous pouvez rentrer chez vous.</p> 
+<p>{% blocktranslate %}"Vous pouvez rentrer chez vous."{% endblocktranslate %}</p>
+<p>Vous devez aller à l'hôpital</p> 
+<p>{% blocktranslate %}"Vous devez aller à l'hôpital"{% endblocktranslate %}</p>
+<p>Vous devez rester à l'hôpital.</p> 
+<p>{% blocktranslate %}"Vous devez rester à l'hôpital."{% endblocktranslate %}</p>
+<p>Vous allez être transféré dans un autre service.</p> 
+<p>{% blocktranslate %}"Vous allez être transféré dans un autre service."{% endblocktranslate %}</p>
+<p>PATIENT EN STRUCTURE</p> 
+<p>{% blocktranslate %}"PATIENT EN STRUCTURE"{% endblocktranslate %}</p>
+<p>J’ai faim {% translate "J’ai faim" %} </p>
+<p>j’ai soif {% translate "j’ai soif" %} </p>
+<p>j’ai mal {% translate "j’ai mal" %} </p>
+<p>j’ai froid {% translate "j’ai froid" %} </p>
+<p>j’ai chaud {% translate "j’ai chaud" %} </p>
+<p>j’ai des nausées {% translate "j’ai des nausées" %} </p>
+<p>j’ai vomi {% translate "j’ai vomi" %} </p>
+<p>j’ai uriné (je voudrais être changé)</p> 
+<p>{% blocktranslate %}"j’ai uriné (je voudrais être changé)"{% endblocktranslate %}</p>
+<p>je voudrais uriner {% translate "je voudrais uriner" %} </p>
+<p>je voudrais déféquer</p> 
+<p>{% blocktranslate %}"je voudrais déféquer"{% endblocktranslate %}</p>
+<p>j’ai des vertiges {% translate "j’ai des vertiges" %} </p>
+<p>j’ai peur {% translate "j’ai peur" %} </p>
+<p>je voudrais être réinstallé.</p> 
+<p>{% blocktranslate %}"je voudrais être réinstallé."{% endblocktranslate %}</p>
+<p>je voudrais des informations.</p> 
+<p>{% blocktranslate %}"je voudrais des informations."{% endblocktranslate %}</p>
+<p>J’ai eu un accident.</p> 
+<p>{% blocktranslate %}"J’ai eu un accident."{% endblocktranslate %}</p>
+<p>J’étais piéton. {% translate "J’étais piéton." %} </p>
+<p>J’ai été renversé. {% translate "J’ai été renversé." %} </p>
+<p>Je n’ai pas été renversé.</p> 
+<p>{% blocktranslate %}"Je n’ai pas été renversé."{% endblocktranslate %}</p>
+<p>Je suis tombé. {% translate "Je suis tombé." %} </p>
+<p>J’ai reçu un coup. {% translate "J’ai reçu un coup." %} </p>
+<p>J’étais en voiture. {% translate "J’étais en voiture." %} </p>
+<p>Je roulais à “x” km/h.</p> 
+<p>{% blocktranslate %}"Je roulais à “x” km/h."{% endblocktranslate %}</p>
+<p>J’avais ma ceinture de sécurité.</p> 
+<p>{% blocktranslate %}"J’avais ma ceinture de sécurité."{% endblocktranslate %}</p>
+<p>Je n’avais pas de ceinture de sécurité.</p> 
+<p>{% blocktranslate %}"Je n’avais pas de ceinture de sécurité."{% endblocktranslate %}</p>
+<p>J’ai été éjecté pendant l’accident.</p> 
+<p>{% blocktranslate %}"J’ai été éjecté pendant l’accident."{% endblocktranslate %}</p>
+<p>Je n’ai pas été éjecté pendant l’accident.</p> 
+<p>{% blocktranslate %}"Je n’ai pas été éjecté pendant l’accident."{% endblocktranslate %}</p>
+<p>L’air-bag s’est déclenché.</p> 
+<p>{% blocktranslate %}"L’air-bag s’est déclenché."{% endblocktranslate %}</p>
+<p>L’air-bag ne s’est pas déclenché.</p> 
+<p>{% blocktranslate %}"L’air-bag ne s’est pas déclenché."{% endblocktranslate %}</p>
+<p>J’étais en vélo. {% translate "J’étais en vélo." %} </p>
+<p>J'étais en scooter. {% translate "J'étais en scooter." %} </p>
+<p>J'étais en moto. {% translate "J'étais en moto." %} </p>
+<p>Je roulais à “x” km/h</p> 
+<p>{% blocktranslate %}"Je roulais à “x” km/h"{% endblocktranslate %}</p>
+<p>J’avais un casque {% translate "J’avais un casque" %} </p>
+<p>Je n’avais pas de casque.</p> 
+<p>{% blocktranslate %}"Je n’avais pas de casque."{% endblocktranslate %}</p>
+<p>Je suis tombé. {% translate "Je suis tombé." %} </p>
+<p>Je suis tombé de ma hauteur.</p> 
+<p>{% blocktranslate %}"Je suis tombé de ma hauteur."{% endblocktranslate %}</p>
+<p>Je suis tombé de “x” mètres de haut.</p> 
+<p>{% blocktranslate %}"Je suis tombé de “x” mètres de haut."{% endblocktranslate %}</p>
+<p>Ma tête a tapé pendant l’accident.</p> 
+<p>{% blocktranslate %}"Ma tête a tapé pendant l’accident."{% endblocktranslate %}</p>
+<p>Ma tête n’a pas tapé pendant l’accident</p> 
+<p>{% blocktranslate %}"Ma tête n’a pas tapé pendant l’accident"{% endblocktranslate %}</p>
+<p>J’ai des douleurs : {% translate "J’ai des douleurs :" %} </p>
+<p>à la tête {% translate "à la tête" %} </p>
+<p>au cou {% translate "au cou" %} </p>
+<p>au dos {% translate "au dos" %} </p>
+<p>au bras {% translate "au bras" %} </p>
+<p>à la jambe {% translate "à la jambe" %} </p>
+<p>au torse {% translate "au torse" %} </p>
+<p>au ventre {% translate "au ventre" %} </p>
+<p>Je prend des anticoagulants (médicaments pour fluidifier le sang).</p> 
+<p>{% blocktranslate %}"Je prend des anticoagulants (médicaments pour fluidifier le sang)."{% endblocktranslate %}</p>
+<p>Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang)</p> 
+<p>{% blocktranslate %}"Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang)"{% endblocktranslate %}</p>
+<p>Tête {% translate "Tête" %} </p>
+<p>J’ai des douleurs depuis :</p> 
+<p>{% blocktranslate %}"J’ai des douleurs depuis :"{% endblocktranslate %}</p>
+<p>La douleur est apparue :</p> 
+<p>{% blocktranslate %}"La douleur est apparue :"{% endblocktranslate %}</p>
+<p>Brutalement {% translate "Brutalement" %} </p>
+<p>Progressivement {% translate "Progressivement" %} </p>
+<p>J’arrive bien à bouger mes bras et jambes.</p> 
+<p>{% blocktranslate %}"J’arrive bien à bouger mes bras et jambes."{% endblocktranslate %}</p>
+<p>Je n’arrive pas a bouger un bras ou une jambe</p> 
+<p>{% blocktranslate %}"Je n’arrive pas a bouger un bras ou une jambe"{% endblocktranslate %}</p>
+<p>J’arrive bien à parler.</p> 
+<p>{% blocktranslate %}"J’arrive bien à parler."{% endblocktranslate %}</p>
+<p>J’ai des difficultés à parler.</p> 
+<p>{% blocktranslate %}"J’ai des difficultés à parler."{% endblocktranslate %}</p>
+<p>La lumière me dérange.</p> 
+<p>{% blocktranslate %}"La lumière me dérange."{% endblocktranslate %}</p>
+<p>La lumière ne me dérange pas.</p> 
+<p>{% blocktranslate %}"La lumière ne me dérange pas."{% endblocktranslate %}</p>
+<p>J’ai de la fièvre. {% translate "J’ai de la fièvre." %} </p>
+<p>Je n’ai pas de fièvre.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de fièvre."{% endblocktranslate %}</p>
+<p>J’ai des douleurs à la nuque.</p> 
+<p>{% blocktranslate %}"J’ai des douleurs à la nuque."{% endblocktranslate %}</p>
+<p>Je n’ai pas de douleurs à la nuque.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de douleurs à la nuque."{% endblocktranslate %}</p>
+<p>J’ai fais un malaise.</p> 
+<p>{% blocktranslate %}"J’ai fais un malaise."{% endblocktranslate %}</p>
+<p>Je n’ai pas fais de malaise.</p> 
+<p>{% blocktranslate %}"Je n’ai pas fais de malaise."{% endblocktranslate %}</p>
+<p>J’ai perdu connaissance.</p> 
+<p>{% blocktranslate %}"J’ai perdu connaissance."{% endblocktranslate %}</p>
+<p>Je n’ai pas perdu connaissance.</p> 
+<p>{% blocktranslate %}"Je n’ai pas perdu connaissance."{% endblocktranslate %}</p>
+<p>J’ai perdu mes urines.</p> 
+<p>{% blocktranslate %}"J’ai perdu mes urines."{% endblocktranslate %}</p>
+<p>Je n’ai pas perdu mes urines.</p> 
+<p>{% blocktranslate %}"Je n’ai pas perdu mes urines."{% endblocktranslate %}</p>
+<p>J’ai convulsé. {% translate "J’ai convulsé." %} </p>
+<p>Je n’ai pas convulsé.</p> 
+<p>{% blocktranslate %}"Je n’ai pas convulsé."{% endblocktranslate %}</p>
+<p>Je suis épileptique.</p> 
+<p>{% blocktranslate %}"Je suis épileptique."{% endblocktranslate %}</p>
+<p>Je ne suis pas épileptique.</p> 
+<p>{% blocktranslate %}"Je ne suis pas épileptique."{% endblocktranslate %}</p>
+<p>J’ai pris mes traitements aujourd’hui.</p> 
+<p>{% blocktranslate %}"J’ai pris mes traitements aujourd’hui."{% endblocktranslate %}</p>
+<p>Je n’ai pas prit mes traitements aujourd’hui.</p> 
+<p>{% blocktranslate %}"Je n’ai pas prit mes traitements aujourd’hui."{% endblocktranslate %}</p>
+<p>J’ai des vertiges. {% translate "J’ai des vertiges." %} </p>
+<p>Je n’ai pas de vertiges.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de vertiges."{% endblocktranslate %}</p>
+<p>Je suis diabétique. {% translate "Je suis diabétique." %} </p>
+<p>Je ne suis pas diabétique.</p> 
+<p>{% blocktranslate %}"Je ne suis pas diabétique."{% endblocktranslate %}</p>
+<p>J’ai mangé aujourd’hui.</p> 
+<p>{% blocktranslate %}"J’ai mangé aujourd’hui."{% endblocktranslate %}</p>
+<p>Je n’ai pas mangé aujourd’hui.</p> 
+<p>{% blocktranslate %}"Je n’ai pas mangé aujourd’hui."{% endblocktranslate %}</p>
+<p>Torse {% translate "Torse" %} </p>
+<p>J’ai eu un choc au torse récemment.</p> 
+<p>{% blocktranslate %}"J’ai eu un choc au torse récemment."{% endblocktranslate %}</p>
+<p>Je n’ai pas eu de choc au torse récemment.</p> 
+<p>{% blocktranslate %}"Je n’ai pas eu de choc au torse récemment."{% endblocktranslate %}</p>
+<p>La douleur est encore présente.</p> 
+<p>{% blocktranslate %}"La douleur est encore présente."{% endblocktranslate %}</p>
+<p>La douleur n’est plus présente.</p> 
+<p>{% blocktranslate %}"La douleur n’est plus présente."{% endblocktranslate %}</p>
+<p>La douleur : {% translate "La douleur :" %} </p>
+<p>Pique {% translate "Pique" %} </p>
+<p>Serre {% translate "Serre" %} </p>
+<p>Brûle {% translate "Brûle" %} </p>
+<p>La douleur irradie vers :</p> 
+<p>{% blocktranslate %}"La douleur irradie vers :"{% endblocktranslate %}</p>
+<p>Machoire {% translate "Machoire" %} </p>
+<p>Je ressent des palpitations.</p> 
+<p>{% blocktranslate %}"Je ressent des palpitations."{% endblocktranslate %}</p>
+<p>Je ne ressent pas de palpitations.</p> 
+<p>{% blocktranslate %}"Je ne ressent pas de palpitations."{% endblocktranslate %}</p>
+<p>Dans ma famille il y a des problèmes cardiaques.</p> 
+<p>{% blocktranslate %}"Dans ma famille il y a des problèmes cardiaques."{% endblocktranslate %}</p>
+<p>Dans ma famille il n’y a pas de problème cardiaque.</p> 
+<p>{% blocktranslate %}"Dans ma famille il n’y a pas de problème cardiaque."{% endblocktranslate %}</p>
+<p>La douleur est plus forte quand je respire.</p> 
+<p>{% blocktranslate %}"La douleur est plus forte quand je respire."{% endblocktranslate %}</p>
+<p>La douleur n’est pas plus forte quand je respire.</p> 
+<p>{% blocktranslate %}"La douleur n’est pas plus forte quand je respire."{% endblocktranslate %}</p>
+<p>Je crache du sang. {% translate "Je crache du sang." %} </p>
+<p>Je ne crache pas du sang.</p> 
+<p>{% blocktranslate %}"Je ne crache pas du sang."{% endblocktranslate %}</p>
+<p>Je tousse. {% translate "Je tousse." %} </p>
+<p>Je ne tousse pas. {% translate "Je ne tousse pas." %} </p>
+<p>J’ai des difficultés à respirer.</p> 
+<p>{% blocktranslate %}"J’ai des difficultés à respirer."{% endblocktranslate %}</p>
+<p>Je n’ai pas de difficultés à respirer.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de difficultés à respirer."{% endblocktranslate %}</p>
+<p>J’ai respiré des fumées.</p> 
+<p>{% blocktranslate %}"J’ai respiré des fumées."{% endblocktranslate %}</p>
+<p>Je fume. {% translate "Je fume." %} </p>
+<p>Je ne fume pas. {% translate "Je ne fume pas." %} </p>
+<p>Je bois de l’alcool.</p> 
+<p>{% blocktranslate %}"Je bois de l’alcool."{% endblocktranslate %}</p>
+<p>Je ne bois pas d’alcool.</p> 
+<p>{% blocktranslate %}"Je ne bois pas d’alcool."{% endblocktranslate %}</p>
+<p>J’ai du cholestérol.</p> 
+<p>{% blocktranslate %}"J’ai du cholestérol."{% endblocktranslate %}</p>
+<p>Je n’ai pas de cholestérol.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de cholestérol."{% endblocktranslate %}</p>
+<p>Je suis asthmatique.</p> 
+<p>{% blocktranslate %}"Je suis asthmatique."{% endblocktranslate %}</p>
+<p>Je ne suis pas asthmatique.</p> 
+<p>{% blocktranslate %}"Je ne suis pas asthmatique."{% endblocktranslate %}</p>
+<p>Ventre {% translate "Ventre" %} </p>
+<p>J'ai des nausées. {% translate "J'ai des nausées." %} </p>
+<p>Je n'ai pas de nausées.</p> 
+<p>{% blocktranslate %}"Je n'ai pas de nausées."{% endblocktranslate %}</p>
+<p>J’ai vomi. {% translate "J’ai vomi." %} </p>
+<p>Je n’ai pas vomi. {% translate "Je n’ai pas vomi." %} </p>
+<p>Des aliments. {% translate "Des aliments." %} </p>
+<p>Du sang. {% translate "Du sang." %} </p>
+<p>1 fois {% translate "1 fois" %} </p>
+<p>2 fois {% translate "2 fois" %} </p>
+<p>Plusieurs fois. {% translate "Plusieurs fois." %} </p>
+<p>J’ai des diarrhées. {% translate "J’ai des diarrhées." %} </p>
+<p>Je n’ai pas de diarrhées.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de diarrhées."{% endblocktranslate %}</p>
+<p>J’ai des gazs. {% translate "J’ai des gazs." %} </p>
+<p>Je n’ai plus de gazs.</p> 
+<p>{% blocktranslate %}"Je n’ai plus de gazs."{% endblocktranslate %}</p>
+<p>Mes dernières urines étaient il y a :</p> 
+<p>{% blocktranslate %}"Mes dernières urines étaient il y a :"{% endblocktranslate %}</p>
+<p>Il y avait du sang dans mes urines.</p> 
+<p>{% blocktranslate %}"Il y avait du sang dans mes urines."{% endblocktranslate %}</p>
+<p>Il n’y avait pas de sang dans mes urines.</p> 
+<p>{% blocktranslate %}"Il n’y avait pas de sang dans mes urines."{% endblocktranslate %}</p>
+<p>J’ai des brulures quand j’urine.</p> 
+<p>{% blocktranslate %}"J’ai des brulures quand j’urine."{% endblocktranslate %}</p>
+<p>Je n’ai pas de brulures quand j’urine.</p> 
+<p>{% blocktranslate %}"Je n’ai pas de brulures quand j’urine."{% endblocktranslate %}</p>
+<p>Mes dernières selles étaient il y a :</p> 
+<p>{% blocktranslate %}"Mes dernières selles étaient il y a :"{% endblocktranslate %}</p>
+<p>Il y avait du sang dans mes selles.</p> 
+<p>{% blocktranslate %}"Il y avait du sang dans mes selles."{% endblocktranslate %}</p>
+<p>Il n’y avait pas de sang dans mes selles.</p> 
+<p>{% blocktranslate %}"Il n’y avait pas de sang dans mes selles."{% endblocktranslate %}</p>
+<p>Mes dernières règles étaient il y a :</p> 
+<p>{% blocktranslate %}"Mes dernières règles étaient il y a :"{% endblocktranslate %}</p>
+<p>Je suis enceinte. {% translate "Je suis enceinte." %} </p>
+<p>Je ne suis pas enceinte.</p> 
+<p>{% blocktranslate %}"Je ne suis pas enceinte."{% endblocktranslate %}</p>
+<p>Depuis “x” semaines {% translate "Depuis “x” semaines" %} </p>
+<p>J’ai eu des pertes par voie basse.</p> 
+<p>{% blocktranslate %}"J’ai eu des pertes par voie basse."{% endblocktranslate %}</p>
+<p>Je n’ai pas eu de perte par voie basse.</p> 
+<p>{% blocktranslate %}"Je n’ai pas eu de perte par voie basse."{% endblocktranslate %}</p>
+<p>Mes pertes étaient :</p> 
+<p>{% blocktranslate %}"Mes pertes étaient :"{% endblocktranslate %}</p>
+<p>De couleur rouge. {% translate "De couleur rouge." %} </p>
+<p>De couleur noire. {% translate "De couleur noire." %} </p>
+<p>J’ai perdu du poids ces derniers temps.</p> 
+<p>{% blocktranslate %}"J’ai perdu du poids ces derniers temps."{% endblocktranslate %}</p>
+<p>Je n’ai pas perdu de poids ces derniers temps.</p> 
+<p>{% blocktranslate %}"Je n’ai pas perdu de poids ces derniers temps."{% endblocktranslate %}</p>
+<p>Dos / Cou {% translate "Dos / Cou" %} </p>
+<p>Ma douleur n’irradie pas vers la fesse ou la jambe.</p> 
+<p>{% blocktranslate %}"Ma douleur n’irradie pas vers la fesse ou la jambe."{% endblocktranslate %}</p>
+<p>Ma douleur irradie vers la fesse ou la jambe.</p> 
+<p>{% blocktranslate %}"Ma douleur irradie vers la fesse ou la jambe."{% endblocktranslate %}</p>
+<p>Je n’ai pas le dos bloqué.</p> 
+<p>{% blocktranslate %}"Je n’ai pas le dos bloqué."{% endblocktranslate %}</p>
+<p>J’ai le dos bloqué. {% translate "J’ai le dos bloqué." %} </p>
+<p>J’ai mal surtout le soir.</p> 
+<p>{% blocktranslate %}"J’ai mal surtout le soir."{% endblocktranslate %}</p>
+<p>J’ai mal surtout le matin.</p> 
+<p>{% blocktranslate %}"J’ai mal surtout le matin."{% endblocktranslate %}</p>
+<p>Bras {% translate "Bras" %} </p>
+<p>Jambe {% translate "Jambe" %} </p>
+<p>J’ai reçu un coup récemment.</p> 
+<p>{% blocktranslate %}"J’ai reçu un coup récemment."{% endblocktranslate %}</p>
+<p>Je n’ai pas reçu de coup récemment.</p> 
+<p>{% blocktranslate %}"Je n’ai pas reçu de coup récemment."{% endblocktranslate %}</p>
+<p>J’ai des douleurs depuis :</p> 
+<p>{% blocktranslate %}"J’ai des douleurs depuis :"{% endblocktranslate %}</p>
+<p>J’ai été piqué ou mordu récemment.</p> 
+<p>{% blocktranslate %}"J’ai été piqué ou mordu récemment."{% endblocktranslate %}</p>
+<p>Je n’ai pas été piqué ou mordu récemment.</p> 
+<p>{% blocktranslate %}"Je n’ai pas été piqué ou mordu récemment."{% endblocktranslate %}</p>
+<p>Ca me démange. {% translate "Ca me démange." %} </p>
+<p>Ca ne me démange pas.</p> 
+<p>{% blocktranslate %}"Ca ne me démange pas."{% endblocktranslate %}</p>
+<p>Ma douleur est : {% translate "Ma douleur est :" %} </p>
+<p>Faible {% translate "Faible" %} </p>
+<p>Moyenne {% translate "Moyenne" %} </p>
+<p>Forte {% translate "Forte" %} </p>
+<p>Insupportable {% translate "Insupportable" %} </p>
+<p>Des clips intra-cranien</p> 
+<p>{% blocktranslate %}"Des clips intra-cranien"{% endblocktranslate %}</p>
+<p>Un implant cochléaire</p> 
+<p>{% blocktranslate %}"Un implant cochléaire"{% endblocktranslate %}</p>
+<p>Un implant occulaire</p> 
+<p>{% blocktranslate %}"Un implant occulaire"{% endblocktranslate %}</p>
+<p>Du métal dans le corps</p> 
+<p>{% blocktranslate %}"Du métal dans le corps"{% endblocktranslate %}</p>
+<p>Un défibrillateur {% translate "Un défibrillateur" %} </p>
+<p>Une chambre implantable</p> 
+<p>{% blocktranslate %}"Une chambre implantable"{% endblocktranslate %}</p>
+<p>Allaitez-vous ? {% translate "Allaitez-vous ?" %} </p>
+<p>Où se trouve le médecin le plus proche ?</p> 
+<p>{% blocktranslate %}"Où se trouve le médecin le plus proche ?"{% endblocktranslate %}</p>
+<p>Où se trouve l'hôpital le plus proche ?</p> 
+<p>{% blocktranslate %}"Où se trouve l'hôpital le plus proche ?"{% endblocktranslate %}</p>
+<p>Où se trouve la pharmacie la plus proche ?</p> 
+<p>{% blocktranslate %}"Où se trouve la pharmacie la plus proche ?"{% endblocktranslate %}</p>
+<p>J'ai besoin de secours, pouvez-vous les appeler ?</p> 
+<p>{% blocktranslate %}"J'ai besoin de secours, pouvez-vous les appeler ?"{% endblocktranslate %}</p>
