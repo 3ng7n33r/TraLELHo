@@ -1,5 +1,5 @@
 PRESENTATION
-Bonjour, je suis "Infirmière", je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?
+Bonjour, je suis
 Infirmière
 Médecin
 Secouriste
@@ -9,37 +9,37 @@ Etudiant en médecine
 Sage-femme
 Secrétaire
 Soignant
+Je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?
 IDENTITÉ
-Pouvez-vous me montrez votre passeport.
-Pouvez-vous me montrez une carte d’identité.
-Pouvez-vous me montrer des papiers avec votre nom.
-Pouvez-vous me montrer une carte Européenne de santé.
-Pouvez-vous me montre une carte d’assurance privée.
-Les frais des soins seront à votre charge.
-Les frais des soins ne seront pas à votre charge.
+Pouvez-vous me montrez votre passeport ?
+Pouvez-vous me montrez une carte d’identité ?
+Pouvez-vous me montrer des papiers avec votre nom ?
+Pouvez-vous me montrer une carte Européenne de santé ?
+Pouvez-vous me montre une carte d’assurance privée ?
+Les frais des soins seront à votre charge
+Les frais des soins ne seront pas à votre charge
 De quel pays venez-vous ?
 A quelle adresse vivez-vous actuellement ?
 Avez-vous un numéro de téléphone où l’on peut vous joindre ?
 ATTENTE
-Je vous laisse attendre : 
+Je vous laisse attendre :
 sur les chaises
 sur le banc
 dans la salle d'attente
-Nous viendrons vous appeler.
-Merci de ne pas manger, boire ou fumer pendant l’attente.
-Votre famille devra attendre ici.
-Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé.
-Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun.
-Il faut attendre “1 heure” pour avoir les résultats de la prise de sang.
+Nous viendrons vous appeler
+Merci de ne pas manger, boire ou fumer pendant l’attente
+Votre famille devra attendre ici
+Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé
+Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun
+Il faut attendre “1 heure” pour avoir les résultats de la prise de sang
 ACCUEIL
 Qu’est-ce qui vous arrive ?
-Avez-vous des douleurs ? 
+Avez-vous des douleurs ?
 Oui
 Non
-Montrez-moi où vous avez mal.
-Je vais vous examiner.
-Pourriez-vous chiffrer votre douleur entre 0 et 10 
-(10 étant la note pour une douleur insupportable) ?
+Montrez-moi où vous avez mal
+Je vais vous examiner
+Pourriez-vous chiffrer votre douleur entre 0 et 10 ? (10 étant la note pour une douleur insupportable)
 0
 1
 2
@@ -51,136 +51,136 @@ Pourriez-vous chiffrer votre douleur entre 0 et 10
 8
 9
 10
-Pouvez vous vous déshabiller pour que je vous examine.
-Vous pouvez garder vos sous-vêtements.
-Vous pouvez vous asseoir sur la chaise.
-Vous pouvez vous allonger sur la table d'examen.
-Vous pouvez vous allonger sur le brancard.
+Pouvez vous vous déshabiller pour que je vous examine ?
+Vous pouvez garder vos sous-vêtements
+Vous pouvez vous asseoir sur la chaise
+Vous pouvez vous allonger sur la table d'examen
+Vous pouvez vous allonger sur le brancard
 NEUROLOGIE
-Avez-vous perdu connaissance ?             
-Savez-vous quel jour nous sommes ? 
-Savez-vous où vous êtes ?               
-Suivez mon doigt du regard.
-Pouvez-vous bouger vos mains et vos pieds ?          
+Avez-vous perdu connaissance ?
+Savez-vous quel jour nous sommes ?
+Savez-vous où vous êtes ?
+Suivez mon doigt du regard
+Pouvez-vous bouger vos mains et vos pieds ?
 Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?
-Regardez-moi dans les yeux, je vais observer vos pupilles.
-Avez vous des fourmillement ? Montrez moi où.            
-Poussez sur mes mains.
-Ouvrez les yeux.
+Regardez-moi dans les yeux, je vais observer vos pupilles
+Avez vous des fourmillement ? Montrez moi où
+Poussez sur mes mains
+Ouvrez les yeux
 Ouvrez la bouche
-Levez le bras droit. 
-Avez-vous des douleurs à la tête ?  
-La douleur est apparue : 
+Levez le bras droit
+Avez-vous des douleurs à la tête ?
+La douleur est apparue :
 Progressivement
 Brutalement
-Avez vous des douleurs dans la nuque ?  
-Avez-vous voyagez ces derniers mois ?   
-Dans quel pays ?                     
-Est ce que la lumière vous dérange ? 
-Est ce que le bruit vous dérange ? 
-Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre. 
-PNEUMOLOGIE :
-Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps.
-Etes-vous essoufflé ?       
-Prenez une grande inspiration puis bloquez votre respiration.
-Respirez normalement.
-Respirez profondément.
-Fumez-vous ?                      
-Etes-vous asthmatique ?                  
-Avez vous pris votre traitement contre l’asthme ?           
-Avez-vous respiré des fumées ?                    
-Je vous laisse vous moucher, pour savoir s’il y a des traces de suie.
-CARDIOLOGIE :
+Avez vous des douleurs dans la nuque ?
+Avez-vous voyagez ces derniers mois ?
+Dans quel pays ?
+Est ce que la lumière vous dérange ?
+Est ce que le bruit vous dérange ?
+Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre
+PNEUMOLOGIE
+Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps
+Etes-vous essoufflé ?
+Prenez une grande inspiration puis bloquez votre respiration
+Respirez normalement
+Respirez profondément
+Fumez-vous ?
+Etes-vous asthmatique ?
+Avez vous pris votre traitement contre l’asthme ?
+Avez-vous respiré des fumées ?
+Je vous laisse vous moucher, pour savoir s’il y a des traces de suie
+CARDIOLOGIE 
 Est-ce que votre douleur :
 Serre
 Pique
 Brûle
-Est-ce que votre douleur irradie ? Montrez-moi vers où ?   
-Depuis combien de temps avec vous cette douleur  ?
+Est-ce que votre douleur irradie ? Montrez-moi vers où ?
+Depuis combien de temps avez vous cette douleur ?
 Minutes
 Heures
 Jours
-Je vais prendre votre pouls.
-Je vais appuyer doucement sur votre ongle.
-Je vais prendre votre pression artérielle.
-Ressentez-vous des palpitations ?             
-Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement.
-Est ce que ce médicament soulage votre douleur ?           
+Je vais prendre votre pouls
+Je vais appuyer doucement sur votre ongle
+Je vais prendre votre pression artérielle
+Ressentez-vous des palpitations ?
+Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement
+Est ce que ce médicament soulage votre douleur ?
 Buvez-vous de l'alcool ?
-Avez-vous du diabète ? 
- Avez-vous du cholestérol ?     
-Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes.
-MALAISE :
-Avez-vous senti votre malaise arriver ?           
+Avez-vous du diabète ?
+Avez-vous du cholestérol ?
+Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes
+MALAISE 
+Avez-vous senti votre malaise arriver ?
 Qu’avez-vous ressenti pendant la malaise ?
 Fourmillement
 Vertige
 Grande fatigue
-Avez vous des vertiges ?                     
-La douleur irradie-t-elle ? Vers ou ?                
-A quel endroit avez-vous ressenti ces signes ?              
-Combien de temps à durer votre malaise ?         
-Avez-vous perdu vos urines ?                    
-Vous êtes-vous mordu la langue ? Ouvrez la bouche.      
-Avez vous convulsé ?                         
-Avez-vous mangé aujourd’hui ?                     
+Avez vous des vertiges ?
+La douleur irradie-t-elle ? Vers ou ?
+A quel endroit avez-vous ressenti ces signes ?
+Combien de temps à durer votre malaise ?
+Avez-vous perdu vos urines ?
+Vous êtes-vous mordu la langue ? Ouvrez la bouche
+Avez vous convulsé ?
+Avez-vous mangé aujourd’hui ?
 DIGESTIF
-Montrez moi ou vous avez mal.
-Est ce que la douleur irradie, si oui montrez moi vers où.
-Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?     
-Avez-vous des brûlures quand vous urinez ?              
-Est-ce qu’il y a du sang dans vos urines ?   
-Quelle est la date de vos dernières règles ?              
-Etes vous enceinte ?                       
-A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?  
-Êtes vous constipé ?          
+Montrez moi ou vous avez mal
+Est ce que la douleur irradie, si oui montrez moi vers où
+Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?
+Avez-vous des brûlures quand vous urinez ?
+Est-ce qu’il y a du sang dans vos urines ?
+Quelle est la date de vos dernières règles ?
+Etes vous enceinte ?
+A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?
+Êtes vous constipé ?
 Depuis combien de jours ?
 Avez-vous des nausées ?
 Avez-vous des diarrhées ?
 Avez-vous vomi ?
 Y a-t-il du sang dans vos selles ?
-Avez-vous des gazs ?            
-Je dois vous faire un toucher rectal, êtes vous d’accord ?           
-Il faudra uriner dans ce pot pour réaliser un examen.
-Il faudra réaliser une toilette intime avant d’uriner dans le pot.
-INFECTIEUX :
-Avez-vous été piqué ou mordu ?                   
-Montrez moi à quel endroit.
-Montrez moi où étaient les premiers boutons.            
-Depuis combien de temps la jambe est-elle rouge ?        
-Est ce que ça vous démange ?                    
-Il faut rester en isolement.
-Vous devez garder ce masque sur vous.
-Avez-vous eu des rapports sexuels non protégés ?       
+Avez-vous des gazs ?
+Je dois vous faire un toucher rectal, êtes vous d’accord ?
+Il faudra uriner dans ce pot pour réaliser un examen
+Il faudra réaliser une toilette intime avant d’uriner dans le pot
+INFECTIEUX 
+Avez-vous été piqué ou mordu ?
+Montrez moi à quel endroit
+Montrez moi où étaient les premiers boutons
+Depuis combien de temps la jambe est-elle rouge ?
+Est ce que ça vous démange ?
+Il faut rester en isolement
+Vous devez garder ce masque sur vous
+Avez-vous eu des rapports sexuels non protégés ?
 Je vais prendre votre température
-OPHTALMOLOGIE :
-Est-ce que vous voyez flou ?                      
-Est-ce que vous voyez double ?        
-Avez-vous mal à la tête ?                   
-Est ce que vous avez l’impression que la pièce tourne autour de vous ?    
-Avez-vous reçu un coup à la tête récemment ?      
+OPHTALMOLOGIE 
+Est-ce que vous voyez flou ?
+Est-ce que vous voyez double ?
+Avez-vous mal à la tête ?
+Est ce que vous avez l’impression que la pièce tourne autour de vous ?
+Avez-vous reçu un coup à la tête récemment ?
 ANTÉCÉDENTS
-Avez-vous des maladies (diabète, hypertension ?)           
-Avez-vous été hospitalisé récemment ?                
-Avez-vous un traitement en cours ? (lequel ?)            
-Avez-vous une ordonnance avec vos traitements ?     
-Avez-vous des allergies ? (lesquelles ?)                  
-Y a-t-il des antécédents de maladie dans votre famille ?         
-Pouvez-vous vous asseoir ?                    
-Pouvez-vous vous lever ?                   
-Pouvez-vous marcher ?                        
-PEDIATRIE :
+Avez-vous des maladies (diabète, hypertension) ?
+Avez-vous été hospitalisé récemment ?
+Avez-vous un traitement en cours ? (lequel ?)
+Avez-vous une ordonnance avec vos traitements ?
+Avez-vous des allergies ? (lesquelles ?)
+Y a-t-il des antécédents de maladie dans votre famille ?
+Pouvez-vous vous asseoir ?
+Pouvez-vous vous lever ?
+Pouvez-vous marcher ?
+PEDIATRIE 
 Le bébé a t il perdu du poids ? Combien de kilo ?
-Est-ce que le bébé est à jour de ces vaccins ? 
+Est-ce que le bébé est à jour de ces vaccins ?
 Est-ce que ses frères et soeurs sont malades ?
 Est-ce qu’il mange bien ?
 Est-ce qu’il vomi ?
 Est-ce qu’il semble plus agité que d’habitude ?
 Est-ce qu’il semble plus fatigué que d’habitude ?
 Est ce qu’il a la diarrhée ?
-GYNECOLOGIE :
+GYNECOLOGIE 
 Etes vous enceinte ?
-De combien de semaines ? 
+De combien de semaines ?
 Avez vous vos règles ?
 Avez vous perdu du sang ?
 Vos pertes étaient elles rouge ou noir ?
@@ -189,9 +189,9 @@ Avez vous des contractions ?
 Avez vous perdu les eaux ?
 Sentez vous le bébé bouger ?
 Avez vous une contraception ?
-Je dois faire un examen gynécologique, allongez vous sur la table.
-Il faut retirer vos sous-vêtements.
-TRAUMATOLOGIE:
+Je dois faire un examen gynécologique, allongez vous sur la table
+Il faut retirer vos sous-vêtements
+TRAUMATOLOGIE 
 Avez-vous été éjecté du véhicule ?
 A quelle vitesse rouliez-vous ?
 Etiez-vous casqué ?
@@ -199,15 +199,15 @@ Aviez-vous votre ceinture de sécurité ?
 Avez vous fait une chute ?
 De quelle hauteur êtes-vous tombé ?
 Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?
-Je vais installer une collier afin de protéger votre colonne vertébrale.
-Je dois mettre un antiseptique sur la plaie.
-Je dois suturer la plaie.
-Je dois faire un pansement.
-Je vais faire une anesthésie autour de la plaie. 
-Ne bougez pas.
-Je dois vous faire un plâtre.
-Vous devez être opéré.
-EXAMENS 
+Je vais installer une collier afin de protéger votre colonne vertébrale
+Je dois mettre un antiseptique sur la plaie
+Je dois suturer la plaie
+Je dois faire un pansement
+Je vais faire une anesthésie autour de la plaie
+Ne bougez pas
+Je dois vous faire un plâtre
+Vous devez être opéré
+EXAMENS
 Vous devez avoir :
 Je vais vous faire :
 une perfusion
@@ -222,16 +222,16 @@ une échographie
 une opération
 Aujourd'hui
 Demain
-Vous devez prendre une douche avec un shampoing avant l'opération.
-L’examen n’est pas douloureux.
+Vous devez prendre une douche avec un shampoing avant l'opération
+L’examen n’est pas douloureux
 Après l'opération vous aurez :
 Une sonde urinaire
 Une sonde gastrique
 Un drain
 Une cicatrice
-Vous devez retier tous vos bijoux et piercing.
-Vous devez retier votre vernis a ongles.
-Vous devez retier vos appareils dentaires et auditifs.
+Vous devez retier tous vos bijoux et piercing
+Vous devez retier votre vernis a ongles
+Vous devez retier vos appareils dentaires et auditifs
 Dites nous si vous avez :
 Un pace-maker
 Une valve cardiaque
@@ -243,28 +243,28 @@ des médicaments
 des antalgiques
 des antibiotiques
 Vous ne devez pas boire
-Vous ne devez pas manger.
-Vous ne devez pas vous lever.
-Vous devez rester sur le dos.
-Vous ne devez pas fumer.
-Pour nous appeler appuyer ici.
-Pour allumer ou éteindre les lumières appuyer ici.
-Les toilettes sont ici.
-La salle de bain est ici.
-Votre chambre est ici.
+Vous ne devez pas manger
+Vous ne devez pas vous lever
+Vous devez rester sur le dos
+Vous ne devez pas fumer
+Pour nous appeler appuyer ici
+Pour allumer ou éteindre les lumières appuyer ici
+Les toilettes sont ici
+La salle de bain est ici
+Votre chambre est ici
 CONCLUSION
-Il y a une fracture.
-Il n’y a pas de fracture.
-Vous devez être opéré.
-Vous devez revenir demain matin.
+Il y a une fracture
+Il n’y a pas de fracture
+Vous devez être opéré
+Vous devez revenir demain matin
 Vous devez revenir dans :
 Vous devrez faire retirer les fils dans :
-Vous devez avoir un plâtre.
-Vous devrez porter une attelle.
-Vous pouvez rentrer chez vous.
+Vous devez avoir un plâtre
+Vous devrez porter une attelle
+Vous pouvez rentrer chez vous
 Vous devez aller à l'hôpital
-Vous devez rester à l'hôpital.
-Vous allez être transféré dans un autre service.
+Vous devez rester à l'hôpital
+Vous allez être transféré dans un autre service
 PATIENT EN STRUCTURE
 J’ai faim
 j’ai soif
@@ -278,32 +278,32 @@ je voudrais uriner
 je voudrais déféquer
 j’ai des vertiges
 j’ai peur
-je voudrais être réinstallé.
-je voudrais des informations.
-J’ai eu un accident.
-J’étais piéton.
-J’ai été renversé.
-Je n’ai pas été renversé.
-Je suis tombé.
-J’ai reçu un coup.
-J’étais en voiture.
-Je roulais à “x” km/h.
-J’avais ma ceinture de sécurité.
-Je n’avais pas de ceinture de sécurité.
-J’ai été éjecté pendant l’accident.
-Je n’ai pas été éjecté pendant l’accident.
-L’air-bag s’est déclenché.
-L’air-bag ne s’est pas déclenché.
-J’étais en vélo.
-J'étais en scooter.
-J'étais en moto.
+je voudrais être réinstallé
+je voudrais des informations
+J’ai eu un accident
+J’étais piéton
+J’ai été renversé
+Je n’ai pas été renversé
+Je suis tombé
+J’ai reçu un coup
+J’étais en voiture
+Je roulais à “x” km/h
+J’avais ma ceinture de sécurité
+Je n’avais pas de ceinture de sécurité
+J’ai été éjecté pendant l’accident
+Je n’ai pas été éjecté pendant l’accident
+L’air-bag s’est déclenché
+L’air-bag ne s’est pas déclenché
+J’étais en vélo
+J'étais en scooter
+J'étais en moto
 Je roulais à “x” km/h
 J’avais un casque
-Je n’avais pas de casque.
-Je suis tombé.
-Je suis tombé de ma hauteur.
-Je suis tombé de “x” mètres de haut.
-Ma tête a tapé pendant l’accident.
+Je n’avais pas de casque
+Je suis tombé
+Je suis tombé de ma hauteur
+Je suis tombé de “x” mètres de haut
+Ma tête a tapé pendant l’accident
 Ma tête n’a pas tapé pendant l’accident
 J’ai des douleurs :
 à la tête
@@ -313,123 +313,123 @@ au bras
 à la jambe
 au torse
 au ventre
-Je prend des anticoagulants (médicaments pour fluidifier le sang).
+Je prend des anticoagulants (médicaments pour fluidifier le sang)
 Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang)
 Tête
 J’ai des douleurs depuis :
-La douleur est apparue : 
+La douleur est apparue :
 Brutalement
 Progressivement
-J’arrive bien à bouger mes bras et jambes.
+J’arrive bien à bouger mes bras et jambes
 Je n’arrive pas a bouger un bras ou une jambe
-J’arrive bien à parler.
-J’ai des difficultés à parler.
- La lumière me dérange.
-La lumière ne me dérange pas.
-J’ai de la fièvre. 
-Je n’ai pas de fièvre.
-J’ai des douleurs à la nuque. 
-Je n’ai pas de douleurs à la nuque.
-J’ai fais un malaise. 
-Je n’ai pas fais de malaise.
-J’ai perdu connaissance. 
-Je n’ai pas perdu connaissance.
-J’ai perdu mes urines. 
-Je n’ai pas perdu mes urines.
-J’ai convulsé. 
-Je n’ai pas convulsé.
-Je suis épileptique. 
-Je ne suis pas épileptique.
-J’ai pris mes traitements aujourd’hui. 
-Je n’ai pas prit mes traitements aujourd’hui.
-J’ai des vertiges. 
-Je n’ai pas de vertiges.
-Je suis diabétique. 
-Je ne suis pas diabétique.
-J’ai mangé aujourd’hui. 
-Je n’ai pas mangé aujourd’hui.
+J’arrive bien à parler
+J’ai des difficultés à parler
+La lumière me dérange
+La lumière ne me dérange pas
+J’ai de la fièvre
+Je n’ai pas de fièvre
+J’ai des douleurs à la nuque
+Je n’ai pas de douleurs à la nuque
+J’ai fais un malaise
+Je n’ai pas fais de malaise
+J’ai perdu connaissance
+Je n’ai pas perdu connaissance
+J’ai perdu mes urines
+Je n’ai pas perdu mes urines
+J’ai convulsé
+Je n’ai pas convulsé
+Je suis épileptique
+Je ne suis pas épileptique
+J’ai pris mes traitements aujourd’hui
+Je n’ai pas prit mes traitements aujourd’hui
+J’ai des vertiges
+Je n’ai pas de vertiges
+Je suis diabétique
+Je ne suis pas diabétique
+J’ai mangé aujourd’hui
+Je n’ai pas mangé aujourd’hui
 Torse
-J’ai eu un choc au torse récemment.
-Je n’ai pas eu de choc au torse récemment.
-La douleur est encore présente.
-La douleur n’est plus présente.
-La douleur :  
+J’ai eu un choc au torse récemment
+Je n’ai pas eu de choc au torse récemment
+La douleur est encore présente
+La douleur n’est plus présente
+La douleur :
 Pique
 Serre
 Brûle
 La douleur irradie vers :
 Machoire
-Je ressent des palpitations.
-Je ne ressent pas de palpitations.
-Dans ma famille il y a des problèmes cardiaques.
-Dans ma famille il n’y a pas de problème cardiaque.
-La douleur est plus forte quand je respire.
-La douleur n’est pas plus forte quand je respire.
-Je crache du sang.
-Je ne crache pas du sang.
-Je tousse.
-Je ne tousse pas.
-J’ai des difficultés à respirer.
-Je n’ai pas de difficultés à respirer.
-J’ai respiré des fumées.
-Je fume.  
-Je ne fume pas.
-Je bois de l’alcool.
-Je ne bois pas d’alcool.
-J’ai du cholestérol.
-Je n’ai pas de cholestérol.
-Je suis asthmatique. 
-Je ne suis pas asthmatique.
+Je ressent des palpitations
+Je ne ressent pas de palpitations
+Dans ma famille il y a des problèmes cardiaques
+Dans ma famille il n’y a pas de problème cardiaque
+La douleur est plus forte quand je respire
+La douleur n’est pas plus forte quand je respire
+Je crache du sang
+Je ne crache pas du sang
+Je tousse
+Je ne tousse pas
+J’ai des difficultés à respirer
+Je n’ai pas de difficultés à respirer
+J’ai respiré des fumées
+Je fume
+Je ne fume pas
+Je bois de l’alcool
+Je ne bois pas d’alcool
+J’ai du cholestérol
+Je n’ai pas de cholestérol
+Je suis asthmatique
+Je ne suis pas asthmatique
 Ventre
-J'ai des nausées.
-Je n'ai pas de nausées.
-J’ai vomi.
- Je n’ai pas vomi.
-Des aliments.
-Du sang.
+J'ai des nausées
+Je n'ai pas de nausées
+J’ai vomi
+Je n’ai pas vomi
+Des aliments
+Du sang
 1 fois
 2 fois
-Plusieurs fois.
-J’ai des diarrhées. 
-Je n’ai pas de diarrhées.
-J’ai des gazs.
-Je n’ai plus de gazs.
+Plusieurs fois
+J’ai des diarrhées
+Je n’ai pas de diarrhées
+J’ai des gazs
+Je n’ai plus de gazs
 Mes dernières urines étaient il y a :
-Il y avait du sang dans mes urines.
-Il n’y avait pas de sang dans mes urines.
-J’ai des brulures quand j’urine. 
-Je n’ai pas de brulures quand j’urine.
+Il y avait du sang dans mes urines
+Il n’y avait pas de sang dans mes urines
+J’ai des brulures quand j’urine
+Je n’ai pas de brulures quand j’urine
 Mes dernières selles étaient il y a :
-Il y avait du sang dans mes selles.
-Il n’y avait pas de sang dans mes selles.
+Il y avait du sang dans mes selles
+Il n’y avait pas de sang dans mes selles
 Mes dernières règles étaient il y a :
-Je suis enceinte.
-Je ne suis pas enceinte.
+Je suis enceinte
+Je ne suis pas enceinte
 Depuis “x” semaines
-J’ai eu des pertes par voie basse.
-Je n’ai pas eu de perte par voie basse.
+J’ai eu des pertes par voie basse
+Je n’ai pas eu de perte par voie basse
 Mes pertes étaient :
-De couleur rouge.
-De couleur noire.
-J’ai perdu du poids ces derniers temps. 
-Je n’ai pas perdu de poids ces derniers temps.
+De couleur rouge
+De couleur noire
+J’ai perdu du poids ces derniers temps
+Je n’ai pas perdu de poids ces derniers temps
 Dos / Cou
-Ma douleur n’irradie pas vers la fesse ou la jambe.
-Ma douleur irradie vers la fesse ou la jambe. 
-Je n’ai pas le dos bloqué.
-J’ai le dos bloqué. 
-J’ai mal surtout le soir.
-J’ai mal surtout le matin. 
+Ma douleur n’irradie pas vers la fesse ou la jambe
+Ma douleur irradie vers la fesse ou la jambe
+Je n’ai pas le dos bloqué
+J’ai le dos bloqué
+J’ai mal surtout le soir
+J’ai mal surtout le matin
 Bras
 Jambe
-J’ai reçu un coup récemment. 
-Je n’ai pas reçu de coup récemment.
+J’ai reçu un coup récemment
+Je n’ai pas reçu de coup récemment
 J’ai des douleurs depuis :
-J’ai été piqué ou mordu récemment.
-Je n’ai pas été piqué ou mordu récemment.
-Ca me démange. 
-Ca ne me démange pas.
-Ma douleur est : 
+J’ai été piqué ou mordu récemment
+Je n’ai pas été piqué ou mordu récemment
+Ca me démange
+Ca ne me démange pas
+Ma douleur est :
 Faible
 Moyenne
 Forte
@@ -445,3 +445,25 @@ Où se trouve le médecin le plus proche ?
 Où se trouve l'hôpital le plus proche ?
 Où se trouve la pharmacie la plus proche ?
 J'ai besoin de secours, pouvez-vous les appeler ?
+Une IRM
+L'examen est long. Il dure entre 15 et 40 minutes
+L'examen n'est pas douloureux mais il est très bruyant
+Il faut rester immobile pendant toute la durée de l'examen
+Des éclats métalliques dans les yeux?
+une valve mécanique
+un capteur de glycémie
+si oui, avez-vous une carte avec les références du matériel?
+Quelle est votre taille et votre poids?
+Durant l'examen, on vous demandera de gonfler et les poumons et de bloquer la respiration
+Nous allons injecter un produit de contraste qui va vous donner chaud dans tout le corps, c'est normal ne vous inquiétez pas
+Prenez-vous un traitement pour la thyroïde ?
+Avez-vous des problèmes rénaux ?
+Pouvez-vous signer l’autorisation de soins ci-dessous ?
+Nom :
+Prénom : 
+Date de naissance :
+La taille :
+Poids :
+Oui
+Non
+Je ne sais pas
