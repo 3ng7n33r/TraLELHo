@@ -1,0 +1,28 @@
+
+<nav>
+    <button type="button" class="collapsible"></button>
+    <div class="content">
+   		<ul>
+             <li><a onclick='collapsenav()' href='#PRESENTATION'>PRESENTATION</a></li>
+             <li><a onclick='collapsenav()' href='#IDENTITÉ'>IDENTITÉ</a></li>
+             <li><a onclick='collapsenav()' href='#ATTENTE'>ATTENTE</a></li>
+             <li><a onclick='collapsenav()' href='#ACCUEIL'>ACCUEIL</a></li>
+             <li><a onclick='collapsenav()' href='#NEUROLOGIE'>NEUROLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#PNEUMOLOGIE'>PNEUMOLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#CARDIOLOGIE'>CARDIOLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#MALAISE'>MALAISE</a></li>
+             <li><a onclick='collapsenav()' href='#DIGESTIF'>DIGESTIF</a></li>
+             <li><a onclick='collapsenav()' href='#INFECTIEUX'>INFECTIEUX</a></li>
+             <li><a onclick='collapsenav()' href='#OPHTALMOLOGIE'>OPHTALMOLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#ANTÉCÉDENTS'>ANTÉCÉDENTS</a></li>
+             <li><a onclick='collapsenav()' href='#PEDIATRIE'>PEDIATRIE</a></li>
+             <li><a onclick='collapsenav()' href='#GYNECOLOGIE'>GYNECOLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#TRAUMATOLOGIE'>TRAUMATOLOGIE</a></li>
+             <li><a onclick='collapsenav()' href='#EXAMENS'>EXAMENS</a></li>
+             <li><a onclick='collapsenav()' href='#TRAITEMENTS et CONSIGNES'>TRAITEMENTS et CONSIGNES</a></li>
+             <li><a onclick='collapsenav()' href='#CONCLUSION'>CONCLUSION</a></li>
+             <li><a onclick='collapsenav()' href='#PATIENT EN STRUCTURE'>PATIENT EN STRUCTURE</a></li>
+
+        </ul>
+    </div>
+</nav>
