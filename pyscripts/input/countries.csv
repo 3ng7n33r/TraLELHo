@@ -1,0 +1,194 @@
+id,Name_eng,Name_fr,countrycode,Continent,spoken_languages
+1,Afghanistan,Afghanistan,afg,AS,"64,65"
+2,Angola,Angola,ago,AF,63
+3,Albania,Albanie,alb,EU,78
+4,Andorra,Andorre,and,EU,10
+5,United Arab Emirates,Émirats arabes unis,are,AS,3
+6,Argentina,Argentine,arg,SA,77
+7,Armenia,Arménie,arm,AS,30
+8,Antigua and Barbuda,Antigua-et-Barbuda,atg,NA,18
+9,Australia,Australie,aus,OC,18
+10,Austria,Autriche,aut,EU,14
+11,Azerbaijan,Azerbaïdjan,aze,AS,4
+12,Burundi,Burundi,bdi,AF,"24,67"
+13,Belgium,Belgique,bel,EU,"24,14,58"
+14,Benin,Bénin,ben,AF,24
+15,Burkina Faso,Burkina Faso,bfa,AF,24
+16,Bangladesh,Bangladesh,bgd,AS,6
+17,Bulgaria,Bulgarie,bgr,EU,9
+18,Bahrain,Bahreïn,bhr,AS,3
+19,Bahamas,Bahamas,bhs,NA,18
+20,Bosnia and Herzegovina,Bosnie-Herzégovine,bih,EU,"79,28,8"
+21,Belarus,Biélorussie,blr,EU,"68,5"
+22,Belize,Belize,blz,NA,18
+23,Bolivia,Bolivie,bol,SA,77
+24,Brazil,Brésil,bra,SA,63
+25,Barbados,Barbade,brb,NA,18
+26,Brunei Darussalam,Brunei,brn,AS,54
+27,Bhutan,Bhoutan,btn,AS,16
+28,Botswana,Botswana,bwa,AF,18
+29,Central African Republic,République centrafricaine,caf,AF,"24,69"
+30,Canada,Canada,can,NA,"18,24"
+31,Switzerland,Suisse,che,EU,"14,24"
+32,Chile,Chili,chl,SA,77
+33,China,Chine,chn,AS,101
+34,Côte d'Ivoire,Côte d'Ivoire,civ,AF,24
+35,Cameroon,Cameroun,cmr,AF,"24,18"
+36,Democratic Republic of the Congo,République démocratique du Congo,cod,AF,"24,44,82"
+37,Republic of the Congo,République du Congo,cog,AF,"24,44"
+38,Colombia,Colombie,col,SA,77
+39,Comoros,Comores ,com,AF,"24,3,83"
+40,Cabo Verde,Cap-Vert,cpv,AF,63
+41,Costa Rica,Costa Rica,cri,NA,77
+42,Cuba,Cuba,cub,NA,77
+43,Cyprus,Chypre ,cyp,EU,"17,94"
+44,Czechia,Tchéquie,cze,EU,12
+45,Germany,Allemagne,deu,EU,14
+46,Djibouti,Djibouti,dji,AF,"24,3"
+47,Dominica,Dominique,dma,NA,18
+48,Denmark,Danemark,dnk,EU,13
+49,Dominican Republic,République dominicaine,dom,NA,77
+50,Algeria,Algérie,dza,AF,"3,7"
+51,Ecuador,Équateur ,ecu,SA,77
+52,Egypt,Égypte,egy,AF,3
+53,Eritrea,Érythrée,eri,AF,"89,3,18"
+54,Spain,Espagne,esp,EU,77
+55,Estonia,Estonie,est,EU,19
+56,Ethiopia,Éthiopie,eth,AF,2
+57,Finland,Finlande,fin,EU,"22,84"
+58,Fiji,Fidji,fji,OC,"18,23"
+59,France,France,fra,EU,24
+60,Micronesia,États fédérés de Micronésie ,fsm,OC,18
+61,Gabon,Gabon,gab,AF,24
+62,United Kingdom of Great Britain and Northern Ireland,Royaume-Uni,gbr,EU,18
+63,Georgia,Géorgie ,geo,AS,35
+64,Ghana,Ghana,gha,AF,18
+65,Guinea,Guinée,gin,AF,24
+66,Gambia,Gambie,gmb,AF,18
+67,Guinea-Bissau,Guinée-Bissau,gnb,AF,63
+68,Equatorial Guinea,Guinée équatoriale,gnq,AF,77
+69,Greece,Grèce,grc,EU,17
+70,Grenada,Grenade ,grd,NA,18
+71,Guatemala,Guatemala,gtm,NA,77
+72,Guyana,Guyana,guy,SA,18
+73,Honduras,Honduras,hnd,NA,77
+74,Croatia,Croatie,hrv,EU,28
+75,Haiti,Haïti,hti,NA,"24,25"
+76,Hungary,Hongrie,hun,EU,29
+77,Indonesia,Indonésie,idn,AS,31
+78,India,Inde,ind,AS,"27,18,48,97,6,85"
+79,Ireland,Irlande ,irl,EU,18
+80,Iran ,Iran,irn,AS,"20,41"
+81,Iraq,Irak,irq,AS,"3,41"
+82,Iceland,Islande,isl,EU,32
+83,Israel,Israël,isr,AS,"26,3"
+84,Italy,Italie,ita,EU,33
+85,Jamaica,Jamaïque,jam,NA,18
+86,Jordan,Jordanie,jor,AS,3
+87,Japan,Japon,jpn,AS,34
+88,Kazakhstan,Kazakhstan,kaz,AS,"36,68"
+89,Kenya,Kenya,ken,AF,"18,82"
+90,Kyrgyzstan,Kirghizistan,kgz,AS,"39,68"
+91,Cambodia,Cambodge,khm,AS,37
+92,Kiribati,Kiribati,kir,OC,18
+93,Saint Kitts and Nevis,Saint-Christophe-et-Niévès,kna,NA,18
+94,Korea,Corée du Sud,kor,AS,40
+95,Kuwait,Koweït,kwt,AS,3
+96,Lao People's Democratic Republic,Laos,lao,AS,42
+97,Lebanon,Liban,lbn,AS,3
+98,Liberia,Liberia,lbr,AF,18
+99,Libya,Libye,lby,AF,3
+100,Saint Lucia,Sainte-Lucie,lca,NA,18
+101,Liechtenstein,Liechtenstein,lie,EU,14
+102,Sri Lanka,Sri Lanka,lka,AS,"70,85"
+103,Lesotho,Lesotho,lso,AF,"18,76"
+104,Lithuania,Lituanie,ltu,EU,45
+105,Luxembourg,Luxembourg ,lux,EU,"46,14,24"
+106,Latvia,Lettonie,lva,EU,43
+107,Morocco,Maroc,mar,AF,3
+108,Monaco,Monaco,mco,EU,24
+109,Moldova,Moldavie,mda,EU,66
+110,Madagascar,Madagascar,mdg,AF,"50,24,18"
+111,Maldives,Maldives,mdv,AS,15
+112,Mexico,Mexique,mex,NA,77
+113,Marshall Islands,Îles Marshall ,mhl,OC,"18,47"
+114,North Macedonia,Macédoine du Nord,mkd,EU,"49,78"
+115,Mali,Mali,mli,AF,24
+116,Malta,Malte,mlt,EU,"51,18"
+117,Myanmar,Birmanie,mmr,AS,55
+118,Montenegro,Monténégro,mne,EU,"11,79,28,8,78"
+119,Mongolia,Mongolie,mng,AS,52
+120,Mozambique,Mozambique,moz,AF,63
+121,Mauritania,Mauritanie,mrt,AF,"3,24"
+122,Mauritius,Maurice ,mus,AF,"18,24"
+123,Malawi,Malawi,mwi,AF,18
+124,Malaysia,Malaisie,mys,AS,"102,54"
+125,Namibia,Namibie,nam,AF,18
+126,Niger,Niger,ner,AF,24
+127,Nigeria,Nigeria,nga,AF,18
+128,Nicaragua,Nicaragua,nic,NA,77
+129,Netherlands,Pays-Bas,nld,EU,58
+130,Norway,Norvège,nor,EU,59
+131,Nepal,Népal,npl,AS,57
+132,Nauru,Nauru,nru,OC,"18,56"
+133,New Zealand,Nouvelle-Zélande,nzl,OC,"18,53"
+134,Oman,Oman,omn,AS,3
+135,Pakistan,Pakistan,pak,AS,"18,97,74"
+136,Panama,Panama,pan,NA,77
+137,Peru,Pérou,per,SA,77
+138,Philippines,Philippines,phl,AS,"18,21"
+139,Palau,Palaos,plw,OC,"18,61"
+140,Papua New Guinea,Papouasie-Nouvelle-Guinée,png,OC,18
+141,Poland,Pologne,pol,EU,62
+142,Korea ,Corée du Nord,prk,AS,40
+143,Portugal,Portugal,prt,EU,63
+144,Paraguay,Paraguay,pry,SA,77
+145,Qatar,Qatar,qat,AS,3
+146,Romania,Roumanie,rou,EU,66
+147,Russian Federation,Russie,rus,EU,68
+148,Rwanda,Rwanda,rwa,AF,"38,24,18,82"
+149,Saudi Arabia,Arabie saoudite,sau,AS,3
+150,Sudan,Soudan,sdn,AF,3
+151,Senegal,Sénégal,sen,AF,24
+152,Singapore,Singapour,sgp,AS,"18,54,101,85"
+153,Solomon Islands,Salomon,slb,OC,18
+154,Sierra Leone,Sierra Leone,sle,AF,"18,81"
+155,El Salvador,Salvador,slv,NA,77
+156,San Marino,Saint-Marin,smr,EU,33
+157,Somalia,Somalie,som,AF,"75,3"
+158,Serbia,Serbie,srb,EU,79
+159,South Sudan,Soudan du Sud,ssd,AF,18
+160,Sao Tome and Principe,Sao Tomé-et-Principe,stp,AF,63
+161,Suriname,Suriname,sur,SA,58
+162,Slovakia,Slovaquie,svk,EU,71
+163,Slovenia,Slovénie,svn,EU,"72,29"
+164,Sweden,Suède,swe,EU,84
+165,Eswatini,Eswatini,swz,AF,"18,80"
+166,Seychelles,Seychelles,syc,AF,"24,3"
+167,Syrian Arab Republic,Syrie,syr,AS,"3,41"
+168,Chad,Tchad,tcd,AF,"3,24"
+169,Togo,Togo,tgo,AF,24
+170,Thailand,Thaïlande,tha,AS,88
+171,Tajikistan,Tadjikistan,tjk,AS,"87,68"
+172,Turkmenistan,Turkménistan,tkm,AS,"93,68"
+173,Timor-Leste,Timor oriental,tls,OC,"63,86"
+174,Tonga,Tonga,ton,OC,"18,90"
+175,Trinidad and Tobago,Trinité-et-Tobago,tto,NA,18
+176,Tunisia,Tunisie,tun,AF,3
+177,Turkey,Turquie,tur,AS,"94,41"
+178,Tuvalu,Tuvalu,tuv,OC,"18,95"
+179,Tanzania,Tanzanie,tza,AF,"18,82"
+180,Uganda,Ouganda,uga,AF,18
+181,Ukraine,Ukraine,ukr,EU,96
+182,Uruguay,Uruguay,ury,SA,77
+183,United States of America,États-Unis,usa,NA,18
+184,Uzbekistan,Ouzbékistan,uzb,AS,"98,68"
+185,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines,vct,NA,18
+186,Venezuela ,Venezuela,ven,SA,77
+187,Viet Nam,Viêt Nam,vnm,AS,99
+188,Vanuatu,Vanuatu,vut,OC,"18,24"
+189,Samoa,Samoa,wsm,OC,"73,18"
+190,Yemen,Yémen,yem,AS,3
+191,South Africa,Afrique du Sud,zaf,AF,"18,100,1,103,60,91,92"
+192,Zambia,Zambie,zmb,AF,18
+193,Zimbabwe,Zimbabwe,zwe,AF,18

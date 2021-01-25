@@ -1,0 +1,885 @@
+msgid "Afghanistan"
+msgstr ""
+
+msgid "Angola"
+msgstr ""
+
+msgid "Albanie"
+msgstr ""
+
+msgid "Andorre"
+msgstr ""
+
+msgid "Émirats arabes unis"
+msgstr ""
+
+msgid "Argentine"
+msgstr ""
+
+msgid "Arménie"
+msgstr ""
+
+msgid "Antigua-et-Barbuda"
+msgstr ""
+
+msgid "Australie"
+msgstr ""
+
+msgid "Autriche"
+msgstr ""
+
+msgid "Azerbaïdjan"
+msgstr ""
+
+msgid "Burundi"
+msgstr ""
+
+msgid "Belgique"
+msgstr ""
+
+msgid "Bénin"
+msgstr ""
+
+msgid "Burkina Faso"
+msgstr ""
+
+msgid "Bangladesh"
+msgstr ""
+
+msgid "Bulgarie"
+msgstr ""
+
+msgid "Bahreïn"
+msgstr ""
+
+msgid "Bahamas"
+msgstr ""
+
+msgid "Bosnie-Herzégovine"
+msgstr ""
+
+msgid "Biélorussie"
+msgstr ""
+
+msgid "Belize"
+msgstr ""
+
+msgid "Bolivie"
+msgstr ""
+
+msgid "Brésil"
+msgstr ""
+
+msgid "Barbade"
+msgstr ""
+
+msgid "Brunei"
+msgstr ""
+
+msgid "Bhoutan"
+msgstr ""
+
+msgid "Botswana"
+msgstr ""
+
+msgid "République centrafricaine"
+msgstr ""
+
+msgid "Canada"
+msgstr ""
+
+msgid "Suisse"
+msgstr ""
+
+msgid "Chili"
+msgstr ""
+
+msgid "Chine"
+msgstr ""
+
+msgid "Côte d'Ivoire"
+msgstr ""
+
+msgid "Cameroun"
+msgstr ""
+
+msgid "République démocratique du Congo"
+msgstr ""
+
+msgid "République du Congo"
+msgstr ""
+
+msgid "Colombie"
+msgstr ""
+
+msgid "Comores"
+msgstr ""
+
+msgid "Cap-Vert"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr ""
+
+msgid "Cuba"
+msgstr ""
+
+msgid "Chypre"
+msgstr ""
+
+msgid "Tchéquie"
+msgstr ""
+
+msgid "Allemagne"
+msgstr ""
+
+msgid "Djibouti"
+msgstr ""
+
+msgid "Dominique"
+msgstr ""
+
+msgid "Danemark"
+msgstr ""
+
+msgid "République dominicaine"
+msgstr ""
+
+msgid "Algérie"
+msgstr ""
+
+msgid "Équateur"
+msgstr ""
+
+msgid "Égypte"
+msgstr ""
+
+msgid "Érythrée"
+msgstr ""
+
+msgid "Espagne"
+msgstr ""
+
+msgid "Estonie"
+msgstr ""
+
+msgid "Éthiopie"
+msgstr ""
+
+msgid "Finlande"
+msgstr ""
+
+msgid "Fidji"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "États fédérés de Micronésie"
+msgstr ""
+
+msgid "Gabon"
+msgstr ""
+
+msgid "Royaume-Uni"
+msgstr ""
+
+msgid "Géorgie"
+msgstr ""
+
+msgid "Ghana"
+msgstr ""
+
+msgid "Guinée"
+msgstr ""
+
+msgid "Gambie"
+msgstr ""
+
+msgid "Guinée-Bissau"
+msgstr ""
+
+msgid "Guinée équatoriale"
+msgstr ""
+
+msgid "Grèce"
+msgstr ""
+
+msgid "Grenade"
+msgstr ""
+
+msgid "Guatemala"
+msgstr ""
+
+msgid "Guyana"
+msgstr ""
+
+msgid "Honduras"
+msgstr ""
+
+msgid "Croatie"
+msgstr ""
+
+msgid "Haïti"
+msgstr ""
+
+msgid "Hongrie"
+msgstr ""
+
+msgid "Indonésie"
+msgstr ""
+
+msgid "Inde"
+msgstr ""
+
+msgid "Irlande"
+msgstr ""
+
+msgid "Iran"
+msgstr ""
+
+msgid "Irak"
+msgstr ""
+
+msgid "Islande"
+msgstr ""
+
+msgid "Israël"
+msgstr ""
+
+msgid "Italie"
+msgstr ""
+
+msgid "Jamaïque"
+msgstr ""
+
+msgid "Jordanie"
+msgstr ""
+
+msgid "Japon"
+msgstr ""
+
+msgid "Kazakhstan"
+msgstr ""
+
+msgid "Kenya"
+msgstr ""
+
+msgid "Kirghizistan"
+msgstr ""
+
+msgid "Cambodge"
+msgstr ""
+
+msgid "Kiribati"
+msgstr ""
+
+msgid "Saint-Christophe-et-Niévès"
+msgstr ""
+
+msgid "Corée du Sud"
+msgstr ""
+
+msgid "Koweït"
+msgstr ""
+
+msgid "Laos"
+msgstr ""
+
+msgid "Liban"
+msgstr ""
+
+msgid "Liberia"
+msgstr ""
+
+msgid "Libye"
+msgstr ""
+
+msgid "Sainte-Lucie"
+msgstr ""
+
+msgid "Liechtenstein"
+msgstr ""
+
+msgid "Sri Lanka"
+msgstr ""
+
+msgid "Lesotho"
+msgstr ""
+
+msgid "Lituanie"
+msgstr ""
+
+msgid "Luxembourg"
+msgstr ""
+
+msgid "Lettonie"
+msgstr ""
+
+msgid "Maroc"
+msgstr ""
+
+msgid "Monaco"
+msgstr ""
+
+msgid "Moldavie"
+msgstr ""
+
+msgid "Madagascar"
+msgstr ""
+
+msgid "Maldives"
+msgstr ""
+
+msgid "Mexique"
+msgstr ""
+
+msgid "Îles Marshall"
+msgstr ""
+
+msgid "Macédoine du Nord"
+msgstr ""
+
+msgid "Mali"
+msgstr ""
+
+msgid "Malte"
+msgstr ""
+
+msgid "Birmanie"
+msgstr ""
+
+msgid "Monténégro"
+msgstr ""
+
+msgid "Mongolie"
+msgstr ""
+
+msgid "Mozambique"
+msgstr ""
+
+msgid "Mauritanie"
+msgstr ""
+
+msgid "Maurice"
+msgstr ""
+
+msgid "Malawi"
+msgstr ""
+
+msgid "Malaisie"
+msgstr ""
+
+msgid "Namibie"
+msgstr ""
+
+msgid "Niger"
+msgstr ""
+
+msgid "Nigeria"
+msgstr ""
+
+msgid "Nicaragua"
+msgstr ""
+
+msgid "Pays-Bas"
+msgstr ""
+
+msgid "Norvège"
+msgstr ""
+
+msgid "Népal"
+msgstr ""
+
+msgid "Nauru"
+msgstr ""
+
+msgid "Nouvelle-Zélande"
+msgstr ""
+
+msgid "Oman"
+msgstr ""
+
+msgid "Pakistan"
+msgstr ""
+
+msgid "Panama"
+msgstr ""
+
+msgid "Pérou"
+msgstr ""
+
+msgid "Philippines"
+msgstr ""
+
+msgid "Palaos"
+msgstr ""
+
+msgid "Papouasie-Nouvelle-Guinée"
+msgstr ""
+
+msgid "Pologne"
+msgstr ""
+
+msgid "Corée du Nord"
+msgstr ""
+
+msgid "Portugal"
+msgstr ""
+
+msgid "Paraguay"
+msgstr ""
+
+msgid "Qatar"
+msgstr ""
+
+msgid "Roumanie"
+msgstr ""
+
+msgid "Russie"
+msgstr ""
+
+msgid "Rwanda"
+msgstr ""
+
+msgid "Arabie saoudite"
+msgstr ""
+
+msgid "Soudan"
+msgstr ""
+
+msgid "Sénégal"
+msgstr ""
+
+msgid "Singapour"
+msgstr ""
+
+msgid "Salomon"
+msgstr ""
+
+msgid "Sierra Leone"
+msgstr ""
+
+msgid "Salvador"
+msgstr ""
+
+msgid "Saint-Marin"
+msgstr ""
+
+msgid "Somalie"
+msgstr ""
+
+msgid "Serbie"
+msgstr ""
+
+msgid "Soudan du Sud"
+msgstr ""
+
+msgid "Sao Tomé-et-Principe"
+msgstr ""
+
+msgid "Suriname"
+msgstr ""
+
+msgid "Slovaquie"
+msgstr ""
+
+msgid "Slovénie"
+msgstr ""
+
+msgid "Suède"
+msgstr ""
+
+msgid "Eswatini"
+msgstr ""
+
+msgid "Seychelles"
+msgstr ""
+
+msgid "Syrie"
+msgstr ""
+
+msgid "Tchad"
+msgstr ""
+
+msgid "Togo"
+msgstr ""
+
+msgid "Thaïlande"
+msgstr ""
+
+msgid "Tadjikistan"
+msgstr ""
+
+msgid "Turkménistan"
+msgstr ""
+
+msgid "Timor oriental"
+msgstr ""
+
+msgid "Tonga"
+msgstr ""
+
+msgid "Trinité-et-Tobago"
+msgstr ""
+
+msgid "Tunisie"
+msgstr ""
+
+msgid "Turquie"
+msgstr ""
+
+msgid "Tuvalu"
+msgstr ""
+
+msgid "Tanzanie"
+msgstr ""
+
+msgid "Ouganda"
+msgstr ""
+
+msgid "Ukraine"
+msgstr ""
+
+msgid "Uruguay"
+msgstr ""
+
+msgid "États-Unis"
+msgstr ""
+
+msgid "Ouzbékistan"
+msgstr ""
+
+msgid "Saint-Vincent-et-les-Grenadines"
+msgstr ""
+
+msgid "Venezuela"
+msgstr ""
+
+msgid "Viêt Nam"
+msgstr ""
+
+msgid "Vanuatu"
+msgstr ""
+
+msgid "Samoa"
+msgstr ""
+
+msgid "Yémen"
+msgstr ""
+
+msgid "Afrique du Sud"
+msgstr ""
+
+msgid "Zambie"
+msgstr ""
+
+msgid "Zimbabwe"
+msgstr ""
+
+msgid "Afrikaans"
+msgstr ""
+
+msgid "Amharique"
+msgstr ""
+
+msgid "Arabe"
+msgstr ""
+
+msgid "Azeri"
+msgstr ""
+
+msgid "Biélorusse"
+msgstr ""
+
+msgid "Bengali"
+msgstr ""
+
+msgid "Tamazight"
+msgstr ""
+
+msgid "Bosnien"
+msgstr ""
+
+msgid "Bulgare"
+msgstr ""
+
+msgid "Catalan"
+msgstr ""
+
+msgid "Monténégrin"
+msgstr ""
+
+msgid "Tchèque"
+msgstr ""
+
+msgid "Danois"
+msgstr ""
+
+msgid "Allemand"
+msgstr ""
+
+msgid "Maldivien"
+msgstr ""
+
+msgid "Dzongkha"
+msgstr ""
+
+msgid "Grec"
+msgstr ""
+
+msgid "Anglais"
+msgstr ""
+
+msgid "Estonien"
+msgstr ""
+
+msgid "Persan"
+msgstr ""
+
+msgid "Philippin"
+msgstr ""
+
+msgid "Finnois"
+msgstr ""
+
+msgid "Fidjien"
+msgstr ""
+
+msgid "Français"
+msgstr ""
+
+msgid "Créole Haitien"
+msgstr ""
+
+msgid "Hébreu"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "Croate"
+msgstr ""
+
+msgid "Hongrois"
+msgstr ""
+
+msgid "Arménien"
+msgstr ""
+
+msgid "Indonésien"
+msgstr ""
+
+msgid "Islandais"
+msgstr ""
+
+msgid "Italien"
+msgstr ""
+
+msgid "Japonais"
+msgstr ""
+
+msgid "Géorgien"
+msgstr ""
+
+msgid "Kazakh"
+msgstr ""
+
+msgid "Khmer"
+msgstr ""
+
+msgid "Kinyarwanda"
+msgstr ""
+
+msgid "Kirghize"
+msgstr ""
+
+msgid "Coréen"
+msgstr ""
+
+msgid "Kurde"
+msgstr ""
+
+msgid "Laotien"
+msgstr ""
+
+msgid "Letton"
+msgstr ""
+
+msgid "Lingala"
+msgstr ""
+
+msgid "Lituanien"
+msgstr ""
+
+msgid "Luxembourgeois"
+msgstr ""
+
+msgid "Marshallais"
+msgstr ""
+
+msgid "Malayalam"
+msgstr ""
+
+msgid "Macédonien"
+msgstr ""
+
+msgid "Malgache"
+msgstr ""
+
+msgid "Maltais"
+msgstr ""
+
+msgid "Mongol"
+msgstr ""
+
+msgid "Maori"
+msgstr ""
+
+msgid "Malais"
+msgstr ""
+
+msgid "Birman"
+msgstr ""
+
+msgid "Nauruan"
+msgstr ""
+
+msgid "Népalais"
+msgstr ""
+
+msgid "Néerlandais"
+msgstr ""
+
+msgid "Norvégien"
+msgstr ""
+
+msgid "Sotho du nord"
+msgstr ""
+
+msgid "Paluan"
+msgstr ""
+
+msgid "Polonais"
+msgstr ""
+
+msgid "Portugais"
+msgstr ""
+
+msgid "Dari"
+msgstr ""
+
+msgid "Pachto"
+msgstr ""
+
+msgid "Roumain"
+msgstr ""
+
+msgid "Kirundi"
+msgstr ""
+
+msgid "Russe"
+msgstr ""
+
+msgid "Sango"
+msgstr ""
+
+msgid "Cingalais"
+msgstr ""
+
+msgid "Slovaque"
+msgstr ""
+
+msgid "Slovène"
+msgstr ""
+
+msgid "Samoan"
+msgstr ""
+
+msgid "Sindhi"
+msgstr ""
+
+msgid "Somali"
+msgstr ""
+
+msgid "Sotho du Sud"
+msgstr ""
+
+msgid "Espagnol"
+msgstr ""
+
+msgid "Albanais"
+msgstr ""
+
+msgid "Serbe"
+msgstr ""
+
+msgid "Swati"
+msgstr ""
+
+msgid "Soussou"
+msgstr ""
+
+msgid "Swahili"
+msgstr ""
+
+msgid "Mahorais"
+msgstr ""
+
+msgid "Suédois"
+msgstr ""
+
+msgid "Tamoul"
+msgstr ""
+
+msgid "Tétoum"
+msgstr ""
+
+msgid "Tadjik"
+msgstr ""
+
+msgid "Thaï"
+msgstr ""
+
+msgid "Tigrigna"
+msgstr ""
+
+msgid "Tswana"
+msgstr ""
+
+msgid "Tsonga"
+msgstr ""
+
+msgid "Turkmène"
+msgstr ""
+
+msgid "Turc"
+msgstr ""
+
+msgid "Tuvaluan"
+msgstr ""
+
+msgid "Ukrainien"
+msgstr ""
+
+msgid "Ourdou"
+msgstr ""
+
+msgid "Ouzbek"
+msgstr ""
+
+msgid "Vietnamien"
+msgstr ""
+
+msgid "Xhosa"
+msgstr ""
+
+msgid "Chinois"
+msgstr ""
+
+msgid "Malaisien"
+msgstr ""
+
+msgid "Zoulou"
+msgstr ""
+

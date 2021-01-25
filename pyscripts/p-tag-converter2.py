@@ -3,40 +3,30 @@ import re
 with open("./input/input_ptag.txt", "r") as f:
     lines = f.readlines()
 
-tablehead = '''
-<table class="tg">
-    <thead>
-          <tr>
-              <th>Origin</th>
-              <th>Traduction</th>
-          </tr>
-    </thead>
-    <tbody>
-'''
 
-header1 = " </tbody>\n</table>\n<h2 id='"
-header2 ="'>"
-header3 = "</h2>\n<table class='tg'>\n <tbody>\n"
+base = "{% language base_language %}\n"
+target = "{% language target_language %}\n"
+end = "{% endlanguage %}\n"
+
+header1 = " </tbody>\n</table>\n " + base + "<h2 id='"
+header2 ="'>{% translate \""
+header3 = "\" %} </h2>\n" + end + "<table class='tg'>\n <tbody>\n"
 
 tr1 = "<tr id='"
 tr2 = "' onclick='togglerow(\""
 tr3 = "\")'> \n"
 
-tdshort1 = "<td><p>"
-tdshort2 = "</p></td> \n<td><p> {% translate \""
-tdshort3 = "\" %} </p></td>\n"
+tdshort1 = base + "<td><p> {% translate \""
+tdshort2 = "\" %} </p></td> \n" + end + target +"<td><p> {% translate \""
+tdshort3 = "\" %} </p></td>\n" + end
 
-tdlong1 = "<td><p>"
-tdlong2 = "</p></td> \n<td><p>{% blocktranslate %}"
-tdlong3 = "{% endblocktranslate %}</p></td>\n"
+tdlong1 = base + "<td><p>{% blocktranslate %}"
+tdlong2 = "{% endblocktranslate %}</p></td> \n" + end + target +"<td><p>{% blocktranslate %}"
+tdlong3 = "{% endblocktranslate %}</p></td>\n" + end
 
-tablefoot = '''
-    </tbody>
-</table>
-'''
+
 output = []
 sections = []
-#output.append(tablehead)
 i = 0
 for line in lines:
     line = line.strip()
@@ -52,8 +42,6 @@ for line in lines:
         output.append(string)
         output.append("</tr> \n")
         i += 1
-
-output.append(tablefoot)
 
 with open("./output/p_tags.txt", "w") as f:
     f.writelines(output)

@@ -1,1907 +1,3733 @@
-
-<table class="tg">
-    <thead>
-          <tr>
-              <th>Origin</th>
-              <th>Traduction</th>
-          </tr>
-    </thead>
-    <tbody>
  </tbody>
 </table>
-<h2 id='PRESENTATION'>PRESENTATION</h2>
+ {% language base_language %}
+<h2 id='PRESENTATION'>{% translate "PRESENTATION" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Bonjour, je suis</p></td> 
+<tr id='0' onclick='togglerow("0")'> 
+{% language base_language %}
+<td><p> {% translate "Bonjour, je suis" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Bonjour, je suis" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Infirmière</p></td> 
+<tr id='1' onclick='togglerow("1")'> 
+{% language base_language %}
+<td><p> {% translate "Infirmière" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Infirmière" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Médecin</p></td> 
+<tr id='2' onclick='togglerow("2")'> 
+{% language base_language %}
+<td><p> {% translate "Médecin" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Médecin" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Secouriste</p></td> 
+<tr id='3' onclick='togglerow("3")'> 
+{% language base_language %}
+<td><p> {% translate "Secouriste" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Secouriste" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Bénévole</p></td> 
+<tr id='4' onclick='togglerow("4")'> 
+{% language base_language %}
+<td><p> {% translate "Bénévole" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Bénévole" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Agent d'accueil</p></td> 
+<tr id='5' onclick='togglerow("5")'> 
+{% language base_language %}
+<td><p> {% translate "Agent d'accueil" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Agent d'accueil" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Etudiant en médecine</p></td> 
+<tr id='6' onclick='togglerow("6")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Etudiant en médecine{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Etudiant en médecine{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Sage-femme</p></td> 
+<tr id='7' onclick='togglerow("7")'> 
+{% language base_language %}
+<td><p> {% translate "Sage-femme" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Sage-femme" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Secrétaire</p></td> 
+<tr id='8' onclick='togglerow("8")'> 
+{% language base_language %}
+<td><p> {% translate "Secrétaire" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Secrétaire" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Soignant</p></td> 
+<tr id='9' onclick='togglerow("9")'> 
+{% language base_language %}
+<td><p> {% translate "Soignant" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Soignant" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?</p></td> 
+<tr id='10' onclick='togglerow("10")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='IDENTITÉ'>IDENTITÉ</h2>
+ {% language base_language %}
+<h2 id='IDENTITÉ'>{% translate "IDENTITÉ" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Pouvez-vous me montrez votre passeport ?</p></td> 
+<tr id='11' onclick='togglerow("11")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous me montrez votre passeport ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous me montrez votre passeport ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous me montrez une carte d’identité ?</p></td> 
+<tr id='12' onclick='togglerow("12")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous me montrez une carte d’identité ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous me montrez une carte d’identité ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous me montrer des papiers avec votre nom ?</p></td> 
+<tr id='13' onclick='togglerow("13")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous me montrer des papiers avec votre nom ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous me montrer des papiers avec votre nom ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous me montrer une carte Européenne de santé ?</p></td> 
+<tr id='14' onclick='togglerow("14")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous me montrer une carte Européenne de santé ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous me montrer une carte Européenne de santé ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous me montre une carte d’assurance privée ?</p></td> 
+<tr id='15' onclick='togglerow("15")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous me montre une carte d’assurance privée ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous me montre une carte d’assurance privée ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Les frais des soins seront à votre charge</p></td> 
+<tr id='16' onclick='togglerow("16")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Les frais des soins seront à votre charge{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Les frais des soins seront à votre charge{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Les frais des soins ne seront pas à votre charge</p></td> 
+<tr id='17' onclick='togglerow("17")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Les frais des soins ne seront pas à votre charge{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Les frais des soins ne seront pas à votre charge{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>De quel pays venez-vous ?</p></td> 
+<tr id='18' onclick='togglerow("18")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}De quel pays venez-vous ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}De quel pays venez-vous ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>A quelle adresse vivez-vous actuellement ?</p></td> 
+<tr id='19' onclick='togglerow("19")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}A quelle adresse vivez-vous actuellement ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}A quelle adresse vivez-vous actuellement ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous un numéro de téléphone où l’on peut vous joindre ?</p></td> 
+<tr id='20' onclick='togglerow("20")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous un numéro de téléphone où l’on peut vous joindre ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous un numéro de téléphone où l’on peut vous joindre ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='ATTENTE'>ATTENTE</h2>
+ {% language base_language %}
+<h2 id='ATTENTE'>{% translate "ATTENTE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Je vous laisse attendre :</p></td> 
+<tr id='21' onclick='togglerow("21")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vous laisse attendre :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vous laisse attendre :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>sur les chaises</p></td> 
+<tr id='22' onclick='togglerow("22")'> 
+{% language base_language %}
+<td><p> {% translate "sur les chaises" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "sur les chaises" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>sur le banc</p></td> 
+<tr id='23' onclick='togglerow("23")'> 
+{% language base_language %}
+<td><p> {% translate "sur le banc" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "sur le banc" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>dans la salle d'attente</p></td> 
+<tr id='24' onclick='togglerow("24")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}dans la salle d'attente{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}dans la salle d'attente{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Nous viendrons vous appeler</p></td> 
+<tr id='25' onclick='togglerow("25")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Nous viendrons vous appeler{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Nous viendrons vous appeler{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Merci de ne pas manger, boire ou fumer pendant l’attente</p></td> 
+<tr id='26' onclick='togglerow("26")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Merci de ne pas manger, boire ou fumer pendant l’attente{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Merci de ne pas manger, boire ou fumer pendant l’attente{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Votre famille devra attendre ici</p></td> 
+<tr id='27' onclick='togglerow("27")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Votre famille devra attendre ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Votre famille devra attendre ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé</p></td> 
+<tr id='28' onclick='togglerow("28")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun</p></td> 
+<tr id='29' onclick='togglerow("29")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faut attendre “1 heure” pour avoir les résultats de la prise de sang</p></td> 
+<tr id='30' onclick='togglerow("30")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faut attendre “1 heure” pour avoir les résultats de la prise de sang{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faut attendre “1 heure” pour avoir les résultats de la prise de sang{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='ACCUEIL'>ACCUEIL</h2>
+ {% language base_language %}
+<h2 id='ACCUEIL'>{% translate "ACCUEIL" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Qu’est-ce qui vous arrive ?</p></td> 
+<tr id='31' onclick='togglerow("31")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Qu’est-ce qui vous arrive ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Qu’est-ce qui vous arrive ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des douleurs ?</p></td> 
+<tr id='32' onclick='togglerow("32")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des douleurs ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des douleurs ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Oui</p></td> 
+<tr id='33' onclick='togglerow("33")'> 
+{% language base_language %}
+<td><p> {% translate "Oui" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Oui" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Non</p></td> 
+<tr id='34' onclick='togglerow("34")'> 
+{% language base_language %}
+<td><p> {% translate "Non" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Non" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Montrez-moi où vous avez mal</p></td> 
+<tr id='35' onclick='togglerow("35")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Montrez-moi où vous avez mal{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Montrez-moi où vous avez mal{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais vous examiner</p></td> 
+<tr id='36' onclick='togglerow("36")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais vous examiner{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais vous examiner{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pourriez-vous chiffrer votre douleur entre 0 et 10 ? (10 étant la note pour une douleur insupportable)</p></td> 
+<tr id='37' onclick='togglerow("37")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pourriez-vous chiffrer votre douleur entre 0 et 10 ? (10 étant la note pour une douleur insupportable){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pourriez-vous chiffrer votre douleur entre 0 et 10 ? (10 étant la note pour une douleur insupportable){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>0</p></td> 
+<tr id='38' onclick='togglerow("38")'> 
+{% language base_language %}
+<td><p> {% translate "0" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "0" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>1</p></td> 
+<tr id='39' onclick='togglerow("39")'> 
+{% language base_language %}
+<td><p> {% translate "1" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "1" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>2</p></td> 
+<tr id='40' onclick='togglerow("40")'> 
+{% language base_language %}
+<td><p> {% translate "2" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "2" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>3</p></td> 
+<tr id='41' onclick='togglerow("41")'> 
+{% language base_language %}
+<td><p> {% translate "3" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "3" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>4</p></td> 
+<tr id='42' onclick='togglerow("42")'> 
+{% language base_language %}
+<td><p> {% translate "4" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "4" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>5</p></td> 
+<tr id='43' onclick='togglerow("43")'> 
+{% language base_language %}
+<td><p> {% translate "5" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "5" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>6</p></td> 
+<tr id='44' onclick='togglerow("44")'> 
+{% language base_language %}
+<td><p> {% translate "6" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "6" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>7</p></td> 
+<tr id='45' onclick='togglerow("45")'> 
+{% language base_language %}
+<td><p> {% translate "7" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "7" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>8</p></td> 
+<tr id='46' onclick='togglerow("46")'> 
+{% language base_language %}
+<td><p> {% translate "8" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "8" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>9</p></td> 
+<tr id='47' onclick='togglerow("47")'> 
+{% language base_language %}
+<td><p> {% translate "9" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "9" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>10</p></td> 
+<tr id='48' onclick='togglerow("48")'> 
+{% language base_language %}
+<td><p> {% translate "10" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "10" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez vous vous déshabiller pour que je vous examine ?</p></td> 
+<tr id='49' onclick='togglerow("49")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez vous vous déshabiller pour que je vous examine ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez vous vous déshabiller pour que je vous examine ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous pouvez garder vos sous-vêtements</p></td> 
+<tr id='50' onclick='togglerow("50")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous pouvez garder vos sous-vêtements{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous pouvez garder vos sous-vêtements{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous pouvez vous asseoir sur la chaise</p></td> 
+<tr id='51' onclick='togglerow("51")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous pouvez vous asseoir sur la chaise{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous pouvez vous asseoir sur la chaise{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous pouvez vous allonger sur la table d'examen</p></td> 
+<tr id='52' onclick='togglerow("52")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous pouvez vous allonger sur la table d'examen{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous pouvez vous allonger sur la table d'examen{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous pouvez vous allonger sur le brancard</p></td> 
+<tr id='53' onclick='togglerow("53")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous pouvez vous allonger sur le brancard{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous pouvez vous allonger sur le brancard{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='NEUROLOGIE'>NEUROLOGIE</h2>
+ {% language base_language %}
+<h2 id='NEUROLOGIE'>{% translate "NEUROLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Avez-vous perdu connaissance ?</p></td> 
+<tr id='54' onclick='togglerow("54")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous perdu connaissance ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous perdu connaissance ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Savez-vous quel jour nous sommes ?</p></td> 
+<tr id='55' onclick='togglerow("55")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Savez-vous quel jour nous sommes ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Savez-vous quel jour nous sommes ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Savez-vous où vous êtes ?</p></td> 
+<tr id='56' onclick='togglerow("56")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Savez-vous où vous êtes ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Savez-vous où vous êtes ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Suivez mon doigt du regard</p></td> 
+<tr id='57' onclick='togglerow("57")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Suivez mon doigt du regard{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Suivez mon doigt du regard{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous bouger vos mains et vos pieds ?</p></td> 
+<tr id='58' onclick='togglerow("58")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous bouger vos mains et vos pieds ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous bouger vos mains et vos pieds ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?</p></td> 
+<tr id='59' onclick='togglerow("59")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Regardez-moi dans les yeux, je vais observer vos pupilles</p></td> 
+<tr id='60' onclick='togglerow("60")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Regardez-moi dans les yeux, je vais observer vos pupilles{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Regardez-moi dans les yeux, je vais observer vos pupilles{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous des fourmillement ? Montrez moi où</p></td> 
+<tr id='61' onclick='togglerow("61")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous des fourmillement ? Montrez moi où{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous des fourmillement ? Montrez moi où{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Poussez sur mes mains</p></td> 
+<tr id='62' onclick='togglerow("62")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Poussez sur mes mains{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Poussez sur mes mains{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ouvrez les yeux</p></td> 
+<tr id='63' onclick='togglerow("63")'> 
+{% language base_language %}
+<td><p> {% translate "Ouvrez les yeux" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ouvrez les yeux" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ouvrez la bouche</p></td> 
+<tr id='64' onclick='togglerow("64")'> 
+{% language base_language %}
+<td><p> {% translate "Ouvrez la bouche" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ouvrez la bouche" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Levez le bras droit</p></td> 
+<tr id='65' onclick='togglerow("65")'> 
+{% language base_language %}
+<td><p> {% translate "Levez le bras droit" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Levez le bras droit" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des douleurs à la tête ?</p></td> 
+<tr id='66' onclick='togglerow("66")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des douleurs à la tête ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des douleurs à la tête ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur est apparue :</p></td> 
+<tr id='67' onclick='togglerow("67")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur est apparue :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur est apparue :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Progressivement</p></td> 
+<tr id='68' onclick='togglerow("68")'> 
+{% language base_language %}
+<td><p> {% translate "Progressivement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Progressivement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Brutalement</p></td> 
+<tr id='69' onclick='togglerow("69")'> 
+{% language base_language %}
+<td><p> {% translate "Brutalement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Brutalement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous des douleurs dans la nuque ?</p></td> 
+<tr id='70' onclick='togglerow("70")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous des douleurs dans la nuque ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous des douleurs dans la nuque ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous voyagez ces derniers mois ?</p></td> 
+<tr id='71' onclick='togglerow("71")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous voyagez ces derniers mois ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous voyagez ces derniers mois ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Dans quel pays ?</p></td> 
+<tr id='72' onclick='togglerow("72")'> 
+{% language base_language %}
+<td><p> {% translate "Dans quel pays ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Dans quel pays ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que la lumière vous dérange ?</p></td> 
+<tr id='73' onclick='togglerow("73")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que la lumière vous dérange ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que la lumière vous dérange ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que le bruit vous dérange ?</p></td> 
+<tr id='74' onclick='togglerow("74")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que le bruit vous dérange ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que le bruit vous dérange ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre</p></td> 
+<tr id='75' onclick='togglerow("75")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='PNEUMOLOGIE'>PNEUMOLOGIE</h2>
+ {% language base_language %}
+<h2 id='PNEUMOLOGIE'>{% translate "PNEUMOLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps</p></td> 
+<tr id='76' onclick='togglerow("76")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Etes-vous essoufflé ?</p></td> 
+<tr id='77' onclick='togglerow("77")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Etes-vous essoufflé ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Etes-vous essoufflé ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Prenez une grande inspiration puis bloquez votre respiration</p></td> 
+<tr id='78' onclick='togglerow("78")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Prenez une grande inspiration puis bloquez votre respiration{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Prenez une grande inspiration puis bloquez votre respiration{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Respirez normalement</p></td> 
+<tr id='79' onclick='togglerow("79")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Respirez normalement{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Respirez normalement{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Respirez profondément</p></td> 
+<tr id='80' onclick='togglerow("80")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Respirez profondément{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Respirez profondément{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Fumez-vous ?</p></td> 
+<tr id='81' onclick='togglerow("81")'> 
+{% language base_language %}
+<td><p> {% translate "Fumez-vous ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Fumez-vous ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Etes-vous asthmatique ?</p></td> 
+<tr id='82' onclick='togglerow("82")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Etes-vous asthmatique ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Etes-vous asthmatique ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous pris votre traitement contre l’asthme ?</p></td> 
+<tr id='83' onclick='togglerow("83")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous pris votre traitement contre l’asthme ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous pris votre traitement contre l’asthme ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous respiré des fumées ?</p></td> 
+<tr id='84' onclick='togglerow("84")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous respiré des fumées ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous respiré des fumées ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vous laisse vous moucher, pour savoir s’il y a des traces de suie</p></td> 
+<tr id='85' onclick='togglerow("85")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vous laisse vous moucher, pour savoir s’il y a des traces de suie{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vous laisse vous moucher, pour savoir s’il y a des traces de suie{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='CARDIOLOGIE'>CARDIOLOGIE</h2>
+ {% language base_language %}
+<h2 id='CARDIOLOGIE'>{% translate "CARDIOLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Est-ce que votre douleur :</p></td> 
+<tr id='86' onclick='togglerow("86")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que votre douleur :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que votre douleur :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Serre</p></td> 
+<tr id='87' onclick='togglerow("87")'> 
+{% language base_language %}
+<td><p> {% translate "Serre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Serre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pique</p></td> 
+<tr id='88' onclick='togglerow("88")'> 
+{% language base_language %}
+<td><p> {% translate "Pique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Pique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Brûle</p></td> 
+<tr id='89' onclick='togglerow("89")'> 
+{% language base_language %}
+<td><p> {% translate "Brûle" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Brûle" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce que votre douleur irradie ? Montrez-moi vers où ?</p></td> 
+<tr id='90' onclick='togglerow("90")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que votre douleur irradie ? Montrez-moi vers où ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que votre douleur irradie ? Montrez-moi vers où ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Depuis combien de temps avez vous cette douleur ?</p></td> 
+<tr id='91' onclick='togglerow("91")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Depuis combien de temps avez vous cette douleur ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Depuis combien de temps avez vous cette douleur ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Minutes</p></td> 
+<tr id='92' onclick='togglerow("92")'> 
+{% language base_language %}
+<td><p> {% translate "Minutes" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Minutes" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Heures</p></td> 
+<tr id='93' onclick='togglerow("93")'> 
+{% language base_language %}
+<td><p> {% translate "Heures" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Heures" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Jours</p></td> 
+<tr id='94' onclick='togglerow("94")'> 
+{% language base_language %}
+<td><p> {% translate "Jours" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Jours" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais prendre votre pouls</p></td> 
+<tr id='95' onclick='togglerow("95")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais prendre votre pouls{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais prendre votre pouls{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais appuyer doucement sur votre ongle</p></td> 
+<tr id='96' onclick='togglerow("96")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais appuyer doucement sur votre ongle{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais appuyer doucement sur votre ongle{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais prendre votre pression artérielle</p></td> 
+<tr id='97' onclick='togglerow("97")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais prendre votre pression artérielle{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais prendre votre pression artérielle{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ressentez-vous des palpitations ?</p></td> 
+<tr id='98' onclick='togglerow("98")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ressentez-vous des palpitations ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ressentez-vous des palpitations ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement</p></td> 
+<tr id='99' onclick='togglerow("99")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que ce médicament soulage votre douleur ?</p></td> 
+<tr id='100' onclick='togglerow("100")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que ce médicament soulage votre douleur ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que ce médicament soulage votre douleur ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Buvez-vous de l'alcool ?</p></td> 
+<tr id='101' onclick='togglerow("101")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Buvez-vous de l'alcool ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Buvez-vous de l'alcool ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous du diabète ?</p></td> 
+<tr id='102' onclick='togglerow("102")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous du diabète ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous du diabète ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous du cholestérol ?</p></td> 
+<tr id='103' onclick='togglerow("103")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous du cholestérol ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous du cholestérol ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes</p></td> 
+<tr id='104' onclick='togglerow("104")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='MALAISE'>MALAISE</h2>
+ {% language base_language %}
+<h2 id='MALAISE'>{% translate "MALAISE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Avez-vous senti votre malaise arriver ?</p></td> 
+<tr id='105' onclick='togglerow("105")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous senti votre malaise arriver ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous senti votre malaise arriver ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Qu’avez-vous ressenti pendant la malaise ?</p></td> 
+<tr id='106' onclick='togglerow("106")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Qu’avez-vous ressenti pendant la malaise ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Qu’avez-vous ressenti pendant la malaise ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Fourmillement</p></td> 
+<tr id='107' onclick='togglerow("107")'> 
+{% language base_language %}
+<td><p> {% translate "Fourmillement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Fourmillement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vertige</p></td> 
+<tr id='108' onclick='togglerow("108")'> 
+{% language base_language %}
+<td><p> {% translate "Vertige" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Vertige" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Grande fatigue</p></td> 
+<tr id='109' onclick='togglerow("109")'> 
+{% language base_language %}
+<td><p> {% translate "Grande fatigue" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Grande fatigue" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous des vertiges ?</p></td> 
+<tr id='110' onclick='togglerow("110")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous des vertiges ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous des vertiges ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur irradie-t-elle ? Vers ou ?</p></td> 
+<tr id='111' onclick='togglerow("111")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur irradie-t-elle ? Vers ou ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur irradie-t-elle ? Vers ou ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>A quel endroit avez-vous ressenti ces signes ?</p></td> 
+<tr id='112' onclick='togglerow("112")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}A quel endroit avez-vous ressenti ces signes ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}A quel endroit avez-vous ressenti ces signes ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Combien de temps à durer votre malaise ?</p></td> 
+<tr id='113' onclick='togglerow("113")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Combien de temps à durer votre malaise ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Combien de temps à durer votre malaise ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous perdu vos urines ?</p></td> 
+<tr id='114' onclick='togglerow("114")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous perdu vos urines ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous perdu vos urines ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous êtes-vous mordu la langue ? Ouvrez la bouche</p></td> 
+<tr id='115' onclick='togglerow("115")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous êtes-vous mordu la langue ? Ouvrez la bouche{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous êtes-vous mordu la langue ? Ouvrez la bouche{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous convulsé ?</p></td> 
+<tr id='116' onclick='togglerow("116")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous convulsé ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous convulsé ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous mangé aujourd’hui ?</p></td> 
+<tr id='117' onclick='togglerow("117")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous mangé aujourd’hui ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous mangé aujourd’hui ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='DIGESTIF'>DIGESTIF</h2>
+ {% language base_language %}
+<h2 id='DIGESTIF'>{% translate "DIGESTIF" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Montrez moi ou vous avez mal</p></td> 
+<tr id='118' onclick='togglerow("118")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Montrez moi ou vous avez mal{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Montrez moi ou vous avez mal{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que la douleur irradie, si oui montrez moi vers où</p></td> 
+<tr id='119' onclick='togglerow("119")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que la douleur irradie, si oui montrez moi vers où{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que la douleur irradie, si oui montrez moi vers où{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?</p></td> 
+<tr id='120' onclick='togglerow("120")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des brûlures quand vous urinez ?</p></td> 
+<tr id='121' onclick='togglerow("121")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des brûlures quand vous urinez ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des brûlures quand vous urinez ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce qu’il y a du sang dans vos urines ?</p></td> 
+<tr id='122' onclick='togglerow("122")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce qu’il y a du sang dans vos urines ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce qu’il y a du sang dans vos urines ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Quelle est la date de vos dernières règles ?</p></td> 
+<tr id='123' onclick='togglerow("123")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Quelle est la date de vos dernières règles ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Quelle est la date de vos dernières règles ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Etes vous enceinte ?</p></td> 
+<tr id='124' onclick='togglerow("124")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Etes vous enceinte ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Etes vous enceinte ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?</p></td> 
+<tr id='125' onclick='togglerow("125")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Êtes vous constipé ?</p></td> 
+<tr id='126' onclick='togglerow("126")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Êtes vous constipé ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Êtes vous constipé ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Depuis combien de jours ?</p></td> 
+<tr id='127' onclick='togglerow("127")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Depuis combien de jours ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Depuis combien de jours ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des nausées ?</p></td> 
+<tr id='128' onclick='togglerow("128")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des nausées ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des nausées ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des diarrhées ?</p></td> 
+<tr id='129' onclick='togglerow("129")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des diarrhées ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des diarrhées ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous vomi ?</p></td> 
+<tr id='130' onclick='togglerow("130")'> 
+{% language base_language %}
+<td><p> {% translate "Avez-vous vomi ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Avez-vous vomi ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Y a-t-il du sang dans vos selles ?</p></td> 
+<tr id='131' onclick='togglerow("131")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Y a-t-il du sang dans vos selles ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Y a-t-il du sang dans vos selles ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des gazs ?</p></td> 
+<tr id='132' onclick='togglerow("132")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des gazs ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des gazs ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois vous faire un toucher rectal, êtes vous d’accord ?</p></td> 
+<tr id='133' onclick='togglerow("133")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois vous faire un toucher rectal, êtes vous d’accord ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois vous faire un toucher rectal, êtes vous d’accord ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faudra uriner dans ce pot pour réaliser un examen</p></td> 
+<tr id='134' onclick='togglerow("134")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faudra uriner dans ce pot pour réaliser un examen{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faudra uriner dans ce pot pour réaliser un examen{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faudra réaliser une toilette intime avant d’uriner dans le pot</p></td> 
+<tr id='135' onclick='togglerow("135")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faudra réaliser une toilette intime avant d’uriner dans le pot{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faudra réaliser une toilette intime avant d’uriner dans le pot{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='INFECTIEUX'>INFECTIEUX</h2>
+ {% language base_language %}
+<h2 id='INFECTIEUX'>{% translate "INFECTIEUX" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Avez-vous été piqué ou mordu ?</p></td> 
+<tr id='136' onclick='togglerow("136")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous été piqué ou mordu ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous été piqué ou mordu ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Montrez moi à quel endroit</p></td> 
+<tr id='137' onclick='togglerow("137")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Montrez moi à quel endroit{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Montrez moi à quel endroit{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Montrez moi où étaient les premiers boutons</p></td> 
+<tr id='138' onclick='togglerow("138")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Montrez moi où étaient les premiers boutons{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Montrez moi où étaient les premiers boutons{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Depuis combien de temps la jambe est-elle rouge ?</p></td> 
+<tr id='139' onclick='togglerow("139")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Depuis combien de temps la jambe est-elle rouge ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Depuis combien de temps la jambe est-elle rouge ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que ça vous démange ?</p></td> 
+<tr id='140' onclick='togglerow("140")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que ça vous démange ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que ça vous démange ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faut rester en isolement</p></td> 
+<tr id='141' onclick='togglerow("141")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faut rester en isolement{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faut rester en isolement{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez garder ce masque sur vous</p></td> 
+<tr id='142' onclick='togglerow("142")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez garder ce masque sur vous{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez garder ce masque sur vous{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous eu des rapports sexuels non protégés ?</p></td> 
+<tr id='143' onclick='togglerow("143")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous eu des rapports sexuels non protégés ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous eu des rapports sexuels non protégés ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais prendre votre température</p></td> 
+<tr id='144' onclick='togglerow("144")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais prendre votre température{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais prendre votre température{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='OPHTALMOLOGIE'>OPHTALMOLOGIE</h2>
+ {% language base_language %}
+<h2 id='OPHTALMOLOGIE'>{% translate "OPHTALMOLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Est-ce que vous voyez flou ?</p></td> 
+<tr id='145' onclick='togglerow("145")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que vous voyez flou ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que vous voyez flou ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce que vous voyez double ?</p></td> 
+<tr id='146' onclick='togglerow("146")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que vous voyez double ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que vous voyez double ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous mal à la tête ?</p></td> 
+<tr id='147' onclick='togglerow("147")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous mal à la tête ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous mal à la tête ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce que vous avez l’impression que la pièce tourne autour de vous ?</p></td> 
+<tr id='148' onclick='togglerow("148")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce que vous avez l’impression que la pièce tourne autour de vous ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce que vous avez l’impression que la pièce tourne autour de vous ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous reçu un coup à la tête récemment ?</p></td> 
+<tr id='149' onclick='togglerow("149")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous reçu un coup à la tête récemment ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous reçu un coup à la tête récemment ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='ANTÉCÉDENTS'>ANTÉCÉDENTS</h2>
+ {% language base_language %}
+<h2 id='ANTÉCÉDENTS'>{% translate "ANTÉCÉDENTS" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Avez-vous des maladies (diabète, hypertension) ?</p></td> 
+<tr id='150' onclick='togglerow("150")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des maladies (diabète, hypertension) ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des maladies (diabète, hypertension) ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous été hospitalisé récemment ?</p></td> 
+<tr id='151' onclick='togglerow("151")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous été hospitalisé récemment ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous été hospitalisé récemment ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous un traitement en cours ? (lequel ?)</p></td> 
+<tr id='152' onclick='togglerow("152")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous un traitement en cours ? (lequel ?){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous un traitement en cours ? (lequel ?){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous une ordonnance avec vos traitements ?</p></td> 
+<tr id='153' onclick='togglerow("153")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous une ordonnance avec vos traitements ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous une ordonnance avec vos traitements ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des allergies ? (lesquelles ?)</p></td> 
+<tr id='154' onclick='togglerow("154")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des allergies ? (lesquelles ?){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des allergies ? (lesquelles ?){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Y a-t-il des antécédents de maladie dans votre famille ?</p></td> 
+<tr id='155' onclick='togglerow("155")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Y a-t-il des antécédents de maladie dans votre famille ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Y a-t-il des antécédents de maladie dans votre famille ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous vous asseoir ?</p></td> 
+<tr id='156' onclick='togglerow("156")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous vous asseoir ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous vous asseoir ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous vous lever ?</p></td> 
+<tr id='157' onclick='togglerow("157")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous vous lever ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous vous lever ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous marcher ?</p></td> 
+<tr id='158' onclick='togglerow("158")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous marcher ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous marcher ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='PEDIATRIE'>PEDIATRIE</h2>
+ {% language base_language %}
+<h2 id='PEDIATRIE'>{% translate "PEDIATRIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Le bébé a t il perdu du poids ? Combien de kilo ?</p></td> 
+<tr id='159' onclick='togglerow("159")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Le bébé a t il perdu du poids ? Combien de kilo ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Le bébé a t il perdu du poids ? Combien de kilo ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce que le bébé est à jour de ces vaccins ?</p></td> 
+<tr id='160' onclick='togglerow("160")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que le bébé est à jour de ces vaccins ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que le bébé est à jour de ces vaccins ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce que ses frères et soeurs sont malades ?</p></td> 
+<tr id='161' onclick='togglerow("161")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce que ses frères et soeurs sont malades ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce que ses frères et soeurs sont malades ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce qu’il mange bien ?</p></td> 
+<tr id='162' onclick='togglerow("162")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce qu’il mange bien ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce qu’il mange bien ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce qu’il vomi ?</p></td> 
+<tr id='163' onclick='togglerow("163")'> 
+{% language base_language %}
+<td><p> {% translate "Est-ce qu’il vomi ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Est-ce qu’il vomi ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce qu’il semble plus agité que d’habitude ?</p></td> 
+<tr id='164' onclick='togglerow("164")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce qu’il semble plus agité que d’habitude ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce qu’il semble plus agité que d’habitude ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est-ce qu’il semble plus fatigué que d’habitude ?</p></td> 
+<tr id='165' onclick='togglerow("165")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est-ce qu’il semble plus fatigué que d’habitude ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est-ce qu’il semble plus fatigué que d’habitude ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Est ce qu’il a la diarrhée ?</p></td> 
+<tr id='166' onclick='togglerow("166")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Est ce qu’il a la diarrhée ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Est ce qu’il a la diarrhée ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='GYNECOLOGIE'>GYNECOLOGIE</h2>
+ {% language base_language %}
+<h2 id='GYNECOLOGIE'>{% translate "GYNECOLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Etes vous enceinte ?</p></td> 
+<tr id='167' onclick='togglerow("167")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Etes vous enceinte ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Etes vous enceinte ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>De combien de semaines ?</p></td> 
+<tr id='168' onclick='togglerow("168")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}De combien de semaines ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}De combien de semaines ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous vos règles ?</p></td> 
+<tr id='169' onclick='togglerow("169")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous vos règles ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous vos règles ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous perdu du sang ?</p></td> 
+<tr id='170' onclick='togglerow("170")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous perdu du sang ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous perdu du sang ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vos pertes étaient elles rouge ou noir ?</p></td> 
+<tr id='171' onclick='togglerow("171")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vos pertes étaient elles rouge ou noir ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vos pertes étaient elles rouge ou noir ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous eu des problèmes lors de vos précédentes grossesse ?</p></td> 
+<tr id='172' onclick='togglerow("172")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous eu des problèmes lors de vos précédentes grossesse ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous eu des problèmes lors de vos précédentes grossesse ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous des contractions ?</p></td> 
+<tr id='173' onclick='togglerow("173")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous des contractions ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous des contractions ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous perdu les eaux ?</p></td> 
+<tr id='174' onclick='togglerow("174")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous perdu les eaux ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous perdu les eaux ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Sentez vous le bébé bouger ?</p></td> 
+<tr id='175' onclick='togglerow("175")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Sentez vous le bébé bouger ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Sentez vous le bébé bouger ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous une contraception ?</p></td> 
+<tr id='176' onclick='togglerow("176")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous une contraception ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous une contraception ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois faire un examen gynécologique, allongez vous sur la table</p></td> 
+<tr id='177' onclick='togglerow("177")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois faire un examen gynécologique, allongez vous sur la table{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois faire un examen gynécologique, allongez vous sur la table{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faut retirer vos sous-vêtements</p></td> 
+<tr id='178' onclick='togglerow("178")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faut retirer vos sous-vêtements{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faut retirer vos sous-vêtements{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='TRAUMATOLOGIE'>TRAUMATOLOGIE</h2>
+ {% language base_language %}
+<h2 id='TRAUMATOLOGIE'>{% translate "TRAUMATOLOGIE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Avez-vous été éjecté du véhicule ?</p></td> 
+<tr id='179' onclick='togglerow("179")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous été éjecté du véhicule ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous été éjecté du véhicule ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>A quelle vitesse rouliez-vous ?</p></td> 
+<tr id='180' onclick='togglerow("180")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}A quelle vitesse rouliez-vous ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}A quelle vitesse rouliez-vous ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Etiez-vous casqué ?</p></td> 
+<tr id='181' onclick='togglerow("181")'> 
+{% language base_language %}
+<td><p> {% translate "Etiez-vous casqué ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Etiez-vous casqué ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Aviez-vous votre ceinture de sécurité ?</p></td> 
+<tr id='182' onclick='togglerow("182")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Aviez-vous votre ceinture de sécurité ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Aviez-vous votre ceinture de sécurité ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez vous fait une chute ?</p></td> 
+<tr id='183' onclick='togglerow("183")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez vous fait une chute ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez vous fait une chute ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>De quelle hauteur êtes-vous tombé ?</p></td> 
+<tr id='184' onclick='togglerow("184")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}De quelle hauteur êtes-vous tombé ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}De quelle hauteur êtes-vous tombé ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?</p></td> 
+<tr id='185' onclick='togglerow("185")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais installer une collier afin de protéger votre colonne vertébrale</p></td> 
+<tr id='186' onclick='togglerow("186")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais installer une collier afin de protéger votre colonne vertébrale{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais installer une collier afin de protéger votre colonne vertébrale{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois mettre un antiseptique sur la plaie</p></td> 
+<tr id='187' onclick='togglerow("187")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois mettre un antiseptique sur la plaie{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois mettre un antiseptique sur la plaie{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois suturer la plaie</p></td> 
+<tr id='188' onclick='togglerow("188")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois suturer la plaie{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois suturer la plaie{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois faire un pansement</p></td> 
+<tr id='189' onclick='togglerow("189")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois faire un pansement{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois faire un pansement{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais faire une anesthésie autour de la plaie</p></td> 
+<tr id='190' onclick='togglerow("190")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais faire une anesthésie autour de la plaie{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais faire une anesthésie autour de la plaie{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ne bougez pas</p></td> 
+<tr id='191' onclick='togglerow("191")'> 
+{% language base_language %}
+<td><p> {% translate "Ne bougez pas" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ne bougez pas" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je dois vous faire un plâtre</p></td> 
+<tr id='192' onclick='togglerow("192")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je dois vous faire un plâtre{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je dois vous faire un plâtre{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez être opéré</p></td> 
+<tr id='193' onclick='togglerow("193")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez être opéré{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez être opéré{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='EXAMENS'>EXAMENS</h2>
+ {% language base_language %}
+<h2 id='EXAMENS'>{% translate "EXAMENS" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Vous devez avoir :</p></td> 
+<tr id='194' onclick='togglerow("194")'> 
+{% language base_language %}
+<td><p> {% translate "Vous devez avoir :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Vous devez avoir :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je vais vous faire :</p></td> 
+<tr id='195' onclick='togglerow("195")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je vais vous faire :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je vais vous faire :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une perfusion</p></td> 
+<tr id='196' onclick='togglerow("196")'> 
+{% language base_language %}
+<td><p> {% translate "une perfusion" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une perfusion" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une prise de sang</p></td> 
+<tr id='197' onclick='togglerow("197")'> 
+{% language base_language %}
+<td><p> {% translate "une prise de sang" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une prise de sang" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>un pansement</p></td> 
+<tr id='198' onclick='togglerow("198")'> 
+{% language base_language %}
+<td><p> {% translate "un pansement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "un pansement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une piqûre</p></td> 
+<tr id='199' onclick='togglerow("199")'> 
+{% language base_language %}
+<td><p> {% translate "une piqûre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une piqûre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>votre toilette</p></td> 
+<tr id='200' onclick='togglerow("200")'> 
+{% language base_language %}
+<td><p> {% translate "votre toilette" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "votre toilette" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>un scanner</p></td> 
+<tr id='201' onclick='togglerow("201")'> 
+{% language base_language %}
+<td><p> {% translate "un scanner" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "un scanner" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une radiographie</p></td> 
+<tr id='202' onclick='togglerow("202")'> 
+{% language base_language %}
+<td><p> {% translate "une radiographie" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une radiographie" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>un plâtre</p></td> 
+<tr id='203' onclick='togglerow("203")'> 
+{% language base_language %}
+<td><p> {% translate "un plâtre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "un plâtre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une échographie</p></td> 
+<tr id='204' onclick='togglerow("204")'> 
+{% language base_language %}
+<td><p> {% translate "une échographie" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une échographie" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une opération</p></td> 
+<tr id='205' onclick='togglerow("205")'> 
+{% language base_language %}
+<td><p> {% translate "une opération" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une opération" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Aujourd'hui</p></td> 
+<tr id='206' onclick='togglerow("206")'> 
+{% language base_language %}
+<td><p> {% translate "Aujourd'hui" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Aujourd'hui" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Demain</p></td> 
+<tr id='207' onclick='togglerow("207")'> 
+{% language base_language %}
+<td><p> {% translate "Demain" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Demain" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez prendre une douche avec un shampoing avant l'opération</p></td> 
+<tr id='208' onclick='togglerow("208")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez prendre une douche avec un shampoing avant l'opération{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez prendre une douche avec un shampoing avant l'opération{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>L’examen n’est pas douloureux</p></td> 
+<tr id='209' onclick='togglerow("209")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}L’examen n’est pas douloureux{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}L’examen n’est pas douloureux{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Après l'opération vous aurez :</p></td> 
+<tr id='210' onclick='togglerow("210")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Après l'opération vous aurez :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Après l'opération vous aurez :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une sonde urinaire</p></td> 
+<tr id='211' onclick='togglerow("211")'> 
+{% language base_language %}
+<td><p> {% translate "Une sonde urinaire" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une sonde urinaire" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une sonde gastrique</p></td> 
+<tr id='212' onclick='togglerow("212")'> 
+{% language base_language %}
+<td><p> {% translate "Une sonde gastrique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une sonde gastrique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un drain</p></td> 
+<tr id='213' onclick='togglerow("213")'> 
+{% language base_language %}
+<td><p> {% translate "Un drain" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Un drain" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une cicatrice</p></td> 
+<tr id='214' onclick='togglerow("214")'> 
+{% language base_language %}
+<td><p> {% translate "Une cicatrice" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une cicatrice" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez retier tous vos bijoux et piercing</p></td> 
+<tr id='215' onclick='togglerow("215")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez retier tous vos bijoux et piercing{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez retier tous vos bijoux et piercing{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez retier votre vernis a ongles</p></td> 
+<tr id='216' onclick='togglerow("216")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez retier votre vernis a ongles{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez retier votre vernis a ongles{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez retier vos appareils dentaires et auditifs</p></td> 
+<tr id='217' onclick='togglerow("217")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez retier vos appareils dentaires et auditifs{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez retier vos appareils dentaires et auditifs{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Dites nous si vous avez :</p></td> 
+<tr id='218' onclick='togglerow("218")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Dites nous si vous avez :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Dites nous si vous avez :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un pace-maker</p></td> 
+<tr id='219' onclick='togglerow("219")'> 
+{% language base_language %}
+<td><p> {% translate "Un pace-maker" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Un pace-maker" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une valve cardiaque</p></td> 
+<tr id='220' onclick='togglerow("220")'> 
+{% language base_language %}
+<td><p> {% translate "Une valve cardiaque" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une valve cardiaque" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un stent</p></td> 
+<tr id='221' onclick='togglerow("221")'> 
+{% language base_language %}
+<td><p> {% translate "Un stent" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Un stent" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une prothèse</p></td> 
+<tr id='222' onclick='togglerow("222")'> 
+{% language base_language %}
+<td><p> {% translate "Une prothèse" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une prothèse" %} </p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='TRAITEMENTS et CONSIGNES'>TRAITEMENTS et CONSIGNES</h2>
+ {% language base_language %}
+<h2 id='TRAITEMENTS et CONSIGNES'>{% translate "TRAITEMENTS et CONSIGNES" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Je vous donne :</p></td> 
+<tr id='223' onclick='togglerow("223")'> 
+{% language base_language %}
+<td><p> {% translate "Je vous donne :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je vous donne :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>des médicaments</p></td> 
+<tr id='224' onclick='togglerow("224")'> 
+{% language base_language %}
+<td><p> {% translate "des médicaments" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "des médicaments" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>des antalgiques</p></td> 
+<tr id='225' onclick='togglerow("225")'> 
+{% language base_language %}
+<td><p> {% translate "des antalgiques" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "des antalgiques" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>des antibiotiques</p></td> 
+<tr id='226' onclick='togglerow("226")'> 
+{% language base_language %}
+<td><p> {% translate "des antibiotiques" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "des antibiotiques" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous ne devez pas boire</p></td> 
+<tr id='227' onclick='togglerow("227")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous ne devez pas boire{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous ne devez pas boire{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous ne devez pas manger</p></td> 
+<tr id='228' onclick='togglerow("228")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous ne devez pas manger{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous ne devez pas manger{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous ne devez pas vous lever</p></td> 
+<tr id='229' onclick='togglerow("229")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous ne devez pas vous lever{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous ne devez pas vous lever{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez rester sur le dos</p></td> 
+<tr id='230' onclick='togglerow("230")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez rester sur le dos{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez rester sur le dos{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous ne devez pas fumer</p></td> 
+<tr id='231' onclick='togglerow("231")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous ne devez pas fumer{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous ne devez pas fumer{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pour nous appeler appuyer ici</p></td> 
+<tr id='232' onclick='togglerow("232")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pour nous appeler appuyer ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pour nous appeler appuyer ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pour allumer ou éteindre les lumières appuyer ici</p></td> 
+<tr id='233' onclick='togglerow("233")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pour allumer ou éteindre les lumières appuyer ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pour allumer ou éteindre les lumières appuyer ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Les toilettes sont ici</p></td> 
+<tr id='234' onclick='togglerow("234")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Les toilettes sont ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Les toilettes sont ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La salle de bain est ici</p></td> 
+<tr id='235' onclick='togglerow("235")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La salle de bain est ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La salle de bain est ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Votre chambre est ici</p></td> 
+<tr id='236' onclick='togglerow("236")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Votre chambre est ici{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Votre chambre est ici{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='CONCLUSION'>CONCLUSION</h2>
+ {% language base_language %}
+<h2 id='CONCLUSION'>{% translate "CONCLUSION" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>Il y a une fracture</p></td> 
+<tr id='237' onclick='togglerow("237")'> 
+{% language base_language %}
+<td><p> {% translate "Il y a une fracture" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Il y a une fracture" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il n’y a pas de fracture</p></td> 
+<tr id='238' onclick='togglerow("238")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il n’y a pas de fracture{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il n’y a pas de fracture{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez être opéré</p></td> 
+<tr id='239' onclick='togglerow("239")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez être opéré{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez être opéré{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez revenir demain matin</p></td> 
+<tr id='240' onclick='togglerow("240")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez revenir demain matin{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez revenir demain matin{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez revenir dans :</p></td> 
+<tr id='241' onclick='togglerow("241")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez revenir dans :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez revenir dans :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devrez faire retirer les fils dans :</p></td> 
+<tr id='242' onclick='togglerow("242")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devrez faire retirer les fils dans :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devrez faire retirer les fils dans :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez avoir un plâtre</p></td> 
+<tr id='243' onclick='togglerow("243")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez avoir un plâtre{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez avoir un plâtre{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devrez porter une attelle</p></td> 
+<tr id='244' onclick='togglerow("244")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devrez porter une attelle{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devrez porter une attelle{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous pouvez rentrer chez vous</p></td> 
+<tr id='245' onclick='togglerow("245")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous pouvez rentrer chez vous{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous pouvez rentrer chez vous{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez aller à l'hôpital</p></td> 
+<tr id='246' onclick='togglerow("246")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez aller à l'hôpital{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez aller à l'hôpital{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous devez rester à l'hôpital</p></td> 
+<tr id='247' onclick='togglerow("247")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous devez rester à l'hôpital{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous devez rester à l'hôpital{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Vous allez être transféré dans un autre service</p></td> 
+<tr id='248' onclick='togglerow("248")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Vous allez être transféré dans un autre service{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Vous allez être transféré dans un autre service{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
  </tbody>
 </table>
-<h2 id='PATIENT EN STRUCTURE'>PATIENT EN STRUCTURE</h2>
+ {% language base_language %}
+<h2 id='PATIENT EN STRUCTURE'>{% translate "PATIENT EN STRUCTURE" %} </h2>
+{% endlanguage %}
 <table class='tg'>
  <tbody>
-<tr> 
-<td><p>J’ai faim</p></td> 
+<tr id='249' onclick='togglerow("249")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai faim" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai faim" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai soif</p></td> 
+<tr id='250' onclick='togglerow("250")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai soif" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai soif" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai mal</p></td> 
+<tr id='251' onclick='togglerow("251")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai mal" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai mal" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai froid</p></td> 
+<tr id='252' onclick='togglerow("252")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai froid" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai froid" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai chaud</p></td> 
+<tr id='253' onclick='togglerow("253")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai chaud" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai chaud" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai des nausées</p></td> 
+<tr id='254' onclick='togglerow("254")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai des nausées" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai des nausées" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai vomi</p></td> 
+<tr id='255' onclick='togglerow("255")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai vomi" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai vomi" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai uriné (je voudrais être changé)</p></td> 
+<tr id='256' onclick='togglerow("256")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}j’ai uriné (je voudrais être changé){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}j’ai uriné (je voudrais être changé){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>je voudrais uriner</p></td> 
+<tr id='257' onclick='togglerow("257")'> 
+{% language base_language %}
+<td><p> {% translate "je voudrais uriner" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "je voudrais uriner" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>je voudrais déféquer</p></td> 
+<tr id='258' onclick='togglerow("258")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}je voudrais déféquer{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}je voudrais déféquer{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai des vertiges</p></td> 
+<tr id='259' onclick='togglerow("259")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai des vertiges" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai des vertiges" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>j’ai peur</p></td> 
+<tr id='260' onclick='togglerow("260")'> 
+{% language base_language %}
+<td><p> {% translate "j’ai peur" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "j’ai peur" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>je voudrais être réinstallé</p></td> 
+<tr id='261' onclick='togglerow("261")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}je voudrais être réinstallé{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}je voudrais être réinstallé{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>je voudrais des informations</p></td> 
+<tr id='262' onclick='togglerow("262")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}je voudrais des informations{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}je voudrais des informations{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai eu un accident</p></td> 
+<tr id='263' onclick='togglerow("263")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai eu un accident" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai eu un accident" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’étais piéton</p></td> 
+<tr id='264' onclick='togglerow("264")'> 
+{% language base_language %}
+<td><p> {% translate "J’étais piéton" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’étais piéton" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai été renversé</p></td> 
+<tr id='265' onclick='togglerow("265")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai été renversé" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai été renversé" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas été renversé</p></td> 
+<tr id='266' onclick='togglerow("266")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas été renversé{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas été renversé{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis tombé</p></td> 
+<tr id='267' onclick='togglerow("267")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis tombé" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis tombé" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai reçu un coup</p></td> 
+<tr id='268' onclick='togglerow("268")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai reçu un coup" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai reçu un coup" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’étais en voiture</p></td> 
+<tr id='269' onclick='togglerow("269")'> 
+{% language base_language %}
+<td><p> {% translate "J’étais en voiture" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’étais en voiture" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je roulais à “x” km/h</p></td> 
+<tr id='270' onclick='togglerow("270")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je roulais à “x” km/h{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je roulais à “x” km/h{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’avais ma ceinture de sécurité</p></td> 
+<tr id='271' onclick='togglerow("271")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’avais ma ceinture de sécurité{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’avais ma ceinture de sécurité{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’avais pas de ceinture de sécurité</p></td> 
+<tr id='272' onclick='togglerow("272")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’avais pas de ceinture de sécurité{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’avais pas de ceinture de sécurité{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai été éjecté pendant l’accident</p></td> 
+<tr id='273' onclick='togglerow("273")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai été éjecté pendant l’accident{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai été éjecté pendant l’accident{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas été éjecté pendant l’accident</p></td> 
+<tr id='274' onclick='togglerow("274")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas été éjecté pendant l’accident{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas été éjecté pendant l’accident{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>L’air-bag s’est déclenché</p></td> 
+<tr id='275' onclick='togglerow("275")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}L’air-bag s’est déclenché{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}L’air-bag s’est déclenché{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>L’air-bag ne s’est pas déclenché</p></td> 
+<tr id='276' onclick='togglerow("276")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}L’air-bag ne s’est pas déclenché{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}L’air-bag ne s’est pas déclenché{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’étais en vélo</p></td> 
+<tr id='277' onclick='togglerow("277")'> 
+{% language base_language %}
+<td><p> {% translate "J’étais en vélo" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’étais en vélo" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J'étais en scooter</p></td> 
+<tr id='278' onclick='togglerow("278")'> 
+{% language base_language %}
+<td><p> {% translate "J'étais en scooter" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J'étais en scooter" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J'étais en moto</p></td> 
+<tr id='279' onclick='togglerow("279")'> 
+{% language base_language %}
+<td><p> {% translate "J'étais en moto" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J'étais en moto" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je roulais à “x” km/h</p></td> 
+<tr id='280' onclick='togglerow("280")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je roulais à “x” km/h{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je roulais à “x” km/h{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’avais un casque</p></td> 
+<tr id='281' onclick='togglerow("281")'> 
+{% language base_language %}
+<td><p> {% translate "J’avais un casque" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’avais un casque" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’avais pas de casque</p></td> 
+<tr id='282' onclick='togglerow("282")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’avais pas de casque{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’avais pas de casque{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis tombé</p></td> 
+<tr id='283' onclick='togglerow("283")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis tombé" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis tombé" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis tombé de ma hauteur</p></td> 
+<tr id='284' onclick='togglerow("284")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je suis tombé de ma hauteur{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je suis tombé de ma hauteur{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis tombé de “x” mètres de haut</p></td> 
+<tr id='285' onclick='togglerow("285")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je suis tombé de “x” mètres de haut{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je suis tombé de “x” mètres de haut{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ma tête a tapé pendant l’accident</p></td> 
+<tr id='286' onclick='togglerow("286")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ma tête a tapé pendant l’accident{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ma tête a tapé pendant l’accident{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ma tête n’a pas tapé pendant l’accident</p></td> 
+<tr id='287' onclick='togglerow("287")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ma tête n’a pas tapé pendant l’accident{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ma tête n’a pas tapé pendant l’accident{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des douleurs :</p></td> 
+<tr id='288' onclick='togglerow("288")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai des douleurs :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai des douleurs :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>à la tête</p></td> 
+<tr id='289' onclick='togglerow("289")'> 
+{% language base_language %}
+<td><p> {% translate "à la tête" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "à la tête" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>au cou</p></td> 
+<tr id='290' onclick='togglerow("290")'> 
+{% language base_language %}
+<td><p> {% translate "au cou" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "au cou" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>au dos</p></td> 
+<tr id='291' onclick='togglerow("291")'> 
+{% language base_language %}
+<td><p> {% translate "au dos" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "au dos" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>au bras</p></td> 
+<tr id='292' onclick='togglerow("292")'> 
+{% language base_language %}
+<td><p> {% translate "au bras" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "au bras" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>à la jambe</p></td> 
+<tr id='293' onclick='togglerow("293")'> 
+{% language base_language %}
+<td><p> {% translate "à la jambe" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "à la jambe" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>au torse</p></td> 
+<tr id='294' onclick='togglerow("294")'> 
+{% language base_language %}
+<td><p> {% translate "au torse" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "au torse" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>au ventre</p></td> 
+<tr id='295' onclick='togglerow("295")'> 
+{% language base_language %}
+<td><p> {% translate "au ventre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "au ventre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je prend des anticoagulants (médicaments pour fluidifier le sang)</p></td> 
+<tr id='296' onclick='togglerow("296")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je prend des anticoagulants (médicaments pour fluidifier le sang){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je prend des anticoagulants (médicaments pour fluidifier le sang){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang)</p></td> 
+<tr id='297' onclick='togglerow("297")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang){% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang){% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Tête</p></td> 
+<tr id='298' onclick='togglerow("298")'> 
+{% language base_language %}
+<td><p> {% translate "Tête" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Tête" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des douleurs depuis :</p></td> 
+<tr id='299' onclick='togglerow("299")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des douleurs depuis :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des douleurs depuis :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur est apparue :</p></td> 
+<tr id='300' onclick='togglerow("300")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur est apparue :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur est apparue :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Brutalement</p></td> 
+<tr id='301' onclick='togglerow("301")'> 
+{% language base_language %}
+<td><p> {% translate "Brutalement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Brutalement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Progressivement</p></td> 
+<tr id='302' onclick='togglerow("302")'> 
+{% language base_language %}
+<td><p> {% translate "Progressivement" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Progressivement" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’arrive bien à bouger mes bras et jambes</p></td> 
+<tr id='303' onclick='togglerow("303")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’arrive bien à bouger mes bras et jambes{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’arrive bien à bouger mes bras et jambes{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’arrive pas a bouger un bras ou une jambe</p></td> 
+<tr id='304' onclick='togglerow("304")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’arrive pas a bouger un bras ou une jambe{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’arrive pas a bouger un bras ou une jambe{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’arrive bien à parler</p></td> 
+<tr id='305' onclick='togglerow("305")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’arrive bien à parler{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’arrive bien à parler{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des difficultés à parler</p></td> 
+<tr id='306' onclick='togglerow("306")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des difficultés à parler{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des difficultés à parler{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La lumière me dérange</p></td> 
+<tr id='307' onclick='togglerow("307")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La lumière me dérange{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La lumière me dérange{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La lumière ne me dérange pas</p></td> 
+<tr id='308' onclick='togglerow("308")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La lumière ne me dérange pas{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La lumière ne me dérange pas{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai de la fièvre</p></td> 
+<tr id='309' onclick='togglerow("309")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai de la fièvre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai de la fièvre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de fièvre</p></td> 
+<tr id='310' onclick='togglerow("310")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de fièvre{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de fièvre{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des douleurs à la nuque</p></td> 
+<tr id='311' onclick='togglerow("311")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des douleurs à la nuque{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des douleurs à la nuque{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de douleurs à la nuque</p></td> 
+<tr id='312' onclick='togglerow("312")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de douleurs à la nuque{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de douleurs à la nuque{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai fais un malaise</p></td> 
+<tr id='313' onclick='togglerow("313")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai fais un malaise{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai fais un malaise{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas fais de malaise</p></td> 
+<tr id='314' onclick='togglerow("314")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas fais de malaise{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas fais de malaise{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai perdu connaissance</p></td> 
+<tr id='315' onclick='togglerow("315")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai perdu connaissance{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai perdu connaissance{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas perdu connaissance</p></td> 
+<tr id='316' onclick='togglerow("316")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas perdu connaissance{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas perdu connaissance{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai perdu mes urines</p></td> 
+<tr id='317' onclick='togglerow("317")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai perdu mes urines{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai perdu mes urines{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas perdu mes urines</p></td> 
+<tr id='318' onclick='togglerow("318")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas perdu mes urines{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas perdu mes urines{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai convulsé</p></td> 
+<tr id='319' onclick='togglerow("319")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai convulsé" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai convulsé" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas convulsé</p></td> 
+<tr id='320' onclick='togglerow("320")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas convulsé{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas convulsé{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis épileptique</p></td> 
+<tr id='321' onclick='togglerow("321")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis épileptique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis épileptique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne suis pas épileptique</p></td> 
+<tr id='322' onclick='togglerow("322")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne suis pas épileptique{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne suis pas épileptique{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai pris mes traitements aujourd’hui</p></td> 
+<tr id='323' onclick='togglerow("323")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai pris mes traitements aujourd’hui{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai pris mes traitements aujourd’hui{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas prit mes traitements aujourd’hui</p></td> 
+<tr id='324' onclick='togglerow("324")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas prit mes traitements aujourd’hui{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas prit mes traitements aujourd’hui{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des vertiges</p></td> 
+<tr id='325' onclick='togglerow("325")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai des vertiges" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai des vertiges" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de vertiges</p></td> 
+<tr id='326' onclick='togglerow("326")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de vertiges{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de vertiges{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis diabétique</p></td> 
+<tr id='327' onclick='togglerow("327")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis diabétique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis diabétique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne suis pas diabétique</p></td> 
+<tr id='328' onclick='togglerow("328")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne suis pas diabétique{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne suis pas diabétique{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai mangé aujourd’hui</p></td> 
+<tr id='329' onclick='togglerow("329")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai mangé aujourd’hui{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai mangé aujourd’hui{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas mangé aujourd’hui</p></td> 
+<tr id='330' onclick='togglerow("330")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas mangé aujourd’hui{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas mangé aujourd’hui{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Torse</p></td> 
+<tr id='331' onclick='togglerow("331")'> 
+{% language base_language %}
+<td><p> {% translate "Torse" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Torse" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai eu un choc au torse récemment</p></td> 
+<tr id='332' onclick='togglerow("332")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai eu un choc au torse récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai eu un choc au torse récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas eu de choc au torse récemment</p></td> 
+<tr id='333' onclick='togglerow("333")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas eu de choc au torse récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas eu de choc au torse récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur est encore présente</p></td> 
+<tr id='334' onclick='togglerow("334")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur est encore présente{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur est encore présente{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur n’est plus présente</p></td> 
+<tr id='335' onclick='togglerow("335")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur n’est plus présente{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur n’est plus présente{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur :</p></td> 
+<tr id='336' onclick='togglerow("336")'> 
+{% language base_language %}
+<td><p> {% translate "La douleur :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "La douleur :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pique</p></td> 
+<tr id='337' onclick='togglerow("337")'> 
+{% language base_language %}
+<td><p> {% translate "Pique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Pique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Serre</p></td> 
+<tr id='338' onclick='togglerow("338")'> 
+{% language base_language %}
+<td><p> {% translate "Serre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Serre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Brûle</p></td> 
+<tr id='339' onclick='togglerow("339")'> 
+{% language base_language %}
+<td><p> {% translate "Brûle" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Brûle" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur irradie vers :</p></td> 
+<tr id='340' onclick='togglerow("340")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur irradie vers :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur irradie vers :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Machoire</p></td> 
+<tr id='341' onclick='togglerow("341")'> 
+{% language base_language %}
+<td><p> {% translate "Machoire" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Machoire" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ressent des palpitations</p></td> 
+<tr id='342' onclick='togglerow("342")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ressent des palpitations{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ressent des palpitations{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne ressent pas de palpitations</p></td> 
+<tr id='343' onclick='togglerow("343")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne ressent pas de palpitations{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne ressent pas de palpitations{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Dans ma famille il y a des problèmes cardiaques</p></td> 
+<tr id='344' onclick='togglerow("344")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Dans ma famille il y a des problèmes cardiaques{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Dans ma famille il y a des problèmes cardiaques{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Dans ma famille il n’y a pas de problème cardiaque</p></td> 
+<tr id='345' onclick='togglerow("345")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Dans ma famille il n’y a pas de problème cardiaque{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Dans ma famille il n’y a pas de problème cardiaque{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur est plus forte quand je respire</p></td> 
+<tr id='346' onclick='togglerow("346")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur est plus forte quand je respire{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur est plus forte quand je respire{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La douleur n’est pas plus forte quand je respire</p></td> 
+<tr id='347' onclick='togglerow("347")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}La douleur n’est pas plus forte quand je respire{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}La douleur n’est pas plus forte quand je respire{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je crache du sang</p></td> 
+<tr id='348' onclick='togglerow("348")'> 
+{% language base_language %}
+<td><p> {% translate "Je crache du sang" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je crache du sang" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne crache pas du sang</p></td> 
+<tr id='349' onclick='togglerow("349")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne crache pas du sang{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne crache pas du sang{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je tousse</p></td> 
+<tr id='350' onclick='togglerow("350")'> 
+{% language base_language %}
+<td><p> {% translate "Je tousse" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je tousse" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne tousse pas</p></td> 
+<tr id='351' onclick='togglerow("351")'> 
+{% language base_language %}
+<td><p> {% translate "Je ne tousse pas" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je ne tousse pas" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des difficultés à respirer</p></td> 
+<tr id='352' onclick='togglerow("352")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des difficultés à respirer{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des difficultés à respirer{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de difficultés à respirer</p></td> 
+<tr id='353' onclick='togglerow("353")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de difficultés à respirer{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de difficultés à respirer{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai respiré des fumées</p></td> 
+<tr id='354' onclick='togglerow("354")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai respiré des fumées{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai respiré des fumées{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je fume</p></td> 
+<tr id='355' onclick='togglerow("355")'> 
+{% language base_language %}
+<td><p> {% translate "Je fume" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je fume" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne fume pas</p></td> 
+<tr id='356' onclick='togglerow("356")'> 
+{% language base_language %}
+<td><p> {% translate "Je ne fume pas" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je ne fume pas" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je bois de l’alcool</p></td> 
+<tr id='357' onclick='togglerow("357")'> 
+{% language base_language %}
+<td><p> {% translate "Je bois de l’alcool" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je bois de l’alcool" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne bois pas d’alcool</p></td> 
+<tr id='358' onclick='togglerow("358")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne bois pas d’alcool{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne bois pas d’alcool{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai du cholestérol</p></td> 
+<tr id='359' onclick='togglerow("359")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai du cholestérol" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai du cholestérol" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de cholestérol</p></td> 
+<tr id='360' onclick='togglerow("360")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de cholestérol{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de cholestérol{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis asthmatique</p></td> 
+<tr id='361' onclick='togglerow("361")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis asthmatique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis asthmatique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne suis pas asthmatique</p></td> 
+<tr id='362' onclick='togglerow("362")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne suis pas asthmatique{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne suis pas asthmatique{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ventre</p></td> 
+<tr id='363' onclick='togglerow("363")'> 
+{% language base_language %}
+<td><p> {% translate "Ventre" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ventre" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J'ai des nausées</p></td> 
+<tr id='364' onclick='togglerow("364")'> 
+{% language base_language %}
+<td><p> {% translate "J'ai des nausées" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J'ai des nausées" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n'ai pas de nausées</p></td> 
+<tr id='365' onclick='togglerow("365")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n'ai pas de nausées{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n'ai pas de nausées{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai vomi</p></td> 
+<tr id='366' onclick='togglerow("366")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai vomi" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai vomi" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas vomi</p></td> 
+<tr id='367' onclick='togglerow("367")'> 
+{% language base_language %}
+<td><p> {% translate "Je n’ai pas vomi" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je n’ai pas vomi" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Des aliments</p></td> 
+<tr id='368' onclick='togglerow("368")'> 
+{% language base_language %}
+<td><p> {% translate "Des aliments" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Des aliments" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Du sang</p></td> 
+<tr id='369' onclick='togglerow("369")'> 
+{% language base_language %}
+<td><p> {% translate "Du sang" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Du sang" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>1 fois</p></td> 
+<tr id='370' onclick='togglerow("370")'> 
+{% language base_language %}
+<td><p> {% translate "1 fois" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "1 fois" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>2 fois</p></td> 
+<tr id='371' onclick='togglerow("371")'> 
+{% language base_language %}
+<td><p> {% translate "2 fois" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "2 fois" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Plusieurs fois</p></td> 
+<tr id='372' onclick='togglerow("372")'> 
+{% language base_language %}
+<td><p> {% translate "Plusieurs fois" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Plusieurs fois" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des diarrhées</p></td> 
+<tr id='373' onclick='togglerow("373")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai des diarrhées" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai des diarrhées" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de diarrhées</p></td> 
+<tr id='374' onclick='togglerow("374")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de diarrhées{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de diarrhées{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des gazs</p></td> 
+<tr id='375' onclick='togglerow("375")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai des gazs" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai des gazs" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai plus de gazs</p></td> 
+<tr id='376' onclick='togglerow("376")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai plus de gazs{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai plus de gazs{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Mes dernières urines étaient il y a :</p></td> 
+<tr id='377' onclick='togglerow("377")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Mes dernières urines étaient il y a :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Mes dernières urines étaient il y a :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il y avait du sang dans mes urines</p></td> 
+<tr id='378' onclick='togglerow("378")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il y avait du sang dans mes urines{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il y avait du sang dans mes urines{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il n’y avait pas de sang dans mes urines</p></td> 
+<tr id='379' onclick='togglerow("379")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il n’y avait pas de sang dans mes urines{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il n’y avait pas de sang dans mes urines{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des brulures quand j’urine</p></td> 
+<tr id='380' onclick='togglerow("380")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des brulures quand j’urine{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des brulures quand j’urine{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas de brulures quand j’urine</p></td> 
+<tr id='381' onclick='togglerow("381")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas de brulures quand j’urine{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas de brulures quand j’urine{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Mes dernières selles étaient il y a :</p></td> 
+<tr id='382' onclick='togglerow("382")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Mes dernières selles étaient il y a :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Mes dernières selles étaient il y a :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il y avait du sang dans mes selles</p></td> 
+<tr id='383' onclick='togglerow("383")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il y avait du sang dans mes selles{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il y avait du sang dans mes selles{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il n’y avait pas de sang dans mes selles</p></td> 
+<tr id='384' onclick='togglerow("384")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il n’y avait pas de sang dans mes selles{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il n’y avait pas de sang dans mes selles{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Mes dernières règles étaient il y a :</p></td> 
+<tr id='385' onclick='togglerow("385")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Mes dernières règles étaient il y a :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Mes dernières règles étaient il y a :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je suis enceinte</p></td> 
+<tr id='386' onclick='togglerow("386")'> 
+{% language base_language %}
+<td><p> {% translate "Je suis enceinte" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je suis enceinte" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne suis pas enceinte</p></td> 
+<tr id='387' onclick='togglerow("387")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je ne suis pas enceinte{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je ne suis pas enceinte{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Depuis “x” semaines</p></td> 
+<tr id='388' onclick='togglerow("388")'> 
+{% language base_language %}
+<td><p> {% translate "Depuis “x” semaines" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Depuis “x” semaines" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai eu des pertes par voie basse</p></td> 
+<tr id='389' onclick='togglerow("389")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai eu des pertes par voie basse{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai eu des pertes par voie basse{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas eu de perte par voie basse</p></td> 
+<tr id='390' onclick='togglerow("390")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas eu de perte par voie basse{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas eu de perte par voie basse{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Mes pertes étaient :</p></td> 
+<tr id='391' onclick='togglerow("391")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Mes pertes étaient :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Mes pertes étaient :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>De couleur rouge</p></td> 
+<tr id='392' onclick='togglerow("392")'> 
+{% language base_language %}
+<td><p> {% translate "De couleur rouge" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "De couleur rouge" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>De couleur noire</p></td> 
+<tr id='393' onclick='togglerow("393")'> 
+{% language base_language %}
+<td><p> {% translate "De couleur noire" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "De couleur noire" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai perdu du poids ces derniers temps</p></td> 
+<tr id='394' onclick='togglerow("394")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai perdu du poids ces derniers temps{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai perdu du poids ces derniers temps{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas perdu de poids ces derniers temps</p></td> 
+<tr id='395' onclick='togglerow("395")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas perdu de poids ces derniers temps{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas perdu de poids ces derniers temps{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Dos / Cou</p></td> 
+<tr id='396' onclick='togglerow("396")'> 
+{% language base_language %}
+<td><p> {% translate "Dos / Cou" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Dos / Cou" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ma douleur n’irradie pas vers la fesse ou la jambe</p></td> 
+<tr id='397' onclick='togglerow("397")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ma douleur n’irradie pas vers la fesse ou la jambe{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ma douleur n’irradie pas vers la fesse ou la jambe{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ma douleur irradie vers la fesse ou la jambe</p></td> 
+<tr id='398' onclick='togglerow("398")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ma douleur irradie vers la fesse ou la jambe{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ma douleur irradie vers la fesse ou la jambe{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas le dos bloqué</p></td> 
+<tr id='399' onclick='togglerow("399")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas le dos bloqué{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas le dos bloqué{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai le dos bloqué</p></td> 
+<tr id='400' onclick='togglerow("400")'> 
+{% language base_language %}
+<td><p> {% translate "J’ai le dos bloqué" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "J’ai le dos bloqué" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai mal surtout le soir</p></td> 
+<tr id='401' onclick='togglerow("401")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai mal surtout le soir{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai mal surtout le soir{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai mal surtout le matin</p></td> 
+<tr id='402' onclick='togglerow("402")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai mal surtout le matin{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai mal surtout le matin{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Bras</p></td> 
+<tr id='403' onclick='togglerow("403")'> 
+{% language base_language %}
+<td><p> {% translate "Bras" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Bras" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Jambe</p></td> 
+<tr id='404' onclick='togglerow("404")'> 
+{% language base_language %}
+<td><p> {% translate "Jambe" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Jambe" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai reçu un coup récemment</p></td> 
+<tr id='405' onclick='togglerow("405")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai reçu un coup récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai reçu un coup récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas reçu de coup récemment</p></td> 
+<tr id='406' onclick='togglerow("406")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas reçu de coup récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas reçu de coup récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai des douleurs depuis :</p></td> 
+<tr id='407' onclick='togglerow("407")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai des douleurs depuis :{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai des douleurs depuis :{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J’ai été piqué ou mordu récemment</p></td> 
+<tr id='408' onclick='togglerow("408")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J’ai été piqué ou mordu récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J’ai été piqué ou mordu récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je n’ai pas été piqué ou mordu récemment</p></td> 
+<tr id='409' onclick='togglerow("409")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Je n’ai pas été piqué ou mordu récemment{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Je n’ai pas été piqué ou mordu récemment{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ca me démange</p></td> 
+<tr id='410' onclick='togglerow("410")'> 
+{% language base_language %}
+<td><p> {% translate "Ca me démange" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ca me démange" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ca ne me démange pas</p></td> 
+<tr id='411' onclick='togglerow("411")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Ca ne me démange pas{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Ca ne me démange pas{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Ma douleur est :</p></td> 
+<tr id='412' onclick='togglerow("412")'> 
+{% language base_language %}
+<td><p> {% translate "Ma douleur est :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Ma douleur est :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Faible</p></td> 
+<tr id='413' onclick='togglerow("413")'> 
+{% language base_language %}
+<td><p> {% translate "Faible" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Faible" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Moyenne</p></td> 
+<tr id='414' onclick='togglerow("414")'> 
+{% language base_language %}
+<td><p> {% translate "Moyenne" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Moyenne" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Forte</p></td> 
+<tr id='415' onclick='togglerow("415")'> 
+{% language base_language %}
+<td><p> {% translate "Forte" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Forte" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Insupportable</p></td> 
+<tr id='416' onclick='togglerow("416")'> 
+{% language base_language %}
+<td><p> {% translate "Insupportable" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Insupportable" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Des clips intra-cranien</p></td> 
+<tr id='417' onclick='togglerow("417")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Des clips intra-cranien{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Des clips intra-cranien{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un implant cochléaire</p></td> 
+<tr id='418' onclick='togglerow("418")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Un implant cochléaire{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Un implant cochléaire{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un implant occulaire</p></td> 
+<tr id='419' onclick='togglerow("419")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Un implant occulaire{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Un implant occulaire{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Du métal dans le corps</p></td> 
+<tr id='420' onclick='togglerow("420")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Du métal dans le corps{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Du métal dans le corps{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Un défibrillateur</p></td> 
+<tr id='421' onclick='togglerow("421")'> 
+{% language base_language %}
+<td><p> {% translate "Un défibrillateur" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Un défibrillateur" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une chambre implantable</p></td> 
+<tr id='422' onclick='togglerow("422")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Une chambre implantable{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Une chambre implantable{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Allaitez-vous ?</p></td> 
+<tr id='423' onclick='togglerow("423")'> 
+{% language base_language %}
+<td><p> {% translate "Allaitez-vous ?" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Allaitez-vous ?" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Où se trouve le médecin le plus proche ?</p></td> 
+<tr id='424' onclick='togglerow("424")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Où se trouve le médecin le plus proche ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Où se trouve le médecin le plus proche ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Où se trouve l'hôpital le plus proche ?</p></td> 
+<tr id='425' onclick='togglerow("425")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Où se trouve l'hôpital le plus proche ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Où se trouve l'hôpital le plus proche ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Où se trouve la pharmacie la plus proche ?</p></td> 
+<tr id='426' onclick='togglerow("426")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Où se trouve la pharmacie la plus proche ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Où se trouve la pharmacie la plus proche ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>J'ai besoin de secours, pouvez-vous les appeler ?</p></td> 
+<tr id='427' onclick='togglerow("427")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}J'ai besoin de secours, pouvez-vous les appeler ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}J'ai besoin de secours, pouvez-vous les appeler ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Une IRM</p></td> 
+<tr id='428' onclick='togglerow("428")'> 
+{% language base_language %}
+<td><p> {% translate "Une IRM" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Une IRM" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>L'examen est long. Il dure entre 15 et 40 minutes</p></td> 
+<tr id='429' onclick='togglerow("429")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}L'examen est long. Il dure entre 15 et 40 minutes{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}L'examen est long. Il dure entre 15 et 40 minutes{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>L'examen n'est pas douloureux mais il est très bruyant</p></td> 
+<tr id='430' onclick='togglerow("430")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}L'examen n'est pas douloureux mais il est très bruyant{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}L'examen n'est pas douloureux mais il est très bruyant{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Il faut rester immobile pendant toute la durée de l'examen</p></td> 
+<tr id='431' onclick='togglerow("431")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Il faut rester immobile pendant toute la durée de l'examen{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Il faut rester immobile pendant toute la durée de l'examen{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Des éclats métalliques dans les yeux?</p></td> 
+<tr id='432' onclick='togglerow("432")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Des éclats métalliques dans les yeux?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Des éclats métalliques dans les yeux?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>une valve mécanique</p></td> 
+<tr id='433' onclick='togglerow("433")'> 
+{% language base_language %}
+<td><p> {% translate "une valve mécanique" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "une valve mécanique" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>un capteur de glycémie</p></td> 
+<tr id='434' onclick='togglerow("434")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}un capteur de glycémie{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}un capteur de glycémie{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>si oui, avez-vous une carte avec les références du matériel?</p></td> 
+<tr id='435' onclick='togglerow("435")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}si oui, avez-vous une carte avec les références du matériel?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}si oui, avez-vous une carte avec les références du matériel?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Quelle est votre taille et votre poids?</p></td> 
+<tr id='436' onclick='togglerow("436")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Quelle est votre taille et votre poids?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Quelle est votre taille et votre poids?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Durant l'examen, on vous demandera de gonfler et les poumons et de bloquer la respiration</p></td> 
+<tr id='437' onclick='togglerow("437")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Durant l'examen, on vous demandera de gonfler et les poumons et de bloquer la respiration{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Durant l'examen, on vous demandera de gonfler et les poumons et de bloquer la respiration{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Nous allons injecter un produit de contraste qui va vous donner chaud dans tout le corps, c'est normal ne vous inquiétez pas</p></td> 
+<tr id='438' onclick='togglerow("438")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Nous allons injecter un produit de contraste qui va vous donner chaud dans tout le corps, c'est normal ne vous inquiétez pas{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Nous allons injecter un produit de contraste qui va vous donner chaud dans tout le corps, c'est normal ne vous inquiétez pas{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Prenez-vous un traitement pour la thyroïde ?</p></td> 
+<tr id='439' onclick='togglerow("439")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Prenez-vous un traitement pour la thyroïde ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Prenez-vous un traitement pour la thyroïde ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Avez-vous des problèmes rénaux ?</p></td> 
+<tr id='440' onclick='togglerow("440")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Avez-vous des problèmes rénaux ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Avez-vous des problèmes rénaux ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Pouvez-vous signer l’autorisation de soins ci-dessous ?</p></td> 
+<tr id='441' onclick='togglerow("441")'> 
+{% language base_language %}
+<td><p>{% blocktranslate %}Pouvez-vous signer l’autorisation de soins ci-dessous ?{% endblocktranslate %}</p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p>{% blocktranslate %}Pouvez-vous signer l’autorisation de soins ci-dessous ?{% endblocktranslate %}</p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Nom :</p></td> 
+<tr id='442' onclick='togglerow("442")'> 
+{% language base_language %}
+<td><p> {% translate "Nom :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Nom :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Prénom :</p></td> 
+<tr id='443' onclick='togglerow("443")'> 
+{% language base_language %}
+<td><p> {% translate "Prénom :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Prénom :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Date de naissance :</p></td> 
+<tr id='444' onclick='togglerow("444")'> 
+{% language base_language %}
+<td><p> {% translate "Date de naissance :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Date de naissance :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>La taille :</p></td> 
+<tr id='445' onclick='togglerow("445")'> 
+{% language base_language %}
+<td><p> {% translate "La taille :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "La taille :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Poids :</p></td> 
+<tr id='446' onclick='togglerow("446")'> 
+{% language base_language %}
+<td><p> {% translate "Poids :" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Poids :" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Oui</p></td> 
+<tr id='447' onclick='togglerow("447")'> 
+{% language base_language %}
+<td><p> {% translate "Oui" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Oui" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Non</p></td> 
+<tr id='448' onclick='togglerow("448")'> 
+{% language base_language %}
+<td><p> {% translate "Non" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Non" %} </p></td>
+{% endlanguage %}
 </tr> 
-<tr> 
-<td><p>Je ne sais pas</p></td> 
+<tr id='449' onclick='togglerow("449")'> 
+{% language base_language %}
+<td><p> {% translate "Je ne sais pas" %} </p></td> 
+{% endlanguage %}
+{% language target_language %}
 <td><p> {% translate "Je ne sais pas" %} </p></td>
+{% endlanguage %}
 </tr> 
-
-    </tbody>
-</table>

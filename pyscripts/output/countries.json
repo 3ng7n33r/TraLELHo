@@ -1,0 +1,2125 @@
+[
+    {
+        "pk": 1,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Afghanistan",
+            "Name_fr": "Afghanistan",
+            "countrycode": "afg",
+            "Continent": "AS",
+            "spoken_languages": [64,65]
+        }
+    },
+    {
+        "pk": 2,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Angola",
+            "Name_fr": "Angola",
+            "countrycode": "ago",
+            "Continent": "AF",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 3,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Albania",
+            "Name_fr": "Albanie",
+            "countrycode": "alb",
+            "Continent": "EU",
+            "spoken_languages": [78]
+        }
+    },
+    {
+        "pk": 4,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Andorra",
+            "Name_fr": "Andorre",
+            "countrycode": "and",
+            "Continent": "EU",
+            "spoken_languages": [10]
+        }
+    },
+    {
+        "pk": 5,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "United Arab Emirates",
+            "Name_fr": "\u00c9mirats arabes unis",
+            "countrycode": "are",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 6,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Argentina",
+            "Name_fr": "Argentine",
+            "countrycode": "arg",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 7,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Armenia",
+            "Name_fr": "Arm\u00e9nie",
+            "countrycode": "arm",
+            "Continent": "AS",
+            "spoken_languages": [30]
+        }
+    },
+    {
+        "pk": 8,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Antigua and Barbuda",
+            "Name_fr": "Antigua-et-Barbuda",
+            "countrycode": "atg",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 9,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Australia",
+            "Name_fr": "Australie",
+            "countrycode": "aus",
+            "Continent": "OC",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 10,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Austria",
+            "Name_fr": "Autriche",
+            "countrycode": "aut",
+            "Continent": "EU",
+            "spoken_languages": [14]
+        }
+    },
+    {
+        "pk": 11,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Azerbaijan",
+            "Name_fr": "Azerba\u00efdjan",
+            "countrycode": "aze",
+            "Continent": "AS",
+            "spoken_languages": [4]
+        }
+    },
+    {
+        "pk": 12,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Burundi",
+            "Name_fr": "Burundi",
+            "countrycode": "bdi",
+            "Continent": "AF",
+            "spoken_languages": [24,67]
+        }
+    },
+    {
+        "pk": 13,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Belgium",
+            "Name_fr": "Belgique",
+            "countrycode": "bel",
+            "Continent": "EU",
+            "spoken_languages": [24,14,58]
+        }
+    },
+    {
+        "pk": 14,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Benin",
+            "Name_fr": "B\u00e9nin",
+            "countrycode": "ben",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 15,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Burkina Faso",
+            "Name_fr": "Burkina Faso",
+            "countrycode": "bfa",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 16,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bangladesh",
+            "Name_fr": "Bangladesh",
+            "countrycode": "bgd",
+            "Continent": "AS",
+            "spoken_languages": [6]
+        }
+    },
+    {
+        "pk": 17,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bulgaria",
+            "Name_fr": "Bulgarie",
+            "countrycode": "bgr",
+            "Continent": "EU",
+            "spoken_languages": [9]
+        }
+    },
+    {
+        "pk": 18,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bahrain",
+            "Name_fr": "Bahre\u00efn",
+            "countrycode": "bhr",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 19,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bahamas",
+            "Name_fr": "Bahamas",
+            "countrycode": "bhs",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 20,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bosnia and Herzegovina",
+            "Name_fr": "Bosnie-Herz\u00e9govine",
+            "countrycode": "bih",
+            "Continent": "EU",
+            "spoken_languages": [79,28,8]
+        }
+    },
+    {
+        "pk": 21,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Belarus",
+            "Name_fr": "Bi\u00e9lorussie",
+            "countrycode": "blr",
+            "Continent": "EU",
+            "spoken_languages": [68,5]
+        }
+    },
+    {
+        "pk": 22,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Belize",
+            "Name_fr": "Belize",
+            "countrycode": "blz",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 23,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bolivia",
+            "Name_fr": "Bolivie",
+            "countrycode": "bol",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 24,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Brazil",
+            "Name_fr": "Br\u00e9sil",
+            "countrycode": "bra",
+            "Continent": "SA",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 25,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Barbados",
+            "Name_fr": "Barbade",
+            "countrycode": "brb",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 26,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Brunei Darussalam",
+            "Name_fr": "Brunei",
+            "countrycode": "brn",
+            "Continent": "AS",
+            "spoken_languages": [54]
+        }
+    },
+    {
+        "pk": 27,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Bhutan",
+            "Name_fr": "Bhoutan",
+            "countrycode": "btn",
+            "Continent": "AS",
+            "spoken_languages": [16]
+        }
+    },
+    {
+        "pk": 28,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Botswana",
+            "Name_fr": "Botswana",
+            "countrycode": "bwa",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 29,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Central African Republic",
+            "Name_fr": "R\u00e9publique centrafricaine",
+            "countrycode": "caf",
+            "Continent": "AF",
+            "spoken_languages": [24,69]
+        }
+    },
+    {
+        "pk": 30,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Canada",
+            "Name_fr": "Canada",
+            "countrycode": "can",
+            "Continent": "NA",
+            "spoken_languages": [18,24]
+        }
+    },
+    {
+        "pk": 31,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Switzerland",
+            "Name_fr": "Suisse",
+            "countrycode": "che",
+            "Continent": "EU",
+            "spoken_languages": [14,24]
+        }
+    },
+    {
+        "pk": 32,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Chile",
+            "Name_fr": "Chili",
+            "countrycode": "chl",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 33,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "China",
+            "Name_fr": "Chine",
+            "countrycode": "chn",
+            "Continent": "AS",
+            "spoken_languages": [101]
+        }
+    },
+    {
+        "pk": 34,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "C\u00f4te d'Ivoire",
+            "Name_fr": "C\u00f4te d'Ivoire",
+            "countrycode": "civ",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 35,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Cameroon",
+            "Name_fr": "Cameroun",
+            "countrycode": "cmr",
+            "Continent": "AF",
+            "spoken_languages": [24,18]
+        }
+    },
+    {
+        "pk": 36,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Democratic Republic of the Congo",
+            "Name_fr": "R\u00e9publique d\u00e9mocratique du Congo",
+            "countrycode": "cod",
+            "Continent": "AF",
+            "spoken_languages": [24,44,82,46]
+        }
+    },
+    {
+        "pk": 37,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Republic of the Congo",
+            "Name_fr": "R\u00e9publique du Congo",
+            "countrycode": "cog",
+            "Continent": "AF",
+            "spoken_languages": [24,44]
+        }
+    },
+    {
+        "pk": 38,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Colombia",
+            "Name_fr": "Colombie",
+            "countrycode": "col",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 39,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Comoros",
+            "Name_fr": "Comores",
+            "countrycode": "com",
+            "Continent": "AF",
+            "spoken_languages": [24,3,83]
+        }
+    },
+    {
+        "pk": 40,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Cabo Verde",
+            "Name_fr": "Cap-Vert",
+            "countrycode": "cpv",
+            "Continent": "AF",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 41,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Costa Rica",
+            "Name_fr": "Costa Rica",
+            "countrycode": "cri",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 42,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Cuba",
+            "Name_fr": "Cuba",
+            "countrycode": "cub",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 43,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Cyprus",
+            "Name_fr": "Chypre",
+            "countrycode": "cyp",
+            "Continent": "EU",
+            "spoken_languages": [17,94]
+        }
+    },
+    {
+        "pk": 44,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Czechia",
+            "Name_fr": "Tch\u00e9quie",
+            "countrycode": "cze",
+            "Continent": "EU",
+            "spoken_languages": [12]
+        }
+    },
+    {
+        "pk": 45,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Germany",
+            "Name_fr": "Allemagne",
+            "countrycode": "deu",
+            "Continent": "EU",
+            "spoken_languages": [14]
+        }
+    },
+    {
+        "pk": 46,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Djibouti",
+            "Name_fr": "Djibouti",
+            "countrycode": "dji",
+            "Continent": "AF",
+            "spoken_languages": [24,3]
+        }
+    },
+    {
+        "pk": 47,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Dominica",
+            "Name_fr": "Dominique",
+            "countrycode": "dma",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 48,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Denmark",
+            "Name_fr": "Danemark",
+            "countrycode": "dnk",
+            "Continent": "EU",
+            "spoken_languages": [13]
+        }
+    },
+    {
+        "pk": 49,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Dominican Republic",
+            "Name_fr": "R\u00e9publique dominicaine",
+            "countrycode": "dom",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 50,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Algeria",
+            "Name_fr": "Alg\u00e9rie",
+            "countrycode": "dza",
+            "Continent": "AF",
+            "spoken_languages": [3,7]
+        }
+    },
+    {
+        "pk": 51,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Ecuador",
+            "Name_fr": "\u00c9quateur",
+            "countrycode": "ecu",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 52,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Egypt",
+            "Name_fr": "\u00c9gypte",
+            "countrycode": "egy",
+            "Continent": "AF",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 53,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Eritrea",
+            "Name_fr": "\u00c9rythr\u00e9e",
+            "countrycode": "eri",
+            "Continent": "AF",
+            "spoken_languages": [89,3,18]
+        }
+    },
+    {
+        "pk": 54,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Spain",
+            "Name_fr": "Espagne",
+            "countrycode": "esp",
+            "Continent": "EU",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 55,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Estonia",
+            "Name_fr": "Estonie",
+            "countrycode": "est",
+            "Continent": "EU",
+            "spoken_languages": [19]
+        }
+    },
+    {
+        "pk": 56,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Ethiopia",
+            "Name_fr": "\u00c9thiopie",
+            "countrycode": "eth",
+            "Continent": "AF",
+            "spoken_languages": [2]
+        }
+    },
+    {
+        "pk": 57,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Finland",
+            "Name_fr": "Finlande",
+            "countrycode": "fin",
+            "Continent": "EU",
+            "spoken_languages": [22,84]
+        }
+    },
+    {
+        "pk": 58,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Fiji",
+            "Name_fr": "Fidji",
+            "countrycode": "fji",
+            "Continent": "OC",
+            "spoken_languages": [18,23]
+        }
+    },
+    {
+        "pk": 59,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "France",
+            "Name_fr": "France",
+            "countrycode": "fra",
+            "Continent": "EU",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 60,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Micronesia",
+            "Name_fr": "\u00c9tats f\u00e9d\u00e9r\u00e9s de Micron\u00e9sie",
+            "countrycode": "fsm",
+            "Continent": "OC",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 61,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Gabon",
+            "Name_fr": "Gabon",
+            "countrycode": "gab",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 62,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "United Kingdom of Great Britain and Northern Ireland",
+            "Name_fr": "Royaume-Uni",
+            "countrycode": "gbr",
+            "Continent": "EU",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 63,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Georgia",
+            "Name_fr": "G\u00e9orgie",
+            "countrycode": "geo",
+            "Continent": "AS",
+            "spoken_languages": [35]
+        }
+    },
+    {
+        "pk": 64,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Ghana",
+            "Name_fr": "Ghana",
+            "countrycode": "gha",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 65,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Guinea",
+            "Name_fr": "Guin\u00e9e",
+            "countrycode": "gin",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 66,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Gambia",
+            "Name_fr": "Gambie",
+            "countrycode": "gmb",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 67,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Guinea-Bissau",
+            "Name_fr": "Guin\u00e9e-Bissau",
+            "countrycode": "gnb",
+            "Continent": "AF",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 68,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Equatorial Guinea",
+            "Name_fr": "Guin\u00e9e \u00e9quatoriale",
+            "countrycode": "gnq",
+            "Continent": "AF",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 69,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Greece",
+            "Name_fr": "Gr\u00e8ce",
+            "countrycode": "grc",
+            "Continent": "EU",
+            "spoken_languages": [17]
+        }
+    },
+    {
+        "pk": 70,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Grenada",
+            "Name_fr": "Grenade",
+            "countrycode": "grd",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 71,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Guatemala",
+            "Name_fr": "Guatemala",
+            "countrycode": "gtm",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 72,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Guyana",
+            "Name_fr": "Guyana",
+            "countrycode": "guy",
+            "Continent": "SA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 73,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Honduras",
+            "Name_fr": "Honduras",
+            "countrycode": "hnd",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 74,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Croatia",
+            "Name_fr": "Croatie",
+            "countrycode": "hrv",
+            "Continent": "EU",
+            "spoken_languages": [28]
+        }
+    },
+    {
+        "pk": 75,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Haiti",
+            "Name_fr": "Ha\u00efti",
+            "countrycode": "hti",
+            "Continent": "NA",
+            "spoken_languages": [24,25]
+        }
+    },
+    {
+        "pk": 76,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Hungary",
+            "Name_fr": "Hongrie",
+            "countrycode": "hun",
+            "Continent": "EU",
+            "spoken_languages": [29]
+        }
+    },
+    {
+        "pk": 77,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Indonesia",
+            "Name_fr": "Indon\u00e9sie",
+            "countrycode": "idn",
+            "Continent": "AS",
+            "spoken_languages": [31]
+        }
+    },
+    {
+        "pk": 78,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "India",
+            "Name_fr": "Inde",
+            "countrycode": "ind",
+            "Continent": "AS",
+            "spoken_languages": [27,18,48,97,6,85]
+        }
+    },
+    {
+        "pk": 79,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Ireland",
+            "Name_fr": "Irlande",
+            "countrycode": "irl",
+            "Continent": "EU",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 80,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Iran",
+            "Name_fr": "Iran",
+            "countrycode": "irn",
+            "Continent": "AS",
+            "spoken_languages": [20,41]
+        }
+    },
+    {
+        "pk": 81,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Iraq",
+            "Name_fr": "Irak",
+            "countrycode": "irq",
+            "Continent": "AS",
+            "spoken_languages": [3,41]
+        }
+    },
+    {
+        "pk": 82,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Iceland",
+            "Name_fr": "Islande",
+            "countrycode": "isl",
+            "Continent": "EU",
+            "spoken_languages": [32]
+        }
+    },
+    {
+        "pk": 83,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Israel",
+            "Name_fr": "Isra\u00ebl",
+            "countrycode": "isr",
+            "Continent": "AS",
+            "spoken_languages": [26,3]
+        }
+    },
+    {
+        "pk": 84,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Italy",
+            "Name_fr": "Italie",
+            "countrycode": "ita",
+            "Continent": "EU",
+            "spoken_languages": [33]
+        }
+    },
+    {
+        "pk": 85,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Jamaica",
+            "Name_fr": "Jama\u00efque",
+            "countrycode": "jam",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 86,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Jordan",
+            "Name_fr": "Jordanie",
+            "countrycode": "jor",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 87,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Japan",
+            "Name_fr": "Japon",
+            "countrycode": "jpn",
+            "Continent": "AS",
+            "spoken_languages": [34]
+        }
+    },
+    {
+        "pk": 88,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Kazakhstan",
+            "Name_fr": "Kazakhstan",
+            "countrycode": "kaz",
+            "Continent": "AS",
+            "spoken_languages": [36,68]
+        }
+    },
+    {
+        "pk": 89,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Kenya",
+            "Name_fr": "Kenya",
+            "countrycode": "ken",
+            "Continent": "AF",
+            "spoken_languages": [18,82]
+        }
+    },
+    {
+        "pk": 90,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Kyrgyzstan",
+            "Name_fr": "Kirghizistan",
+            "countrycode": "kgz",
+            "Continent": "AS",
+            "spoken_languages": [39,68]
+        }
+    },
+    {
+        "pk": 91,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Cambodia",
+            "Name_fr": "Cambodge",
+            "countrycode": "khm",
+            "Continent": "AS",
+            "spoken_languages": [37]
+        }
+    },
+    {
+        "pk": 92,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Kiribati",
+            "Name_fr": "Kiribati",
+            "countrycode": "kir",
+            "Continent": "OC",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 93,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Saint Kitts and Nevis",
+            "Name_fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
+            "countrycode": "kna",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 94,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Korea",
+            "Name_fr": "Cor\u00e9e du Sud",
+            "countrycode": "kor",
+            "Continent": "AS",
+            "spoken_languages": [40]
+        }
+    },
+    {
+        "pk": 95,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Kuwait",
+            "Name_fr": "Kowe\u00eft",
+            "countrycode": "kwt",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 96,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Lao People's Democratic Republic",
+            "Name_fr": "Laos",
+            "countrycode": "lao",
+            "Continent": "AS",
+            "spoken_languages": [42]
+        }
+    },
+    {
+        "pk": 97,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Lebanon",
+            "Name_fr": "Liban",
+            "countrycode": "lbn",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 98,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Liberia",
+            "Name_fr": "Liberia",
+            "countrycode": "lbr",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 99,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Libya",
+            "Name_fr": "Libye",
+            "countrycode": "lby",
+            "Continent": "AF",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 100,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Saint Lucia",
+            "Name_fr": "Sainte-Lucie",
+            "countrycode": "lca",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 101,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Liechtenstein",
+            "Name_fr": "Liechtenstein",
+            "countrycode": "lie",
+            "Continent": "EU",
+            "spoken_languages": [14]
+        }
+    },
+    {
+        "pk": 102,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Sri Lanka",
+            "Name_fr": "Sri Lanka",
+            "countrycode": "lka",
+            "Continent": "AS",
+            "spoken_languages": [70,85]
+        }
+    },
+    {
+        "pk": 103,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Lesotho",
+            "Name_fr": "Lesotho",
+            "countrycode": "lso",
+            "Continent": "AF",
+            "spoken_languages": [18,76]
+        }
+    },
+    {
+        "pk": 104,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Lithuania",
+            "Name_fr": "Lituanie",
+            "countrycode": "ltu",
+            "Continent": "EU",
+            "spoken_languages": [45]
+        }
+    },
+    {
+        "pk": 105,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Luxembourg",
+            "Name_fr": "Luxembourg",
+            "countrycode": "lux",
+            "Continent": "EU",
+            "spoken_languages": [46,14,24]
+        }
+    },
+    {
+        "pk": 106,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Latvia",
+            "Name_fr": "Lettonie",
+            "countrycode": "lva",
+            "Continent": "EU",
+            "spoken_languages": [43]
+        }
+    },
+    {
+        "pk": 107,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Morocco",
+            "Name_fr": "Maroc",
+            "countrycode": "mar",
+            "Continent": "AF",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 108,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Monaco",
+            "Name_fr": "Monaco",
+            "countrycode": "mco",
+            "Continent": "EU",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 109,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Moldova",
+            "Name_fr": "Moldavie",
+            "countrycode": "mda",
+            "Continent": "EU",
+            "spoken_languages": [66]
+        }
+    },
+    {
+        "pk": 110,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Madagascar",
+            "Name_fr": "Madagascar",
+            "countrycode": "mdg",
+            "Continent": "AF",
+            "spoken_languages": [50,24,18]
+        }
+    },
+    {
+        "pk": 111,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Maldives",
+            "Name_fr": "Maldives",
+            "countrycode": "mdv",
+            "Continent": "AS",
+            "spoken_languages": [15]
+        }
+    },
+    {
+        "pk": 112,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mexico",
+            "Name_fr": "Mexique",
+            "countrycode": "mex",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 113,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Marshall Islands",
+            "Name_fr": "\u00celes Marshall",
+            "countrycode": "mhl",
+            "Continent": "OC",
+            "spoken_languages": [18,47]
+        }
+    },
+    {
+        "pk": 114,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "North Macedonia",
+            "Name_fr": "Mac\u00e9doine du Nord",
+            "countrycode": "mkd",
+            "Continent": "EU",
+            "spoken_languages": [49,78]
+        }
+    },
+    {
+        "pk": 115,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mali",
+            "Name_fr": "Mali",
+            "countrycode": "mli",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 116,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Malta",
+            "Name_fr": "Malte",
+            "countrycode": "mlt",
+            "Continent": "EU",
+            "spoken_languages": [51,18]
+        }
+    },
+    {
+        "pk": 117,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Myanmar",
+            "Name_fr": "Birmanie",
+            "countrycode": "mmr",
+            "Continent": "AS",
+            "spoken_languages": [55]
+        }
+    },
+    {
+        "pk": 118,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Montenegro",
+            "Name_fr": "Mont\u00e9n\u00e9gro",
+            "countrycode": "mne",
+            "Continent": "EU",
+            "spoken_languages": [11,79,28,8,78]
+        }
+    },
+    {
+        "pk": 119,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mongolia",
+            "Name_fr": "Mongolie",
+            "countrycode": "mng",
+            "Continent": "AS",
+            "spoken_languages": [52]
+        }
+    },
+    {
+        "pk": 120,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mozambique",
+            "Name_fr": "Mozambique",
+            "countrycode": "moz",
+            "Continent": "AF",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 121,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mauritania",
+            "Name_fr": "Mauritanie",
+            "countrycode": "mrt",
+            "Continent": "AF",
+            "spoken_languages": [3,24]
+        }
+    },
+    {
+        "pk": 122,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Mauritius",
+            "Name_fr": "Maurice",
+            "countrycode": "mus",
+            "Continent": "AF",
+            "spoken_languages": [18,24]
+        }
+    },
+    {
+        "pk": 123,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Malawi",
+            "Name_fr": "Malawi",
+            "countrycode": "mwi",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 124,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Malaysia",
+            "Name_fr": "Malaisie",
+            "countrycode": "mys",
+            "Continent": "AS",
+            "spoken_languages": [102,54]
+        }
+    },
+    {
+        "pk": 125,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Namibia",
+            "Name_fr": "Namibie",
+            "countrycode": "nam",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 126,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Niger",
+            "Name_fr": "Niger",
+            "countrycode": "ner",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 127,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Nigeria",
+            "Name_fr": "Nigeria",
+            "countrycode": "nga",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 128,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Nicaragua",
+            "Name_fr": "Nicaragua",
+            "countrycode": "nic",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 129,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Netherlands",
+            "Name_fr": "Pays-Bas",
+            "countrycode": "nld",
+            "Continent": "EU",
+            "spoken_languages": [58]
+        }
+    },
+    {
+        "pk": 130,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Norway",
+            "Name_fr": "Norv\u00e8ge",
+            "countrycode": "nor",
+            "Continent": "EU",
+            "spoken_languages": [59]
+        }
+    },
+    {
+        "pk": 131,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Nepal",
+            "Name_fr": "N\u00e9pal",
+            "countrycode": "npl",
+            "Continent": "AS",
+            "spoken_languages": [57]
+        }
+    },
+    {
+        "pk": 132,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Nauru",
+            "Name_fr": "Nauru",
+            "countrycode": "nru",
+            "Continent": "OC",
+            "spoken_languages": [18,56]
+        }
+    },
+    {
+        "pk": 133,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "New Zealand",
+            "Name_fr": "Nouvelle-Z\u00e9lande",
+            "countrycode": "nzl",
+            "Continent": "OC",
+            "spoken_languages": [18,53]
+        }
+    },
+    {
+        "pk": 134,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Oman",
+            "Name_fr": "Oman",
+            "countrycode": "omn",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 135,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Pakistan",
+            "Name_fr": "Pakistan",
+            "countrycode": "pak",
+            "Continent": "AS",
+            "spoken_languages": [18,97,74]
+        }
+    },
+    {
+        "pk": 136,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Panama",
+            "Name_fr": "Panama",
+            "countrycode": "pan",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 137,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Peru",
+            "Name_fr": "P\u00e9rou",
+            "countrycode": "per",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 138,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Philippines",
+            "Name_fr": "Philippines",
+            "countrycode": "phl",
+            "Continent": "AS",
+            "spoken_languages": [18,21]
+        }
+    },
+    {
+        "pk": 139,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Palau",
+            "Name_fr": "Palaos",
+            "countrycode": "plw",
+            "Continent": "OC",
+            "spoken_languages": [18,61]
+        }
+    },
+    {
+        "pk": 140,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Papua New Guinea",
+            "Name_fr": "Papouasie-Nouvelle-Guin\u00e9e",
+            "countrycode": "png",
+            "Continent": "OC",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 141,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Poland",
+            "Name_fr": "Pologne",
+            "countrycode": "pol",
+            "Continent": "EU",
+            "spoken_languages": [62]
+        }
+    },
+    {
+        "pk": 142,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Korea",
+            "Name_fr": "Cor\u00e9e du Nord",
+            "countrycode": "prk",
+            "Continent": "AS",
+            "spoken_languages": [40]
+        }
+    },
+    {
+        "pk": 143,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Portugal",
+            "Name_fr": "Portugal",
+            "countrycode": "prt",
+            "Continent": "EU",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 144,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Paraguay",
+            "Name_fr": "Paraguay",
+            "countrycode": "pry",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 145,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Qatar",
+            "Name_fr": "Qatar",
+            "countrycode": "qat",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 146,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Romania",
+            "Name_fr": "Roumanie",
+            "countrycode": "rou",
+            "Continent": "EU",
+            "spoken_languages": [66]
+        }
+    },
+    {
+        "pk": 147,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Russian Federation",
+            "Name_fr": "Russie",
+            "countrycode": "rus",
+            "Continent": "EU",
+            "spoken_languages": [68]
+        }
+    },
+    {
+        "pk": 148,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Rwanda",
+            "Name_fr": "Rwanda",
+            "countrycode": "rwa",
+            "Continent": "AF",
+            "spoken_languages": [38,24,18,82]
+        }
+    },
+    {
+        "pk": 149,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Saudi Arabia",
+            "Name_fr": "Arabie saoudite",
+            "countrycode": "sau",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 150,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Sudan",
+            "Name_fr": "Soudan",
+            "countrycode": "sdn",
+            "Continent": "AF",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 151,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Senegal",
+            "Name_fr": "S\u00e9n\u00e9gal",
+            "countrycode": "sen",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 152,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Singapore",
+            "Name_fr": "Singapour",
+            "countrycode": "sgp",
+            "Continent": "AS",
+            "spoken_languages": [18,54,101,85]
+        }
+    },
+    {
+        "pk": 153,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Solomon Islands",
+            "Name_fr": "Salomon",
+            "countrycode": "slb",
+            "Continent": "OC",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 154,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Sierra Leone",
+            "Name_fr": "Sierra Leone",
+            "countrycode": "sle",
+            "Continent": "AF",
+            "spoken_languages": [18,81]
+        }
+    },
+    {
+        "pk": 155,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "El Salvador",
+            "Name_fr": "Salvador",
+            "countrycode": "slv",
+            "Continent": "NA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 156,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "San Marino",
+            "Name_fr": "Saint-Marin",
+            "countrycode": "smr",
+            "Continent": "EU",
+            "spoken_languages": [33]
+        }
+    },
+    {
+        "pk": 157,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Somalia",
+            "Name_fr": "Somalie",
+            "countrycode": "som",
+            "Continent": "AF",
+            "spoken_languages": [75,3]
+        }
+    },
+    {
+        "pk": 158,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Serbia",
+            "Name_fr": "Serbie",
+            "countrycode": "srb",
+            "Continent": "EU",
+            "spoken_languages": [79]
+        }
+    },
+    {
+        "pk": 159,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "South Sudan",
+            "Name_fr": "Soudan du Sud",
+            "countrycode": "ssd",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 160,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Sao Tome and Principe",
+            "Name_fr": "Sao Tom\u00e9-et-Principe",
+            "countrycode": "stp",
+            "Continent": "AF",
+            "spoken_languages": [63]
+        }
+    },
+    {
+        "pk": 161,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Suriname",
+            "Name_fr": "Suriname",
+            "countrycode": "sur",
+            "Continent": "SA",
+            "spoken_languages": [58]
+        }
+    },
+    {
+        "pk": 162,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Slovakia",
+            "Name_fr": "Slovaquie",
+            "countrycode": "svk",
+            "Continent": "EU",
+            "spoken_languages": [71]
+        }
+    },
+    {
+        "pk": 163,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Slovenia",
+            "Name_fr": "Slov\u00e9nie",
+            "countrycode": "svn",
+            "Continent": "EU",
+            "spoken_languages": [72,29]
+        }
+    },
+    {
+        "pk": 164,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Sweden",
+            "Name_fr": "Su\u00e8de",
+            "countrycode": "swe",
+            "Continent": "EU",
+            "spoken_languages": [84]
+        }
+    },
+    {
+        "pk": 165,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Eswatini",
+            "Name_fr": "Eswatini",
+            "countrycode": "swz",
+            "Continent": "AF",
+            "spoken_languages": [18,80]
+        }
+    },
+    {
+        "pk": 166,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Seychelles",
+            "Name_fr": "Seychelles",
+            "countrycode": "syc",
+            "Continent": "AF",
+            "spoken_languages": [24,3]
+        }
+    },
+    {
+        "pk": 167,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Syrian Arab Republic",
+            "Name_fr": "Syrie",
+            "countrycode": "syr",
+            "Continent": "AS",
+            "spoken_languages": [3,41]
+        }
+    },
+    {
+        "pk": 168,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Chad",
+            "Name_fr": "Tchad",
+            "countrycode": "tcd",
+            "Continent": "AF",
+            "spoken_languages": [3,24]
+        }
+    },
+    {
+        "pk": 169,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Togo",
+            "Name_fr": "Togo",
+            "countrycode": "tgo",
+            "Continent": "AF",
+            "spoken_languages": [24]
+        }
+    },
+    {
+        "pk": 170,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Thailand",
+            "Name_fr": "Tha\u00eflande",
+            "countrycode": "tha",
+            "Continent": "AS",
+            "spoken_languages": [88]
+        }
+    },
+    {
+        "pk": 171,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Tajikistan",
+            "Name_fr": "Tadjikistan",
+            "countrycode": "tjk",
+            "Continent": "AS",
+            "spoken_languages": [87,68]
+        }
+    },
+    {
+        "pk": 172,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Turkmenistan",
+            "Name_fr": "Turkm\u00e9nistan",
+            "countrycode": "tkm",
+            "Continent": "AS",
+            "spoken_languages": [93,68]
+        }
+    },
+    {
+        "pk": 173,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Timor-Leste",
+            "Name_fr": "Timor oriental",
+            "countrycode": "tls",
+            "Continent": "OC",
+            "spoken_languages": [63,86]
+        }
+    },
+    {
+        "pk": 174,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Tonga",
+            "Name_fr": "Tonga",
+            "countrycode": "ton",
+            "Continent": "OC",
+            "spoken_languages": [18,90]
+        }
+    },
+    {
+        "pk": 175,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Trinidad and Tobago",
+            "Name_fr": "Trinit\u00e9-et-Tobago",
+            "countrycode": "tto",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 176,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Tunisia",
+            "Name_fr": "Tunisie",
+            "countrycode": "tun",
+            "Continent": "AF",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 177,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Turkey",
+            "Name_fr": "Turquie",
+            "countrycode": "tur",
+            "Continent": "AS",
+            "spoken_languages": [94,41]
+        }
+    },
+    {
+        "pk": 178,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Tuvalu",
+            "Name_fr": "Tuvalu",
+            "countrycode": "tuv",
+            "Continent": "OC",
+            "spoken_languages": [18,95]
+        }
+    },
+    {
+        "pk": 179,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Tanzania",
+            "Name_fr": "Tanzanie",
+            "countrycode": "tza",
+            "Continent": "AF",
+            "spoken_languages": [18,82]
+        }
+    },
+    {
+        "pk": 180,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Uganda",
+            "Name_fr": "Ouganda",
+            "countrycode": "uga",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 181,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Ukraine",
+            "Name_fr": "Ukraine",
+            "countrycode": "ukr",
+            "Continent": "EU",
+            "spoken_languages": [96]
+        }
+    },
+    {
+        "pk": 182,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Uruguay",
+            "Name_fr": "Uruguay",
+            "countrycode": "ury",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 183,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "United States of America",
+            "Name_fr": "\u00c9tats-Unis",
+            "countrycode": "usa",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 184,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Uzbekistan",
+            "Name_fr": "Ouzb\u00e9kistan",
+            "countrycode": "uzb",
+            "Continent": "AS",
+            "spoken_languages": [98,68]
+        }
+    },
+    {
+        "pk": 185,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Saint Vincent and the Grenadines",
+            "Name_fr": "Saint-Vincent-et-les-Grenadines",
+            "countrycode": "vct",
+            "Continent": "NA",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 186,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Venezuela",
+            "Name_fr": "Venezuela",
+            "countrycode": "ven",
+            "Continent": "SA",
+            "spoken_languages": [77]
+        }
+    },
+    {
+        "pk": 187,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Viet Nam",
+            "Name_fr": "Vi\u00eat Nam",
+            "countrycode": "vnm",
+            "Continent": "AS",
+            "spoken_languages": [99]
+        }
+    },
+    {
+        "pk": 188,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Vanuatu",
+            "Name_fr": "Vanuatu",
+            "countrycode": "vut",
+            "Continent": "OC",
+            "spoken_languages": [18,24]
+        }
+    },
+    {
+        "pk": 189,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Samoa",
+            "Name_fr": "Samoa",
+            "countrycode": "wsm",
+            "Continent": "OC",
+            "spoken_languages": [73,18]
+        }
+    },
+    {
+        "pk": 190,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Yemen",
+            "Name_fr": "Y\u00e9men",
+            "countrycode": "yem",
+            "Continent": "AS",
+            "spoken_languages": [3]
+        }
+    },
+    {
+        "pk": 191,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "South Africa",
+            "Name_fr": "Afrique du Sud",
+            "countrycode": "zaf",
+            "Continent": "AF",
+            "spoken_languages": [18,100,1,103,60,91,92]
+        }
+    },
+    {
+        "pk": 192,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Zambia",
+            "Name_fr": "Zambie",
+            "countrycode": "zmb",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    },
+    {
+        "pk": 193,
+        "model": "translation.Language",
+        "fields": {
+            "Name_eng": "Zimbabwe",
+            "Name_fr": "Zimbabwe",
+            "countrycode": "zwe",
+            "Continent": "AF",
+            "spoken_languages": [18]
+        }
+    }
+]

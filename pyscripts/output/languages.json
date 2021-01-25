@@ -1,0 +1,929 @@
+[
+    {
+        "pk": 1,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "afr",
+            "Name_fr": "Afrikaans",
+            "Name_eng": "Afrikaans"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "amh",
+            "Name_fr": "Amharique",
+            "Name_eng": "Amharic"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ara",
+            "Name_fr": "Arabe",
+            "Name_eng": "Arabic"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "aze",
+            "Name_fr": "Azeri",
+            "Name_eng": "Azerbaijani"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "bel",
+            "Name_fr": "Bi\u00e9lorusse",
+            "Name_eng": "Belarussian"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ben",
+            "Name_fr": "Bengali",
+            "Name_eng": "Bengali"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ber",
+            "Name_fr": "Tamazight",
+            "Name_eng": "Tamazight"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "bos",
+            "Name_fr": "Bosnien",
+            "Name_eng": "Bosnian"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "bul",
+            "Name_fr": "Bulgare",
+            "Name_eng": "Bulgarian"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "cat",
+            "Name_fr": "Catalan",
+            "Name_eng": "Catalan"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "cnr",
+            "Name_fr": "Mont\u00e9n\u00e9grin",
+            "Name_eng": "Montenegrin"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "cze",
+            "Name_fr": "Tch\u00e8que",
+            "Name_eng": "Czech"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "dan",
+            "Name_fr": "Danois",
+            "Name_eng": "Danish"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "deu",
+            "Name_fr": "Allemand",
+            "Name_eng": "German"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "div",
+            "Name_fr": "Maldivien",
+            "Name_eng": ""
+        }
+    },
+    {
+        "pk": 16,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "dzo",
+            "Name_fr": "Dzongkha",
+            "Name_eng": "Dzongkha"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ell",
+            "Name_fr": "Grec",
+            "Name_eng": "Greek"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "eng",
+            "Name_fr": "Anglais",
+            "Name_eng": "English"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "est",
+            "Name_fr": "Estonien",
+            "Name_eng": "Estonian"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "fas",
+            "Name_fr": "Persan",
+            "Name_eng": "Farsi"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "fil",
+            "Name_fr": "Philippin",
+            "Name_eng": "Filipino"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "fin",
+            "Name_fr": "Finnois",
+            "Name_eng": "Finnish"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "fj",
+            "Name_fr": "Fidjien",
+            "Name_eng": "fijian"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "fra",
+            "Name_fr": "Fran\u00e7ais",
+            "Name_eng": "French"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "hat",
+            "Name_fr": "Cr\u00e9ole Haitien",
+            "Name_eng": "Haitian Creole"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "heb",
+            "Name_fr": "H\u00e9breu",
+            "Name_eng": "Hebrew"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "hin",
+            "Name_fr": "Hindi",
+            "Name_eng": "Hindi"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "hrv",
+            "Name_fr": "Croate",
+            "Name_eng": "Croatian"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "hun",
+            "Name_fr": "Hongrois",
+            "Name_eng": "Hungarian"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "hye",
+            "Name_fr": "Arm\u00e9nien",
+            "Name_eng": "Armenian"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ind",
+            "Name_fr": "Indon\u00e9sien",
+            "Name_eng": "Indonesian"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "isl",
+            "Name_fr": "Islandais",
+            "Name_eng": "Icelandic"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ita",
+            "Name_fr": "Italien",
+            "Name_eng": "Italian"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "jpn",
+            "Name_fr": "Japonais",
+            "Name_eng": "Japanese"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kat",
+            "Name_fr": "G\u00e9orgien",
+            "Name_eng": "Georgian"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kaz",
+            "Name_fr": "Kazakh",
+            "Name_eng": "Kazakh"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "khm",
+            "Name_fr": "Khmer",
+            "Name_eng": "Cambodian"
+        }
+    },
+    {
+        "pk": 38,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kin",
+            "Name_fr": "Kinyarwanda",
+            "Name_eng": "Kinyarwanda"
+        }
+    },
+    {
+        "pk": 39,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kir",
+            "Name_fr": "Kirghize",
+            "Name_eng": "Kyrgyz"
+        }
+    },
+    {
+        "pk": 40,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kor",
+            "Name_fr": "Cor\u00e9en",
+            "Name_eng": "Korean"
+        }
+    },
+    {
+        "pk": 41,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "kur",
+            "Name_fr": "Kurde",
+            "Name_eng": "Kurdish"
+        }
+    },
+    {
+        "pk": 42,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "lao",
+            "Name_fr": "Laotien",
+            "Name_eng": "Laotian"
+        }
+    },
+    {
+        "pk": 43,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "lav",
+            "Name_fr": "Letton",
+            "Name_eng": "Lettish"
+        }
+    },
+    {
+        "pk": 44,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "lin",
+            "Name_fr": "Lingala",
+            "Name_eng": "Lingala"
+        }
+    },
+    {
+        "pk": 45,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "lit",
+            "Name_fr": "Lituanien",
+            "Name_eng": "Lithuanian"
+        }
+    },
+    {
+        "pk": 46,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ltz",
+            "Name_fr": "Luxembourgeois",
+            "Name_eng": "Luxembourgish"
+        }
+    },
+    {
+        "pk": 47,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mah",
+            "Name_fr": "Marshallais",
+            "Name_eng": "Marshallese"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mal",
+            "Name_fr": "Malayalam",
+            "Name_eng": "Malayalam"
+        }
+    },
+    {
+        "pk": 49,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mkd",
+            "Name_fr": "Mac\u00e9donien",
+            "Name_eng": "Macedonian"
+        }
+    },
+    {
+        "pk": 50,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mlg",
+            "Name_fr": "Malgache",
+            "Name_eng": "Malagasy"
+        }
+    },
+    {
+        "pk": 51,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mlt",
+            "Name_fr": "Maltais",
+            "Name_eng": "Maltese"
+        }
+    },
+    {
+        "pk": 52,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mon",
+            "Name_fr": "Mongol",
+            "Name_eng": "Mongolian"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mri",
+            "Name_fr": "Maori",
+            "Name_eng": "Maori"
+        }
+    },
+    {
+        "pk": 54,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "msa",
+            "Name_fr": "Malais",
+            "Name_eng": "Malay"
+        }
+    },
+    {
+        "pk": 55,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "mya",
+            "Name_fr": "Birman",
+            "Name_eng": "Burmese"
+        }
+    },
+    {
+        "pk": 56,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "nau",
+            "Name_fr": "Nauruan",
+            "Name_eng": "Nauruan"
+        }
+    },
+    {
+        "pk": 57,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "nep",
+            "Name_fr": "N\u00e9palais",
+            "Name_eng": "Nepalese"
+        }
+    },
+    {
+        "pk": 58,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "nld",
+            "Name_fr": "N\u00e9erlandais",
+            "Name_eng": "Dutch"
+        }
+    },
+    {
+        "pk": 59,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "nor",
+            "Name_fr": "Norv\u00e9gien",
+            "Name_eng": "Norwegian"
+        }
+    },
+    {
+        "pk": 60,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "nso",
+            "Name_fr": "Sotho du nord",
+            "Name_eng": "Sesotho"
+        }
+    },
+    {
+        "pk": 61,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "pau",
+            "Name_fr": "Paluan",
+            "Name_eng": "Paluan"
+        }
+    },
+    {
+        "pk": 62,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "pol",
+            "Name_fr": "Polonais",
+            "Name_eng": "Polish"
+        }
+    },
+    {
+        "pk": 63,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "por",
+            "Name_fr": "Portugais",
+            "Name_eng": "Portuguese"
+        }
+    },
+    {
+        "pk": 64,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "prs",
+            "Name_fr": "Dari",
+            "Name_eng": "Persian"
+        }
+    },
+    {
+        "pk": 65,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "pus",
+            "Name_fr": "Pachto",
+            "Name_eng": "Pashto"
+        }
+    },
+    {
+        "pk": 66,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ron",
+            "Name_fr": "Roumain",
+            "Name_eng": "Romanian"
+        }
+    },
+    {
+        "pk": 67,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "run",
+            "Name_fr": "Kirundi",
+            "Name_eng": "Kirundi"
+        }
+    },
+    {
+        "pk": 68,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "rus",
+            "Name_fr": "Russe",
+            "Name_eng": "Russian"
+        }
+    },
+    {
+        "pk": 69,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "sag",
+            "Name_fr": "Sango",
+            "Name_eng": "Sango"
+        }
+    },
+    {
+        "pk": 70,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "sin",
+            "Name_fr": "Cingalais",
+            "Name_eng": "Singalese"
+        }
+    },
+    {
+        "pk": 71,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "slk",
+            "Name_fr": "Slovaque",
+            "Name_eng": "Slovak"
+        }
+    },
+    {
+        "pk": 72,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "slv",
+            "Name_fr": "Slov\u00e8ne",
+            "Name_eng": "Slovene"
+        }
+    },
+    {
+        "pk": 73,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "smo",
+            "Name_fr": "Samoan",
+            "Name_eng": "Samoan"
+        }
+    },
+    {
+        "pk": 74,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "snd",
+            "Name_fr": "Sindhi",
+            "Name_eng": "Sindhi"
+        }
+    },
+    {
+        "pk": 75,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "som",
+            "Name_fr": "Somali",
+            "Name_eng": "Somali"
+        }
+    },
+    {
+        "pk": 76,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "sot",
+            "Name_fr": "Sotho du Sud",
+            "Name_eng": "Sesotho"
+        }
+    },
+    {
+        "pk": 77,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "spa",
+            "Name_fr": "Espagnol",
+            "Name_eng": "Spanish"
+        }
+    },
+    {
+        "pk": 78,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "sqi",
+            "Name_fr": "Albanais",
+            "Name_eng": "Albanian"
+        }
+    },
+    {
+        "pk": 79,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "srp",
+            "Name_fr": "Serbe",
+            "Name_eng": "Serbian"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ssw",
+            "Name_fr": "Swati",
+            "Name_eng": "Swati"
+        }
+    },
+    {
+        "pk": 81,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "sus",
+            "Name_fr": "Soussou",
+            "Name_eng": "Soussou"
+        }
+    },
+    {
+        "pk": 82,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "swa",
+            "Name_fr": "Swahili",
+            "Name_eng": "Swahili"
+        }
+    },
+    {
+        "pk": 83,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "swb",
+            "Name_fr": "Mahorais",
+            "Name_eng": "Mahorais"
+        }
+    },
+    {
+        "pk": 84,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "swe",
+            "Name_fr": "Su\u00e9dois",
+            "Name_eng": "Swedish"
+        }
+    },
+    {
+        "pk": 85,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tam",
+            "Name_fr": "Tamoul",
+            "Name_eng": "Tamil"
+        }
+    },
+    {
+        "pk": 86,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tet",
+            "Name_fr": "T\u00e9toum",
+            "Name_eng": "Tetum"
+        }
+    },
+    {
+        "pk": 87,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tgk",
+            "Name_fr": "Tadjik",
+            "Name_eng": "Tajik"
+        }
+    },
+    {
+        "pk": 88,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tha",
+            "Name_fr": "Tha\u00ef",
+            "Name_eng": "Thai"
+        }
+    },
+    {
+        "pk": 89,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tir",
+            "Name_fr": "Tigrigna",
+            "Name_eng": "Tigrigna"
+        }
+    },
+    {
+        "pk": 90,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ton",
+            "Name_fr": "Tongien",
+            "Name_eng": "Tongan"
+        }
+    },
+    {
+        "pk": 91,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tsn",
+            "Name_fr": "Tswana",
+            "Name_eng": "Tswana"
+        }
+    },
+    {
+        "pk": 92,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tso",
+            "Name_fr": "Tsonga",
+            "Name_eng": "Tsonga"
+        }
+    },
+    {
+        "pk": 93,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tuk",
+            "Name_fr": "Turkm\u00e8ne",
+            "Name_eng": "Turkmen"
+        }
+    },
+    {
+        "pk": 94,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tur",
+            "Name_fr": "Turc",
+            "Name_eng": "Turkish"
+        }
+    },
+    {
+        "pk": 95,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "tvl",
+            "Name_fr": "Tuvaluan",
+            "Name_eng": "Tuvaluan"
+        }
+    },
+    {
+        "pk": 96,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "ukr",
+            "Name_fr": "Ukrainien",
+            "Name_eng": "Ukrainian"
+        }
+    },
+    {
+        "pk": 97,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "urd",
+            "Name_fr": "Ourdou",
+            "Name_eng": "Urdu"
+        }
+    },
+    {
+        "pk": 98,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "uzb",
+            "Name_fr": "Ouzbek",
+            "Name_eng": "Uzbek"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "vie",
+            "Name_fr": "Vietnamien",
+            "Name_eng": "Vietnamese"
+        }
+    },
+    {
+        "pk": 100,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "xho",
+            "Name_fr": "Xhosa",
+            "Name_eng": "Xhosa"
+        }
+    },
+    {
+        "pk": 101,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "zho",
+            "Name_fr": "Chinois",
+            "Name_eng": "Chinese"
+        }
+    },
+    {
+        "pk": 102,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "zsm",
+            "Name_fr": "Malaisien",
+            "Name_eng": "Malay"
+        }
+    },
+    {
+        "pk": 103,
+        "model": "translation.Language",
+        "fields": {
+            "langcode": "zul",
+            "Name_fr": "Zoulou",
+            "Name_eng": "Zulu"
+        }
+    }
+]
