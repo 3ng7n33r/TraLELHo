@@ -1,447 +1,469 @@
-Introduction
-Hello, I am a nurse. Do you mind if I use my phone to translate the questions that I'll be asking you?
-Nurse
-Doctor
-first aider
-volunteer
-customer service representative
-Medical student
-Midwife
-secretary
-nursing staff
-identity
-Can you show me your passport?
-Would I be able to see some ID?
-Would I be able to see some papers with your name on?
-Do you have a European health card?
-Do you have any private insurance? Do you have your card with you?
-The cost of care will not be covered by insurance and you will need to pay in full.
-The cost of care will be covered by insurance. You will not need to pay anything.
-What country do you come from?
-What is your current address?
-Do you have a phone number that I can contact you on?
-Waiting
-Please wait
-on the chairs
-on the bench
-in the waiting room
-We will come and get you.
-No eating, drinking or smoking in the waiting areas.
-Your family needs to wait here.
-Depending on you status of health, the doctor will sometimes ask for further investigations, like blood tests, radiographies, scans, or they could request to keep you here for observation.
-We ask that you refrain from eating or drinking until otherwise stated by the doctor. Certain tests require an empty stomach.
-You need to wait 1 hour to receive the blood test results.
-Reception
-What happened to you?
-Are you in pain?
-Yes
-No
-Show me where it hurts.
-I am going to examine you.
-On a scale of 1 to 10, can you rate your pain level?
-10 being absolutely unbearable
-zero
-one
-two
-three
-four
-five
-six
-seven
-eight
-nine
-ten
-Can you please undress so I can examine you?
-You can keep your underwear on.
-You can sit on the chair.
-You can lie on the table.
-You can lie on the stretcher.
-Neurology
-Did you lose consciousness?
-Do you know what day it is?
-Do you know where you are?
-Follow my finger.
-Can you move your hands and feet?
-I am going to touch you hands and feet. Do you feel it?
-Look me in the eyes. I want to observe your pupils.
-Do you have any pins and needles? Show me where.
-Push on my hands.
-Open your eyes.
-Open your mouth.
-Lift your right arm.
-Do you have a headache?
-The pain came on:
-little by little
-suddenly
-Do you have any pain in the neck?
-Have you travelled in the last few months?
-Have you travelled overseas? Where to?
-Does the light bother you?
-Does the noise bother you?
-I am going to prick the end of your finger to check your blood sugar level.
-Pulmonology
-I am going to put my hand on your stomach to check your breathing. Just breathe normally and don't talk
-Are you having trouble breathing? / short of breath?
-Take a deep breath in and hold it.
-Breathe normally.
-Breathe deeply.
-Do you smoke?
-Are you asthmatic?
-Have you taken your asthma medication?
-Have you breathed in any type of smoke?
-Can you please blow your nose so I can see I there is any soot?
-Cardiology
-Describe your pain.
-Is it a tight sensation?
-Is it a sharp sensation?
-Is it a burning sensation?
-Is your pain referring to any other part of your body? Can you show me where?
-How long have you experienced this pain?
+PRESENTATION
+Je vais utiliser le téléphone pour traduire les questions que j'ai à vous poser, êtes vous d'accord ?
+Bonjour, je suis infirmière
+Bonjour, je suis médecin
+Bonjour, je suis secouriste
+Bonjour, je suis bénévole
+Bonjour, je suis agent d'accueil
+Bonjour, je suis étudiant en médecine
+Bonjour, je suis sage-femme
+Bonjour, je suis secrétaire
+Bonjour, je suis soignant
+IDENTITÉ
+Pouvez-vous me montrez votre passeport
+Pouvez-vous me montrez une carte d’identité
+Pouvez-vous me montrer des papiers avec votre nom
+Pouvez-vous me montrer une carte Européenne de santé
+Pouvez-vous me montre une carte d’assurance privée
+Les frais des soins seront à votre charge
+Les frais des soins ne seront pas à votre charge
+De quel pays venez-vous ?
+A quelle adresse vivez-vous actuellement ?
+Avez-vous un numéro de téléphone où l’on peut vous joindre ?
+ATTENTE
+Je vous laisse attendre :
+Je vous laisse attendre sur les chaises
+Je vous laisse attendre sur le banc
+Je vous laisse attendre dans la salle d'attente
+Nous viendrons vous appeler
+Merci de ne pas manger, boire ou fumer pendant l’attente
+Votre famille devra attendre ici
+Selon votre état de santé, le médecin demandera parfois des soins, comme une prise de sang, un examen comme une radio ou un scanner, ou pourra demander de vous garder en observation pour surveiller votre état de santé
+Nous vous demandons de ne pas manger ou boire tant que le médecin ne vous y a pas autorisé, certains examens demandant de rester à jeun
+Il faut attendre 1 heure pour avoir les résultats de la prise de sang
+ACCUEIL
+Qu’est-ce qui vous arrive ?
+Avez-vous des douleurs ?
+Oui
+Non
+Montrez-moi où vous avez mal
+Je vais vous examiner
+Pourriez-vous chiffrer votre douleur entre 0 et 10 ?
+10 étant la note pour une douleur insupportable
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Pouvez vous vous déshabiller pour que je vous examine
+Vous pouvez garder vos sous-vêtements
+Vous pouvez vous asseoir sur la chaise
+Vous pouvez vous allonger sur la table d'examen
+Vous pouvez vous allonger sur le brancard
+NEUROLOGIE
+Avez-vous perdu connaissance ?             
+Savez-vous quel jour nous sommes ? 
+Savez-vous où vous êtes ?               
+Suivez mon doigt du regard
+Pouvez-vous bouger vos mains et vos pieds ?          
+Je vais toucher vos mains et vos pieds, sentez-vous que je vous touche ?
+Regardez-moi dans les yeux, je vais observer vos pupilles
+Avez vous des fourmillement ? Montrez moi où
+Poussez sur mes mains
+Ouvrez les yeux
+Ouvrez la bouche
+Levez le bras droit
+Avez-vous des douleurs à la tête ?  
+La douleur est apparue :
+La douleur est apparue progressivement ?
+La douleur est apparue brutalement ?
+Avez vous des douleurs dans la nuque ?  
+Avez-vous voyagez ces derniers mois ?   
+Dans quel pays ?                     
+Est ce que la lumière vous dérange ? 
+Est ce que le bruit vous dérange ? 
+Je vais faire une piqûre au bout de votre doigt pour connaître votre taux de sucre
+PNEUMOLOGIE
+Je vais poser ma main sur votre ventre pour compter votre respiration, respirez normalement et ne parlez pas pendant ce temps
+Etes-vous essoufflé ?       
+Prenez une grande inspiration puis bloquez votre respiration
+Respirez normalement
+Respirez profondément
+Fumez-vous ?                      
+Etes-vous asthmatique ?                  
+Avez vous pris votre traitement contre l’asthme ?           
+Avez-vous respiré des fumées ?                   
+Je vous laisse vous moucher, pour savoir s’il y a des traces de suie
+CARDIOLOGIE
+Est-ce que votre douleur
+Est ce que votre douleur serre ?
+Est ce que votre douleur pique ?
+Est ce que votre douleur brûle ?
+Est-ce que votre douleur irradie ? Montrez-moi vers où
+Depuis combien de temps avez vous cette douleur  ?
 Minutes
-hours
-days
-I am going to take your pulse.
-I am going to press lightly on your nail.
-I am going to take your blood pressure.
-Are you having any palpitations?
-Open your mouth and lift your tongue. I am going to give you some medication.
-Does this medication help the pain?
-Do you drink alcohol?
-Are you diabetic?
-Do you have high cholesterol?
-I am going to record your heart. It won't hurt, but try and avoid moving for several seconds.
-Dizziness/loss of consciousness
-Did you feel your dizziness come on?/Did the dizziness come on slowly?
-What did you experience during the dizzy spell?
-pins and needles
-vertigo
-exhaustion
-Have you had vertigo before?
-Does the pain spread elsewhere? Where to?
-Where has the pain referred to?
-How long did your dizziness last?
-Did you experience any incontinence?
-Did you bite your tongue? Open the mouth?
-Did you experience any convulsions?
-Have you eaten today?
-digestive problems
-Show me where it hurts.
-Does the pain spread elsewhere? Where to?
-Have you lost any weight in the last few months? How many kilos?
-Have you experienced any burning sensation when urinating?
-Have you noticed any blood in your urine?
-When was your last period?
-Are you pregnant?
-When was the last time you urinated today?
-Are you experiencing any constipation?
-For how many days?
-Have you experienced any nausea?
-Have you had any bouts of diarrhea?
-Have you vomited?
-Have you noticed any blood in your stool?
-Do you have any gas?
-I need to do a rectal exam. Are you ok with that?
-You need to urinate in this jar so we can test it.
-You'll need to wash your genitals before urinating in the jar.
-infectious problems
-Have you been bitten or stung?
-Show me where.
-Show me where the first spots appeared.
-For how long has the leg been red?
-Is it itchy?
-You nned to remain in isolation.
-You need to keep this mask on.
-Have you had any unprotected sex?
-I am going to take your temperature.
-Ophthalmology
-Is your vision blurry?
-Are you seeing double?
-Do you have a headache?
-Do you feel as though the room is spinning?
-Have you been hit in the head recently?
-Medical History
-Do you have any medical issues (diabetes, hypertension, etc)?
-Have you been hospitalised recently?
-Are you being treated for anything? For what?
-Do you have a prescription for your treatment?
-Do you have any allergies? What are you allergic to?
-Do you have any family medical history?
-Can you please take a seat?
-Can you stand up?
-Can you walk?
-Peaditric problems
-Has the baby lost any weight? How much?
-Is the baby up-to-date with his/her vaccinations?
-Are your other children sick?
-Is he/she eating well?
-Is he/she vomiting?
-Does he/she seem more upset than normal?
-Does he/she seem more tired than usual?
-Does he/she have any diarrhea?
-Gynacology
-Are you pregnant?
-How far along are you?
-Are you menstruating?
-Have you lost any blood?
-Was the blood red or black?
-Did you have any problems during your last pregnancy?
-Do you have any contractions?
-Has your water broken?
-Do you feel the baby moving?
-Do you have any contraception?
-I need to do a gynacological exam. Can you please lie on the table?
-You need to remove your underwear.
-Traumatology
-Were you thrown from the vehicle?
-What speed were you going?
-Were you wearing a helmet?
-Were you wearing a seatbelt?
-Did you fall down?
-From what height did you fall?
-Do you take any anticoagulants or any medication to thin the blood?
-I am going to give you a neck brace to protect your spine.
-I need to add some antiseptic solution to the wound.
-I need to stitch up the wound.
-I need to apply a dressing.
-I am going to give you a local anaesthetic for your wound.
-Please don't move.
-I am going to have to place you in a cast.
-You need an operation.
-Tests
-You need to have:
-I am going to give you a:
-I am going to put you on a drip.
-I am going to take some blood.
-I am going to apply a dressing.
-I am going to give you an injection.
-I am going to give you a wash down/sponge bath.
-a scan
-an x-ray
-a cast
-an ultrasound
-an operation
-today
-tomorrow
-You need to take a shower and wash your hair before the operation.
-The test is not painful.
-After the operation, you will have.
-a catheter
-a feeding tube
-a pus drainage tube
-a scar
-You need to remove your jewellry and piercings.
-You need to remove your nail polish.
-You need to remove your dentures and hearing aids.
-Tell me if you have:
-a pace-maker
-a cardiac valve
-a stent
-a prosthesis
-Treatment and instructions
-I am giving you:
-some medication
-some analgesics
-some antibiotics
-You must not drink.
-You must not eat.
-You must not get up.
-You must remain lying on your back.
-You must not smoke.
-To call us, press here.
-To turn on or turn off the lights, press here.
-The toilets are here.
-The bathroom is here.
-You room is here.
+Heures
+Jours
+Je vais prendre votre pouls
+Je vais appuyer doucement sur votre ongle
+Je vais prendre votre pression artérielle
+Ressentez-vous des palpitations ?             
+Ouvrez la bouche et soulevez la langue, je vais vous donner un traitement
+Est ce que ce médicament soulage votre douleur ?           
+Buvez-vous de l'alcool ?
+Avez-vous du diabète ? 
+Avez-vous du cholestérol ?     
+Je vais faire un enregistrement de votre coeur, ce n’est pas douloureux, ne bouger pas pendant quelques secondes
+MALAISE
+Avez-vous senti votre malaise arriver ?           
+Qu’avez-vous ressenti pendant la malaise ?
+Avez-vous ressenti des fourmillements ?
+Avez-vous ressenti des vertiges ?
+Avez-vous ressenti une grande fatigue ?
+Avez vous des vertiges ?                     
+La douleur irradie-t-elle ? Vers où ?               
+A quel endroit avez-vous ressenti ces signes ?              
+Combien de temps à duré votre malaise ?         
+Avez-vous perdu vos urines ?                   
+Vous êtes-vous mordu la langue ? Ouvrez la bouche   
+Avez vous convulsé ?                         
+Avez-vous mangé aujourd’hui ?                     
+DIGESTIF
+Montrez moi ou vous avez mal
+Est ce que la douleur irradie ? Si oui montrez moi vers où
+Avez-vous perdu du poids ces derniers mois ? Combien de Kg ?     
+Avez-vous des brûlures quand vous urinez ?              
+Est-ce qu’il y a du sang dans vos urines ?   
+Quelle est la date de vos dernières règles ?              
+Etes vous enceinte ?                       
+A quelle heure avez-vous uriné pour la dernière fois aujourd’hui ?  
+Êtes vous constipé ?         
+Depuis combien de jours ?
+Avez-vous des nausées ?
+Avez-vous des diarrhées ?
+Avez-vous vomi ?
+Y a-t-il du sang dans vos selles ?
+Avez-vous des gazs ?           
+Je dois vous faire un toucher rectal, êtes vous d’accord ?           
+Il faudra uriner dans ce pot pour réaliser un examen
+Il faudra réaliser une toilette intime avant d’uriner dans le pot
+INFECTIEUX
+Avez-vous été piqué ou mordu ?                   
+Montrez moi à quel endroit
+Montrez moi où étaient les premiers boutons
+Depuis combien de temps la jambe est-elle rouge ?       
+Est ce que ça vous démange ?                   
+Il faut rester en isolement
+Vous devez garder ce masque sur vous
+Avez-vous eu des rapports sexuels non protégés ?       
+Je vais prendre votre température
+OPHTALMOLOGIE
+Est-ce que vous voyez flou ?                      
+Est-ce que vous voyez double ?       
+Avez-vous mal à la tête ?                   
+Est ce que vous avez l’impression que la pièce tourne autour de vous ?   
+Avez-vous reçu un coup à la tête récemment ?      
+ANTÉCÉDENTS
+Avez-vous des maladies (diabète, hypertension) ?           
+Avez-vous été hospitalisé récemment ?               
+Avez-vous un traitement en cours ? lequel ?  
+Avez-vous une ordonnance avec vos traitements ?
+Avez-vous des allergies ? lesquelles ?
+Y a-t-il des antécédents de maladie dans votre famille ?         
+Pouvez-vous vous asseoir ?                   
+Pouvez-vous vous lever ?                   
+Pouvez-vous marcher ?                       
+PEDIATRIE
+Le bébé a t il perdu du poids ? Combien de kilo ?
+Est-ce que le bébé est à jour de ces vaccins ?
+Est-ce que ses frères et soeurs sont malades ?
+Est-ce qu’il mange bien ?
+Est-ce qu’il vomi ?
+Est-ce qu’il semble plus agité que d’habitude ?
+Est-ce qu’il semble plus fatigué que d’habitude ?
+Est ce qu’il a la diarrhée ?
+GYNECOLOGIE
+Etes vous enceinte ?
+De combien de semaines ?
+Avez vous vos règles ?
+Avez vous perdu du sang ?
+Vos pertes étaient elles rouge ou noir ?
+Avez vous eu des problèmes lors de vos précédentes grossesses ?
+Avez vous des contractions ?
+Avez vous perdu les eaux ?
+Sentez vous le bébé bouger ?
+Avez vous une contraception ?
+Je dois faire un examen gynécologique, allongez vous sur la table
+Il faut retirer vos sous-vêtements
+TRAUMATOLOGIE
+Avez-vous été éjecté du véhicule ?
+A quelle vitesse rouliez-vous ?
+Etiez-vous casqué ?
+Aviez-vous votre ceinture de sécurité ?
+Avez vous fait une chute ?
+De quelle hauteur êtes-vous tombé ?
+Prenez vous des anticoagulants, des médicaments pour fluidifier le sang ?
+Je vais installer une collier afin de protéger votre colonne vertébrale
+Je dois mettre un antiseptique sur la plaie
+Je dois suturer la plaie
+Je dois faire un pansement
+Je vais faire une anesthésie autour de la plaie
+Ne bougez pas
+Je dois vous faire un plâtre
+Vous devez être opéré
+EXAMENS
+Vous devez avoir :
+Je vais vous faire :
+Je vais vous poser une perfusion
+Je vais vous faire une prise de sang
+Je vais vous faire un pansement
+Je vais vous faire une piqûre
+Je vais faire votre toilette
+Vous allez avoir un scanner
+Vous allez avoir une radio
+Je vais vous faire un plâtre
+Vous allez avoir une échographie
+Vous allez avoir une opération chirurgicale
+Aujourd'hui
+Demain
+Vous devez prendre une douche avec un shampoing avant l'opération chirurgicale
+L’examen n’est pas douloureux
+Après l'opération vous aurez :
+Après l'opération vous aurez une sonde urinaire
+Après l'opération vous aurez une sonde gastrique
+Après l'opération vous aurez un drain
+Après l'opération vous aurez une cicatrice
+Vous devez retier tous vos bijoux et piercing
+Vous devez retier votre vernis a ongles
+Vous devez retier vos appareils dentaires et auditifs
+Dites nous si vous avez :
+Avez-vous un pace-maker ?
+Avez-vous une valve cardiaque ?
+Avez-vous un stent ?
+Avez-vous une prothèse ?
+TRAITEMENTS et CONSIGNES
+Je vous donne :
+Je vous donne des médicaments
+Je vous donne des antalgiques
+Je vous donne des antibiotiques
+Vous ne devez pas boire
+Vous ne devez pas manger
+Vous ne devez pas vous lever
+Vous devez rester sur le dos
+Vous ne devez pas fumer
+Pour nous appeler appuyer ici
+Pour allumer ou éteindre les lumières appuyer ici
+Les toilettes sont ici
+La salle de bain est ici
+Votre chambre est ici
 CONCLUSION
-You have a fracture/He or she has a fracture.
-You don't have a fracture/He or she doesn't have a fracture.
-You need an operation.
-You need to come back tomorrow.
-You need to come back in:
-You need to get the stitches removed in:
-You need a cast.
-You need crutches
-You can go home.
-You need to go to the hospital.
-You need to stay in hospital.
-You are going to be transferred to another department.
-Patient in Hospital
-I am hungry.
-I am thirsty.
-I am in pain.
-I am cold.
-I am hot.
-I am nauseous./I feel like vomiting.
-I threw up/vomited.
-I wet myself (I would like to be changed).
-I need to go and urinate.
-I need to pass a bowel movement.
-I feel dizzy.
-I am scared.
-I would like to move rooms.
-I would like some information.
-I had an accident.
-I was a pedestrian.
-I was hit (by a vehicle).
-I wasn't hit (by a vehicle).
-I fell (down).
-I was hit.
-I was in the car/I was driving.
-I was driving at XX km/h.
-I had my seatbelt on.
-I didn't have my seatbelt on.
-I was thrown from the car during the accident.
-I wasn't thrown from the car during the accident.
-The air bag was deployed.
-The air bag was not deployed.
-I was riding the bike./I was on my bike.
-I was riding the scooter./I was on my scooter.
-I was riding the motorbike./I was on my motorbike.
-I was riding at XX km/h.
-I had a helmet on.
-I didn't have a helmet on.
-I fell (off).
-I fell from the same height as me.
-I fell from XX metres high.
-I hit my head in the accident.
-My head was not hit in the accident.
-I am in pain.
-My head hurts.
-My neck hurts.
-My back hurts.
-My arm hurts.
-My leg hurts.
-My torso hurts.
-My stomach hurts.
-I take anticoagulants to thin my blood.
-I don't take anticoagulants.
-Head
-I have been in pain since:
-The pain came on:
-suddenly
-Gradually
-I can easily move my arms and legs.
-I can't move my arms or legs.
-I can speak.
-I am having trouble speaking.
-The light annoys me/Light annoys me.
-The light doesn't annoy me/Light doesn't annoy me.
-I have a fever.
-I don't have a fever.
-the back of my neck hurts.
-The back of my neck doesn't hurt.
-I had a dizzy spell.
-I didn't have a dizzy spell.
-I lost consciousness.
-I didn't lose consciousness.
-I wet myself.
-I didn't wet myself.
-I had some seizures.
-I didn't have any seizures.
-I am epileptic.
-I am not epileptic.
-I took my medication today.
-I didn't take my medication today.
-I feel dizzy.
-I don't feel dizzy.
-I am diabetic.
-I am not diabetic.
-I have eaten today.
-I haven't eaten today.
-Torso
-I got hit in the torso recently.
-I wasn't hit in the torso recently.
-The pain is still there.
-The pain is no longer there.
-The pain:
-It stings.
-It feels tight.
-It burns.
-The pain is referring to my:
-jaw
-I am having palpitations
-I am not having any palpitations.
-My family has a history of cardiac problems.
-My family has no history of cardiac problems.
-The pain is stronger when I inhale.
-The pain is not stronger when I inhale.
-I am coughing blood.
-I am not coughing blood.
-I am coughing.
-I am not coughing.
-I am having trouble breathing.
-I am not having any trouble breathing.
-I inhaled some fumes.
-I smoke.
-I don't smoke.
-I drink alcohol.
-I don't drink alcohol.
-I have high cholesterol.
-I don't have high cholesterol.
-I am asthmatic.
-I am not asthmatic.
-Stomach
-I feel nauseous.
-I don't feel nauseous.
-I vomited/threw up.
-I didn't throw up/vomit.
-food
-blood
-once
-twice
-several times
-I have diarrhea.
-I don't have diarrhea.
-I have gas.
-I no longer have gas.
-The last I urinated was:
-The was blood in my urine.
-There was no blood in my urine.
-It burns when I urinate.
-It doesn't burn when I urinate.
-My last bowel motion was :
-There was blood in my stool.
-There was no blood in my stool.
-My last period was:
-I am pregnant.
-I am not pregnant.
-Since X weeks.
-I had blood loss during vaginal delivery/natural birth.
-I had no blood loss during vaginal delivery/natural birth.
-My blood loss was:
-red
-black
-I have lost weight recently.
-I have not lost weight recently.
-Back/Neck
-The pain doesn't refer to anywhere else.
-The pain refers down into my backside/down my leg.
-My back doesn't feel blocked.
-my back feels blocked.
-I feel sick especially at night.
-I feel sick, especially in the morning.
-Arm
-Leg
-I received a knock recently/I was hit recently.
-I have not been hit/received any blows recently.
-I have been in pain since:
-I was stung/bitten recently.
-I wasn't stung/bitten recently.
-It itches.
-It doesn't itch.
-my pain is:
-weak
-average
-strong
-unbearable
-intracranial clips
-a cochlear implant
-an intraocular lens implant
-Some metal in the body
-A defibrillator
-a PICC line (Peripherally Inserted Central Catheter)
-Are you breastfeeding? Do you breastfeed?
-Where is the closest doctor?
-Where is the closest hospital?
-Where is the closest pharmacy?
-I need (medical) assistance, could you please call an ambulance?
+Il y a une fracture
+Il n’y a pas de fracture
+Vous devez être opéré
+Vous devez revenir demain matin
+Vous devez revenir dans
+Vous devrez faire retirer les fils dans 
+Vous devez avoir un plâtre
+Vous devrez porter une attelle
+Vous pouvez rentrer chez vous
+Vous devez aller à l'hôpital
+Vous devez rester à l'hôpital
+Vous allez être transféré dans un autre service
+PATIENT EN STRUCTURE
+J’ai faim
+J’ai soif
+J’ai mal
+J’ai froid
+J’ai chaud
+J’ai des nausées
+J’ai vomi
+J’ai uriné (je voudrais être changé)
+Je voudrais uriner
+Je voudrais déféquer
+J’ai des vertiges
+J’ai peur
+Je voudrais être réinstallé
+Je voudrais des informations
+J’ai eu un accident
+J’étais piéton
+J’ai été renversé
+Je n’ai pas été renversé
+Je suis tombé
+J’ai reçu un coup
+J’étais en voiture
+Je roulais à “x” km/h
+J’avais ma ceinture de sécurité
+Je n’avais pas de ceinture de sécurité
+J’ai été éjecté pendant l’accident
+Je n’ai pas été éjecté pendant l’accident
+L’air-bag s’est déclenché
+L’air-bag ne s’est pas déclenché
+J’étais en vélo
+J'étais en scooter
+J'étais en moto
+Je roulais à “x” km/h
+J’avais un casque
+Je n’avais pas de casque
+Je suis tombé
+Je suis tombé de ma hauteur
+Je suis tombé de “x” mètres de hauteur
+Ma tête a tapé pendant l’accident
+Ma tête n’a pas tapé pendant l’accident
+J’ai des douleurs :
+J'ai des douleurs à la tête
+J'ai des douleurs au cou
+J'ai des douleurs au dos
+J'ai des douleurs au bras
+J'ai des douleurs à la jambe
+J'ai des douleurs au torse
+J'ai des douleurs au ventre
+Je prend des anticoagulants (médicaments pour fluidifier le sang)
+Je ne prend pas d’anticoagulants (médicaments pour fluidifier le sang)
+Tête
+J’ai des douleurs depuis :
+La douleur est apparue :
+La douleur est apparue brutalement
+La douleur est apparue progressivement
+J’arrive bien à bouger mes bras et jambes
+Je n’arrive pas a bouger un bras ou une jambe
+J’arrive bien à parler
+J’ai des difficultés à parler
+La lumière me dérange
+La lumière ne me dérange pas
+J’ai de la fièvre
+Je n’ai pas de fièvre
+J’ai des douleurs à la nuque
+Je n’ai pas de douleurs à la nuque
+J’ai fais un malaise
+Je n’ai pas fais de malaise
+J’ai perdu connaissance
+Je n’ai pas perdu connaissance
+J’ai perdu mes urines
+Je n’ai pas perdu mes urines
+J’ai convulsé
+Je n’ai pas convulsé
+Je suis épileptique
+Je ne suis pas épileptique
+J’ai pris mes traitements aujourd’hui
+Je n’ai pas pris mes traitements aujourd’hui
+J’ai des vertiges
+Je n’ai pas de vertiges
+Je suis diabétique
+Je ne suis pas diabétique
+J’ai mangé aujourd’hui
+Je n’ai pas mangé aujourd’hui
+Torse
+J’ai eu un choc au torse récemment
+Je n’ai pas eu de choc au torse récemment
+La douleur est encore présente
+La douleur n’est plus présente
+La douleur :
+La douleur pique
+La douleur serre
+La douleur brûle
+La douleur irradie vers :
+Machoire
+Je ressent des palpitations
+Je ne ressent pas de palpitations
+Dans ma famille il y a des problèmes cardiaques
+Dans ma famille il n’y a pas de problème cardiaque
+La douleur est plus forte quand je respire
+La douleur n’est pas plus forte quand je respire
+Je crache du sang
+Je ne crache pas du sang
+Je tousse
+Je ne tousse pas
+J’ai des difficultés à respirer
+Je n’ai pas de difficultés à respirer
+J’ai respiré des fumées
+Je fume.
+Je ne fume pas
+Je bois de l’alcool
+Je ne bois pas d’alcool
+J’ai du cholestérol
+Je n’ai pas de cholestérol
+Je suis asthmatique
+Je ne suis pas asthmatique
+Ventre
+J'ai des nausées
+Je n'ai pas de nausées
+J’ai vomi
+Je n’ai pas vomi
+Des aliments
+Du sang
+Une fois
+Deux fois
+Plusieurs fois
+J’ai des diarrhées
+Je n’ai pas de diarrhées
+J’ai des gazs
+Je n’ai plus de gazs
+Mes dernières urines étaient il y a :
+Il y avait du sang dans mes urines
+Il n’y avait pas de sang dans mes urines
+J’ai des brûlures quand j’urine
+Je n’ai pas de brûlures quand j’urine
+Mes dernières selles étaient il y a :
+Il y avait du sang dans mes selles
+Il n’y avait pas de sang dans mes selles
+Mes dernières règles étaient il y a :
+Je suis enceinte
+Je ne suis pas enceinte
+Depuis “x” semaines
+J’ai eu des pertes par voie basse
+Je n’ai pas eu de perte par voie basse
+Mes pertes étaient :
+Mes pertes étaient de couleur rouge
+Mes pertes étaient de couleur noire
+J’ai perdu du poids ces derniers temps
+Je n’ai pas perdu de poids ces derniers temps
+Dos / Cou
+Ma douleur n’irradie pas vers la fesse ou la jambe
+Ma douleur irradie vers la fesse ou la jambe
+Je n’ai pas le dos bloqué
+J’ai le dos bloqué
+J’ai mal surtout le soir
+J’ai mal surtout le matin
+Bras
+Jambe
+J’ai reçu un coup récemment
+Je n’ai pas reçu de coup récemment
+J’ai des douleurs depuis :
+J’ai été piqué ou mordu récemment
+Je n’ai pas été piqué ou mordu récemment
+Ca me démange
+Ca ne me démange pas
+Ma douleur est :
+Ma douleur est faible
+Ma douleur est moyenne
+Ma douleur est forte
+Ma douleur est insuppotable
+Avez-vous des clips intra-cranien ?
+Avez-vous un implant cochléaire ?
+Avez-vous un implant oculaire ?
+Avez-vous du métal dans le corps ?
+Avez-vous un défibrillateur ?
+Avez-vous une chambre implantable ?
+Allaitez-vous ?
+Où se trouve le médecin le plus proche ?
+Où se trouve l'hôpital le plus proche ?
+Où se trouve la pharmacie la plus proche ?
+J'ai besoin de secours, pouvez-vous les appeler ?
+Vous allez avoir une IRM
+L'examen est long. Il dure entre 15 et 40 minutes
+L'examen n'est pas douloureux mais il est très bruyant
+Il faut rester immobile pendant toute la durée de l'examen
+Avez-vous des éclats métalliques dans les yeux?
+Avez-vous une valve mécanique ?
+Avez-vous un capteur de glycémie ?
+Si oui, avez-vous une carte avec les références du matériel?
+Quelle est votre taille et votre poids ?
+Durant l'examen, on vous demandera de gonfler et les poumons et de bloquer la respiration
+Nous allons injecter un produit de contraste qui va vous donner chaud dans tout le corps, c'est normal ne vous inquiétez pas
+Prenez-vous un traitement pour la thyroïde ?
+Avez-vous des problèmes rénaux ?
+Pouvez-vous signer l’autorisation de soins ci-dessous ?
+Nom :
+Prénom :
+Date de naissance :
+Taille :
+Poids :
+Oui
+Non
+Je ne sais pas
